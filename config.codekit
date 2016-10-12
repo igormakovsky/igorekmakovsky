@@ -3135,68 +3135,68 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/faucets\/img\/diary.jpg": {
+	"\/content\/faucets\/img\/diary-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 164131,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary.jpg",
+		"initialSize": 55593,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-1.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/faucets\/img\/diary.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 921381,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/diary@2x.jpg": {
+	"\/content\/faucets\/img\/diary-1@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 638761,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary@2x.jpg",
+		"initialSize": 239541,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-1@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/faucets\/img\/diary@2x.png": {
-		"fileType": 32768,
+	"\/content\/faucets\/img\/diary-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3.44848e+06,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary@2x.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary@2x.png",
+		"initialSize": 126634,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-2.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/faucets\/img\/faucets.png": {
-		"fileType": 32768,
+	"\/content\/faucets\/img\/diary-2@2x.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/faucets.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/faucets.png",
+		"initialSize": 482357,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-2@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-2@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/faucets\/img\/faucets@2x.png": {
-		"fileType": 32768,
+	"\/content\/faucets\/img\/diary-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/faucets@2x.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/faucets@2x.png",
+		"initialSize": 48057,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-3.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/faucets\/img\/diary-3@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223974,
+		"inputAbbreviatedPath": "\/content\/faucets\/img\/diary-3@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/faucets\/img\/diary-3@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3208,72 +3208,6 @@
 		"initialSize": 343626,
 		"inputAbbreviatedPath": "\/content\/faucets\/img\/index.jpg",
 		"outputAbbreviatedPath": "\/content\/faucets\/img\/index.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/spread-faucets.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 341073,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/spread-faucets.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/spread-faucets.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/spread-faucets@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.25581e+06,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/spread-faucets@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/spread-faucets@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/sunrise.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 151576,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/sunrise.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/sunrise.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/sunrise.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 920700,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/sunrise.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/sunrise.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/sunrise@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 622842,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/sunrise@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/sunrise@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/faucets\/img\/sunrise@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/faucets\/img\/sunrise@2x.png",
-		"outputAbbreviatedPath": "\/content\/faucets\/img\/sunrise@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3433,6 +3367,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/geometry\/img\/geometry-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47427,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/geometry\/img\/geometry-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3440,6 +3385,17 @@
 		"initialSize": 762771,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.png",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/geometry\/img\/geometry-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194666,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3455,6 +3411,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/geometry\/img\/geometry-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144409,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/geometry\/img\/geometry-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3462,6 +3429,17 @@
 		"initialSize": 820087,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.png",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/geometry\/img\/geometry-2@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 522567,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3477,6 +3455,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/geometry\/img\/geometry-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157464,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/geometry\/img\/geometry-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3484,6 +3473,17 @@
 		"initialSize": 752106,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.png",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/geometry\/img\/geometry-3@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 573035,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3499,6 +3499,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/geometry\/img\/geometry-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145172,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/geometry\/img\/geometry-4.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3506,6 +3517,17 @@
 		"initialSize": 702745,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.png",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/geometry\/img\/geometry-4@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 523860,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3521,6 +3543,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/geometry\/img\/geometry-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150457,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/geometry\/img\/geometry-5.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3528,6 +3561,17 @@
 		"initialSize": 768429,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.png",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/geometry\/img\/geometry-5@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 518497,
+		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4099,6 +4143,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/_animations.scss",
 		"outputAbbreviatedPath": "\/css\/_animations.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/_article.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/_article.scss",
+		"outputAbbreviatedPath": "\/css\/_article.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

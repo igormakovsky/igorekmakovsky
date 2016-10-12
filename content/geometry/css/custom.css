@@ -2,13 +2,6 @@ body {
   background-color: #8dcfbb;
 }
 
-a,
-p,
-h1,
-ul {
-  color: #f0eae1;
-}
-
 #front-cover {
   -webkit-transform: rotate(-1deg);
           transform: rotate(-1deg);
@@ -49,7 +42,7 @@ ul {
 }
 
 #legenda-2 {
-  left: -10em;
+  left: 20em;
   top: 35em;
   -webkit-transform: rotate(-2deg);
           transform: rotate(-2deg);

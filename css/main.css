@@ -1658,6 +1658,7 @@ ol li {
 }
 .contents ul li, .footer ul li {
   padding-bottom: .5rem;
+  font-size: 2rem;
 }
 @media screen and (max-width: 1000px) {
   .contents ul li, .footer ul li {
@@ -1672,6 +1673,14 @@ ol li {
 @media screen and (max-width: 1000px) {
   .footer h1 {
     font-size: 5.5rem;
+  }
+}
+.footer p {
+  font-size: 2rem;
+}
+@media screen and (max-width: 1000px) {
+  .footer p {
+    font-size: 2.75rem;
   }
 }
 .footer ul {
@@ -1692,6 +1701,24 @@ ol li {
   padding-right: 3rem;
 }
 
+article {
+  overflow: hidden;
+  position: relative;
+}
+article section {
+  margin: 0 auto;
+  position: relative;
+  width: 1000px;
+}
+article section.text {
+  width: 100%;
+  padding: 0 5rem;
+  max-width: 1300px;
+}
+article section.text p {
+  font-size: 2.5rem;
+}
+
 html {
   background-color: white;
 }
@@ -1706,17 +1733,6 @@ body {
   overflow-x: hidden;
   color: #f9f9f9;
   -webkit-font-smoothing: antialiased;
-}
-
-article {
-  overflow: hidden;
-  position: relative;
-}
-
-section {
-  margin: 0 auto;
-  position: relative;
-  min-width: 1000px;
 }
 
 /*# sourceMappingURL=main.css.map */

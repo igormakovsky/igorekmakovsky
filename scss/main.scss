@@ -20,6 +20,7 @@ sans-serif;
 //
 @import "menu";
 @import "index";
+@import "article";
 //
 html {
     background-color: white;
@@ -39,17 +40,4 @@ body {
     //backface-visibility: hidden;
     //-webkit-text-size-adjust: 100%;
 }
-
-article {
-    overflow: hidden;
-    position: relative;
-}
-
-section {
-    margin: 0 auto;
-    position: relative;
-    //width: 1000px;
-    min-width: 1000px;
-}
-
 ///

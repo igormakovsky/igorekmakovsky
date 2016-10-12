@@ -1,0 +1,17 @@
+article {
+    overflow: hidden;
+    position: relative;
+    section {
+        margin: 0 auto;
+        position: relative;
+        width: 1000px;
+        &.text {
+            width: 100%;
+            padding: 0 5rem;
+            max-width: 1300px;
+            p {
+                font-size: 2.5rem;
+            }
+        }
+    }
+}
