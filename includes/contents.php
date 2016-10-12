@@ -1,0 +1,1269 @@
+<section class="contents">
+
+    <ul>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Дуоденальное содержимое</span>
+            <span lang="en">Duodenal contents</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Anglis Russhkiй Slowhor</span>
+            <span lang="en">Anglis Russhkiй Slowhor</span>
+
+        </li>
+
+        <li id="faucets">
+            <a href="/content/faucets/">
+                <span lang="ru">Faucets</span>
+                <span lang="en">Faucets</span>
+            </a>
+        </li>
+
+        <li id="geometry">
+
+            <a href="/content/geometry/">
+                <span lang="ru">Английский изучитель языка геометрии</span>
+                <span lang="en">English learnitator of geometry language</span>
+            </a>
+
+        </li>
+
+        <li id="ma30">
+            <a href="/content/ma30/">
+                <span lang="ru">MA-30</span>
+                <span lang="en">MA-30</span>
+            </a>
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Календарь дачника</span>
+            <span lang="en">Calendar of the dacha owner</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наутилус Помпилиус рассказывает о себе</span>
+            <span lang="en">Nautilus Pompilius speaks about himself</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Взволнованное настроение у бабушки</span>
+            <span lang="en">Babushka is in excited mood</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Подписка на 1990 год</span>
+            <span lang="en">Subscription for 1990 year</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Телефонная книжка</span>
+            <span lang="en">Phonebook</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Четыре разворота</span>
+            <span lang="en">Four spreads</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Я — солнце</span>
+            <span lang="en">I am the sun</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Уголёк и молоток</span>
+            <span lang="en">A coal and a hammer</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Краткий домашний справочник</span>
+            <span lang="en">Brief household reference</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Октябрь</span>
+            <span lang="en">October</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Крокодил показывает язык</span>
+            <span lang="en">Crocodile shows his tongue</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сорок три</span>
+            <span lang="en">Fourtythree </span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Это мамины духи</span>
+            <span lang="en">This is mother’s parfume</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Урок математики</span>
+            <span lang="en">Math lesson</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вишня</span>
+            <span lang="en">Cherry</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Домашняя академия</span>
+            <span lang="en">Domestic academy</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Три trees</span>
+            <span lang="en">Three trees</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Басовый ключ</span>
+            <span lang="en">Bass key</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Восход Солнца на Трудовой</span>
+            <span lang="en">Sunrise upon Trudovaya</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">План У</span>
+            <span lang="en">U plan</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Стихотворения</span>
+            <span lang="en">Poems</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Этюды шариковой ручкой</span>
+            <span lang="en">Ballpen sketches</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Английский — 1</span>
+            <span lang="en">English — 1</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сад</span>
+            <span lang="en">Garden</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Строительный кран</span>
+            <span lang="en">Construction crane</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Логотип компании по уборке улиц</span>
+            <span lang="en">Street washing company identity</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Дедов телевизор который всегда ломается</span>
+            <span lang="en">Grandfathers tv that always tends to break</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Парк в Кусково</span>
+            <span lang="en">Park in Kuskovo</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Клумба</span>
+            <span lang="en">Flowerbed</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Ветрено</span>
+            <span lang="en">Windy</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Порыв ветра</span>
+            <span lang="en">Gust of wind</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Пистамент</span>
+            <span lang="en">Pidestal</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Лестницы</span>
+            <span lang="en">Ladders</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Леопольд и семена</span>
+            <span lang="en">Leopold and the seeds</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Союзсортсемовощ</span>
+            <span lang="en">Souzsortsemovosch</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сейчас 13 часов 07 минут</span>
+            <span lang="en">It is 7 minutes past 1 pm</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Светофор</span>
+            <span lang="en">Traffic light</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Годовой отчет</span>
+            <span lang="en">Annual report</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Rockfall</span>
+            <span lang="en">Rockfall</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Дневник природы</span>
+            <span lang="en">Weather diary</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Лейкопластыри</span>
+            <span lang="en">Plasters</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сосед сверху</span>
+            <span lang="en">Upstairs neighbor</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Завтрак</span>
+            <span lang="en">Breakfast</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Желтые фонари</span>
+            <span lang="en">Yellow lights</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Бурда Мода — 1</span>
+            <span lang="en">Burda Moda — 1</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вечерняя дорога</span>
+            <span lang="en">Evening road</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Оранжевое</span>
+            <span lang="en">Orange one</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Минимализм</span>
+            <span lang="en">Minimalism</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Тридцать один</span>
+            <span lang="en">Thirty one</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Подушечка</span>
+            <span lang="en">Pillowette</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Ноты для цветомузыки</span>
+            <span lang="en">Notes for the color music</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Моции</span>
+            <span lang="en">Motions</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Финансовый отчет</span>
+            <span lang="en">Financial report</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Квант БК</span>
+            <span lang="en">ZX Spectrum</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Номер 3</span>
+            <span lang="en">Number 3</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Альбом для рисования</span>
+            <span lang="en">Drawing album</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Индивидуальный договор</span>
+            <span lang="en">Individual contract</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мусаил</span>
+            <span lang="en">Musail</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Закат на Трудовой</span>
+            <span lang="en">Sunset at Trudovaya</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Текущие наблюдения</span>
+            <span lang="en">Current observations</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Цветок эмблема</span>
+            <span lang="en">Flower emblem</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Семена</span>
+            <span lang="en">Seeds</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Электрические столбы и чугунная крышка</span>
+            <span lang="en">Electricity poles and the manhole</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Два три четыре</span>
+            <span lang="en">Two three four</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Repton 2</span>
+            <span lang="en">Repton 2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Найти</span>
+            <span lang="en">To find</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Список семян</span>
+            <span lang="en">List of seeds</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Ветер в проводах</span>
+            <span lang="en">Wind in the wires</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наука и жизнь</span>
+            <span lang="en">Science and life</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вредители дома и огорода</span>
+            <span lang="en">Pests of house and garden</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Нефть</span>
+            <span lang="en">Oil</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Все места света</span>
+            <span lang="en">All the places in the world</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Географический атлас материков</span>
+            <span lang="en">Geographic atlas of the continents</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Музыкальный класс</span>
+            <span lang="en">Music class</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Пейзаж</span>
+            <span lang="en">Landscape</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Карта местности</span>
+            <span lang="en">Map of the area</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вредители дома №2</span>
+            <span lang="en">Domestic pests #2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Edd the Duck</span>
+            <span lang="en">Edd the Duck</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Ушли и кран не закрыли</span>
+            <span lang="en">Left and didn’t close the valve</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Семена не понятно чего</span>
+            <span lang="en">Seeds of god knows what</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Master</span>
+            <span lang="en">Master</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Панорамы со столбами</span>
+            <span lang="en">Panoramas with poles</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Впечатления от прогулки</span>
+            <span lang="en">Emotions from a walk</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сщвецкая жизьнь</span>
+            <span lang="en">Sowedish life</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Облако кошка и береза</span>
+            <span lang="en">Cloud cat and a birch</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Схема телевизора</span>
+            <span lang="en">Tv scheme</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Тропами вдоль Оки</span>
+            <span lang="en">Paths alongside Oka river</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Истории о мышке по имени Мусаил</span>
+            <span lang="en">Stories about Musail the mouse</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Звезда на елку</span>
+            <span lang="en">Star on the fir-tree</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">N</span>
+            <span lang="en">N</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Надпись в альбом</span>
+            <span lang="en">Caption in the album</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наутилус и я</span>
+            <span lang="en">Nautilis and me</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Туалет</span>
+            <span lang="en">Toilet</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Русаковская больница</span>
+            <span lang="en">Rusakovskaya hospital</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наши любимые бабочки</span>
+            <span lang="en">Our lovely butterflies</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Радио и связь</span>
+            <span lang="en">Radio and the communications</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Свое хозяйство — свои продукты</span>
+            <span lang="en">Own farm — own goods</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Московские хлопоты по электричеству</span>
+            <span lang="en">Moscow fuss on electricity</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Krakout</span>
+            <span lang="en">Krakout</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Хватит рисовать</span>
+            <span lang="en">Enough drawing</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Rockfall-2</span>
+            <span lang="en">Rockfall-2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наука и природа человека</span>
+            <span lang="en">Science and human nature</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Boulder Dash</span>
+            <span lang="en">Boulder Dash</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Куранты</span>
+            <span lang="en">Chimes</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Девочка Эмблемочка</span>
+            <span lang="en">Lady Emblemette</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Я не верю в бога</span>
+            <span lang="en">I don’t believe in god</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Английский — 2</span>
+            <span lang="en">English — 2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Атлас москвы туристической</span>
+            <span lang="en">Moscow tourist atlas</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Рубин</span>
+            <span lang="en">Rubin</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мир и наука</span>
+            <span lang="en">World &amp; science</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Английский — 3</span>
+            <span lang="en">English — 3</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Урок второй</span>
+            <span lang="en">Second lesson</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Бабочки</span>
+            <span lang="en">Butterflies</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Воспоминания о Кашире</span>
+            <span lang="en">Memories of Kashira</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мелодия</span>
+            <span lang="en">Melodia</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Четыре бумажных пакетика</span>
+            <span lang="en">Four small paperbags</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Математика — 1</span>
+            <span lang="en">Mathematics — 1</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Забыл</span>
+            <span lang="en">Forgot</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">О пьяненьком Вите и тете Наташе</span>
+            <span lang="en">About drunk Vitya and aunt Natasha</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Бурда Мода — 2</span>
+            <span lang="en">Burda Moda — 2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Артикли</span>
+            <span lang="en">Articles</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Приятного аппетита!</span>
+            <span lang="en">Bon appetit!</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Бейсик</span>
+            <span lang="en">Basic</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Программа передач</span>
+            <span lang="en">TV guide</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Акт №2</span>
+            <span lang="en">Act #2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Бурда Мода — 3</span>
+            <span lang="en">Burda Moda — 3</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Походный англо-русский словарь</span>
+            <span lang="en">Field english-russian dictionary</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Альманах</span>
+            <span lang="en">Almanac</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Пропись</span>
+            <span lang="en">Cursive</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Плакат Бурды Моды</span>
+            <span lang="en">Burda Moda poster</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Телеграфные столбы зимой</span>
+            <span lang="en">Electricity poles in winter</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Юрмала</span>
+            <span lang="en">Jurmala</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Часы</span>
+            <span lang="en">Clock</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Ирма Рауш</span>
+            <span lang="en">Irma Rauz</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Крыса</span>
+            <span lang="en">Rat</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Преусадебное хозяйство</span>
+            <span lang="en">Homestead land</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Уважаемая Вера Ивановна!</span>
+            <span lang="en">Dear Vera Ivanovna!</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Наружное применение воды</span>
+            <span lang="en">Outer use of water</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Столы</span>
+            <span lang="en">Tables</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Таблетки угольки</span>
+            <span lang="en">Coal medicine</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Сама знаешь</span>
+            <span lang="en">You know for yourself</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Диктанты</span>
+            <span lang="en">Dictations</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мужчины и супер женщины</span>
+            <span lang="en">Men and super women</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Работа за камерой</span>
+            <span lang="en">The work behind the camera</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Программа Bolder Dash</span>
+            <span lang="en">Boulder Dash program</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Три знака</span>
+            <span lang="en">Three signs</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Квадратная карта</span>
+            <span lang="en">Square map</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Путеводитель — 1</span>
+            <span lang="en">Travel Guide — 1</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Белочка и Тамарочка</span>
+            <span lang="en">Belochka and Tamarochka</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Составление книг</span>
+            <span lang="en">Book compilation</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Две березы</span>
+            <span lang="en">Two birches</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">VCR</span>
+            <span lang="en">VCR</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Никогда не разговаривать с незнакомым</span>
+            <span lang="en">Never speak to a stranger</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Павел Максимович</span>
+            <span lang="en">Pavelmaximovich</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Деньги</span>
+            <span lang="en">Money</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Махаон</span>
+            <span lang="en">Mahaon</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вязания</span>
+            <span lang="en">Knitting</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мысли о больнице</span>
+            <span lang="en">Thoughts on hospital</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Вязания и пища</span>
+            <span lang="en">Knitting and cooking</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Новости России</span>
+            <span lang="en">Russian news</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Мая и Кузя</span>
+            <span lang="en">Maya and Kuzya</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Centrowt</span>
+            <span lang="en">Centrowt</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Семь</span>
+            <span lang="en">Seven</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Заявление</span>
+            <span lang="en">Announcement</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">В зале</span>
+            <span lang="en">In the hall</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Cauldron</span>
+            <span lang="en">Cauldron</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Koop</span>
+            <span lang="en">Koop</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Игорь</span>
+            <span lang="en">Igor</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Дневник погоды</span>
+            <span lang="en">Dairy of the weather</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Путеводитель — 2</span>
+            <span lang="en">Travel Guide — 2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Путеводитель — 3</span>
+            <span lang="en">Travel Guide — 3</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Математика — 2</span>
+            <span lang="en">Mathematics — 2</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Дача</span>
+            <span lang="en">Dacha</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Собака</span>
+            <span lang="en">Sobaka</span>
+
+        </li>
+
+        <li id="" class="notavaible">
+
+            <span lang="ru">Грибы</span>
+            <span lang="en">Mushrooms</span>
+
+        </li>
+
+    </ul>
+
+</section>

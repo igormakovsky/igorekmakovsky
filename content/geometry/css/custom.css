@@ -1,0 +1,59 @@
+body {
+  background-color: #8dcfbb;
+}
+
+a,
+p,
+h1,
+ul {
+  color: #f0eae1;
+}
+
+#front-cover {
+  -webkit-transform: rotate(-1deg);
+          transform: rotate(-1deg);
+  top: 5em;
+  left: 0;
+}
+
+#dots {
+  -webkit-transform: rotate(1deg);
+          transform: rotate(1deg);
+  margin-left: -10em;
+}
+
+#forest {
+  -webkit-transform: rotate(-1deg);
+          transform: rotate(-1deg);
+  margin-left: -10em;
+}
+
+#credits {
+  margin-left: 3em;
+  -webkit-transform: rotate(-2deg);
+          transform: rotate(-2deg);
+}
+
+#contents-this {
+  margin-left: 10em;
+  -webkit-transform: rotate(-1deg);
+          transform: rotate(-1deg);
+}
+
+#legenda-1 {
+  left: 5em;
+  top: -30em;
+  -webkit-transform: rotate(1deg);
+          transform: rotate(1deg);
+  z-index: 1;
+}
+
+#legenda-2 {
+  left: -10em;
+  top: 35em;
+  -webkit-transform: rotate(-2deg);
+          transform: rotate(-2deg);
+  z-index: 1;
+}
+
+/*# sourceMappingURL=custom.css.map */

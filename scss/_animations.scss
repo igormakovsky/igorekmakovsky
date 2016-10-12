@@ -1,0 +1,24 @@
+.rotates {
+    animation: rotates 20s linear 0s infinite normal running;
+    &.normal {
+        animation-duration: 10s;
+    }
+    &.slow {
+        animation-duration: 30s;
+    }
+    &.rev {
+        animation-direction: reverse;
+    }
+    &.redsquare {
+        animation-duration: 300s;
+    }
+}
+
+@keyframes rotates {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

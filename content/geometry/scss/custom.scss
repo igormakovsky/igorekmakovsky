@@ -1,0 +1,53 @@
+@import "../../../scss/retinajs";
+$bg:#8dcfbb;
+$color:#f0eae1;
+body {
+    background-color: $bg;
+}
+
+a,
+p,
+h1,
+ul {
+    color: $color;
+}
+
+#front-cover {
+    transform: rotate(-1deg);
+    top: 5em;
+    left: 0;
+}
+
+#dots {
+    transform: rotate(1deg);
+    margin-left: -10em;
+}
+
+#forest {
+    transform: rotate(-1deg);
+    margin-left: -10em;
+}
+
+#credits {
+    margin-left: 3em;
+    transform: rotate(-2deg);
+}
+
+#contents-this {
+    margin-left: 10em;
+    transform: rotate(-1deg);
+}
+
+#legenda-1 {
+    left: 5em;
+    top: -30em;
+    transform: rotate(1deg);
+    z-index: 1;
+}
+
+#legenda-2 {
+    left: -10em;
+    top: 35em;
+    transform: rotate(-2deg);
+    z-index: 1;
+}

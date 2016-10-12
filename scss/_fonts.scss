@@ -1,0 +1,90 @@
+h1 {
+    font-size: $default+2;
+    padding: 0;
+    font-weight: 400;
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 3em;
+    font-weight: 400;
+    padding: 0;
+    a {
+        text-decoration: none;
+        color: $black;
+        border-bottom: 1px solid $black;
+    }
+}
+
+h3 {
+    font-size: 2em;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+p {
+    font-size: $default;
+    line-height: 1.2;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 1px solid $black;
+    color: $black;
+    &:hover {
+        text-decoration: none;
+        border-bottom-style: none;
+    }
+    /* Убираем подчеркивание из ссылок-картинок */
+    img {
+        vertical-align: middle;
+        /* И при наведении на них, чуть высветляем */
+        &:hover {
+            opacity: 0.85;
+        }
+    }
+}
+
+.langchanger {
+    a {
+        border-bottom: 1px solid $white;
+        color: $white;
+        &:hover {
+            text-decoration: none;
+            border-bottom-style: none;
+        }
+    }
+}
+
+.small {
+    font-size: 1.5em;
+}
+
+.quotes {
+    &:lang(ru) {
+        &::before {
+            content: '«';
+            margin-left: -.5em;
+        }
+        &::after {
+            content: '»';
+        }
+    }
+    &:lang(en) {
+        &::before {
+            content: '“';
+            margin-left: -.5em;
+        }
+        &::after {
+            content: '”';
+        }
+    }
+}
+
+.emdash {
+    display: block;
+    &::before {
+        content: '— ';
+        margin-left: -1em;
+    }
+}

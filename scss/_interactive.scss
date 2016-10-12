@@ -1,0 +1,36 @@
+.touch {
+    transition-duration: .25s;
+    &:hover {
+        transform: rotate(3deg);
+    }
+}
+
+.drag {
+    width: auto;
+    height: auto;
+    position: absolute;
+    cursor: grab;
+    z-index: 1;
+    transform: translate(0px, 0px);
+    &:hover {
+        //opacity: .9;
+    }
+    img {
+        @extend .touch;
+    }
+}
+
+.spin {
+    cursor: grab;
+    &:hover {
+        //opacity: .8;
+    }
+}
+
+.opaque {
+    transition-duration: .5s;
+    opacity: 1;
+    &:hover {
+        opacity: .8;
+    }
+}
