@@ -29,7 +29,7 @@ else {
 $thispage = $domain.$mainfolder.'/'; //path to the current folder
 $deldomain = (str_replace('index.php', '', $_SERVER['SCRIPT_NAME'])); //erase index.php
 
-//Language differences in variables
+//
 
 if (ru()) {
     $sign = date("Y").' — Игорёк Маковский';

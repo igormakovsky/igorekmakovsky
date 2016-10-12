@@ -31,7 +31,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
             <p class="label">Ф. И. О.</p>
             <input>
             <p class="label">Возраст</p>
-            <input type="date">
+            <input>
             <p class="label">Дата</p>
             <!-- <p>Кол/сек
                 <br> Условные обозначения
@@ -54,7 +54,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
             <p class="label">Name</p>
             <input>
             <p class="label">Age</p>
-            <input type="date">
+            <input>
             <p class="label">Date</p>
             <!-- <p>Quantity/sec
                 <br> Legend

@@ -2,15 +2,6 @@ body {
   background-color: #ef6f8a;
 }
 
-a,
-p,
-h1,
-h2,
-h3,
-ul {
-  color: #f0eae1;
-}
-
 input {
   outline: none;
   height: 1.5em;
@@ -22,7 +13,7 @@ input {
 }
 
 .label {
-  margin-top: -.25em;
+  margin-top: -.33em;
 }
 
 #bg1 {

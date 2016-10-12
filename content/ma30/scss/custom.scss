@@ -1,17 +1,7 @@
 @import "../../../scss/retinajs";
 $bg:#ef6f8a;
-$color:#f0eae1;
 body {
     background-color: $bg;
-}
-
-a,
-p,
-h1,
-h2,
-h3,
-ul {
-    color: $color;
 }
 
 input {
@@ -25,7 +15,7 @@ input {
 }
 
 .label {
-    margin-top: -.25em;
+    margin-top: -.33em;
 }
 
 #bg1 {
