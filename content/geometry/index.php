@@ -1,5 +1,6 @@
 <?php
 $id = 'geometry';
+$parent = 'content';
 $title_ru = 'Английский изучитель языка геометрии';
 $title_en = 'English learnitator of geometry language';
 $description_ru = 'Ты тоже нарисуй точь в точь';

@@ -1,206 +1,55 @@
+// colors
+$black: #393836;
+$white: rgb(249, 249, 249);
+// fonts
+$font-regular: 'Graphik Regular',
+helvetica neue,
+arial,
+sans-serif;
+$font-bold: 'Graphik Bold',
+helvetica neue,
+arial,
+sans-serif;
+//
 @import "/bower_components/normalize-css/normalize.css";
-@import "interactive";
-@import "vars";
 @import "fonts";
+@import "shorthands";
 @import "animations";
-@import "preloader";
+@import "interactive";
+@import "retinajs";
+//
+@import "menu";
+@import "index";
+//
+html {
+    background-color: white;
+}
+
+//
 body {
-    font-family: $font;
-    width: 100%;
-    height: 100%;
+    font-family: $font-regular;
     min-width: 1000px;
     min-height: 100%;
     font-size: 1em;
+    width: 100%;
+    height: 100%;
     overflow-x: hidden;
-    color: $black;
-    backface-visibility: hidden;
-    background-color: $black;
+    color: $white;
     -webkit-font-smoothing: antialiased;
-    -webkit-text-size-adjust: 100%;
+    //backface-visibility: hidden;
+    //-webkit-text-size-adjust: 100%;
 }
 
 article {
-    width: 100%;
-    min-width: 1000px;
     overflow: hidden;
-    margin: 0 auto;
     position: relative;
-    height: 100%;
-    letter-spacing: .07em;
-    padding: 1em;
 }
 
 section {
     margin: 0 auto;
-    width: 1000px;
     position: relative;
+    //width: 1000px;
     min-width: 1000px;
-    &.large {
-        width: 95vw;
-        max-width: 1280px;
-    }
 }
 
-.langchanger {
-    position: absolute;
-    top: .25em;
-    right: 2.5em;
-    z-index: 9998;
-    letter-spacing: .07em;
-    p {
-        font-size: 1.5em;
-    }
-    a {
-        &:hover {
-            color: $marked;
-        }
-    }
-}
-
-.backtomain {
-    //visibility: hidden; //do we need it?
-    position: fixed;
-    top: -1.5em;
-    left: 2em;
-    z-index: 9997;
-    p {
-        font-size: 2.5em;
-    }
-    a {
-        border-bottom: none;
-        &:hover {
-            color: $marked;
-        }
-    }
-}
-
-.wide {
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.absolute {
-    position: absolute;
-}
-
-.relate {
-    position: relative;
-}
-
-header {
-    //margin-left: 1.5em;
-    position: absolute;
-    .dedicate {
-        margin-top: -1.45em;
-        margin-left: -.1em;
-    }
-}
-
-.center {
-    text-align: center;
-}
-
-.clearfix {
-    display: block;
-    zoom: 1;
-    &:after {
-        content: " ";
-        display: block;
-        font-size: 0;
-        height: 0;
-        clear: both;
-        visibility: hidden;
-    }
-}
-
-#skrollr-body {
-    height: 100%;
-    width: 100%;
-}
-
-ul {
-    list-style: none;
-    padding-left: 0;
-    li {
-        margin-bottom: .25em;
-    }
-}
-
-.contents {
-    margin-bottom: 10em;
-    padding: 0 1em;
-    width: 100vw;
-    min-width: 1000px;
-    text-align: left;
-    color: $white;
-    a {
-        border-bottom: $white solid 1px;
-        &:hover {
-            color: $marked;
-        }
-    }
-    ul {
-        font-size: 2.5em;
-        list-style: none;
-        line-height: 1.25;
-        padding: 0em;
-    }
-    .wrapper {
-        display: flex;
-        flex-wrap: wrap;
-        width: 100%;
-        //justify-content: space-between;
-    }
-    .notavaible {
-        opacity: .5;
-    }
-}
-
-footer {
-    padding: 0;
-    margin: 2.5em 0 20em;
-    width: 95vw;
-    h1 {
-        color: $marked;
-        font-weight: 400;
-        font-size: 4em;
-        padding: 0;
-        margin: 0;
-    }
-    ul {
-        padding: 0;
-        margin: 0;
-        float: left;
-        clear: left;
-        li {
-            margin: 0 1em 0 0;
-            padding: 0;
-            float: left;
-        }
-    }
-    p {
-        font-size: 2.5em;
-    }
-}
-
-.carousel .page {
-    outline: none;
-}
-
-
-/* Стиль для того, чтобы элемент проявляся по мере докручивания до него */
-
-.appear {
-    opacity: 0;
-    animation-duration: .5s;
-    animation-delay: 1s;
-    &.slow {
-        animation-duration: 1.5s;
-        animation-delay: 1.5s;
-    }
-    &.slowest {
-        animation-duration: 1.5s;
-        animation-delay: 2s;
-    }
-}
+///

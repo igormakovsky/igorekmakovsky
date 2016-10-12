@@ -13,11 +13,13 @@ $full_url  = "${protocol}://${domain}${disp_port}${base_url}";
 $siteroot = $protocol.'://'.$domain; //http://igorekmakovsky.ru
 
 //universal paths to the pages on the whole website
+
 if ($id != 'igorekmakovsky'){
-$mainfolder = '/content/'.$id;
-$headimage = $siteroot.'/content/'.$id.'/img/index.jpg'; //path to leading image
-$canonical = $siteroot.'/content/'.$id.'/'; //path to canonical page
+$mainfolder = '/'.$parent.'/'.$id;
+$headimage = $siteroot.'/'.$parent.'/'.$id.'/img/index.jpg'; //path to leading image
+$canonical = $siteroot.'/'.$parent.'/'.$id.'/'; //path to canonical page
 }
+
 else {
     $mainfolder = '';
     $headimage = $siteroot.'/img/index.jpg'; //path to main image
@@ -28,16 +30,16 @@ $thispage = $domain.$mainfolder.'/'; //path to the current folder
 $deldomain = (str_replace('index.php', '', $_SERVER['SCRIPT_NAME'])); //erase index.php
 
 //Language differences in variables
+
 if (ru()) {
     $sign = date("Y").' — Игорёк Маковский';
     $title = $title_ru;
     $description = $description_ru;
-    $keywords = 'игорь, маковский, дизайн, сайт, иллюстрация, книга, рассказы, истории, работы, '.$keywords_ru;
+    $keywords = 'игорёк, маковский, игорек, детство, старый гай, '.$keywords_ru;
     $author = 'Игорёк Маковский';
     $switch = 'igorekmakovsky.com'.$dev.$deldomain;
     $lang = 'ru';
     $tomainpage = '←';
-    $construction = 'сайт в разработке';
     $settolang = 'in english';
     $igorekmakovsky = '<a href="mailto:igor@igormakovsky.ru">Игорь Маковский</a></p>
                     <p class="backarrow">
@@ -51,10 +53,9 @@ else {
     $sign = date("Y").' — Igorek Makovsky';
     $title = $title_en;
     $description = $description_en;
-    $keywords = 'igorek, makovsky, design, site, web, illustrations, books, stories, works, '.$keywords_en;
+    $keywords = 'igorek, makovsky, childhood, staryi gay, '.$keywords_en;
     $author = 'Igorek Makovsky';
     $switch = 'igorekmakovsky.ru'.$dev.$deldomain;
-    $construction = 'site is under construction';
     $tomainpage = '←';
     $lang = 'en-US';
     $settolang = 'по-русски';

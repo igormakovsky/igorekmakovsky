@@ -1,65 +1,125 @@
-h1 {
-    font-size: $default+2;
-    padding: 0;
-    font-weight: 400;
+@font-face {
+    font-family: 'Graphik Regular';
+    src: url('../fonts/graphik-regular-web/Graphik-Regular-Web.eot');
+    src: url('../fonts/graphik-regular-web/Graphik-Regular-Web.eot#iefix') format('embedded-opentype'), url('../fonts/graphik-regular-web/Graphik-Regular-Web.woff2') format('woff2'), url('../fonts/graphik-regular-web/Graphik-Regular-Web.woff') format('woff'), url('../fonts/graphik-regular-web/Graphik-Regular-Web.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
-h2 {
-    line-height: 1.5;
-    font-size: 3em;
-    font-weight: 400;
-    padding: 0;
-    a {
-        text-decoration: none;
-        color: $black;
-        border-bottom: 1px solid $black;
-    }
+@font-face {
+    font-family: 'Graphik Bold';
+    src: url('../fonts/graphik-bold-web/Graphik-Bold-Web.eot');
+    src: url('../fonts/graphik-bold-web/Graphik-Bold-Web.eot#iefix') format('embedded-opentype'), url('../fonts/graphik-bold-web/Graphik-Bold-Web.woff2') format('woff2'), url('../fonts/graphik-bold-web/Graphik-Bold-Web.woff') format('woff'), url('../fonts/graphik-bold-web/Graphik-Bold-Web.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
-h3 {
-    font-size: 2em;
-    line-height: 1.5;
-    font-weight: 400;
+//
+.regular {
+    font-family: $font-regular;
 }
 
+.bold {
+    font-family: $font-bold;
+}
+
+.white {
+    color: $white;
+}
+
+//
 p {
-    font-size: $default;
-    line-height: 1.2;
+    font-size: 1.5rem;
+    line-height: 1.5;
 }
 
 a {
     text-decoration: none;
-    border-bottom: 1px solid $black;
-    color: $black;
+    color: inherit;
+    border-bottom: 1px solid lighten($white, 30%);
     &:hover {
-        text-decoration: none;
-        border-bottom-style: none;
+        border-bottom: 1px solid inherit;
     }
-    /* Убираем подчеркивание из ссылок-картинок */
+    &.no-underline {
+        border: none;
+        &:hover {
+            border: inherit;
+        }
+    }
+    &[href^='#'] {
+        border-bottom-style: dashed;
+    }
     img {
         vertical-align: middle;
-        /* И при наведении на них, чуть высветляем */
-        &:hover {
-            opacity: 0.85;
+        border: none;
+    }
+}
+
+h1 {
+    @extend .white;
+    font-size: 4rem;
+    font-weight: normal;
+    padding: 0;
+}
+
+h2 {
+    @extend .white;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding: 0;
+}
+
+h3 {
+    @extend .white;
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-top: .5em;
+    padding: 0;
+}
+
+h4 {
+    @extend .white;
+    font-size: inherit;
+    font-weight: normal;
+    margin: 1.5rem 0 0 .2rem;
+    padding: 0;
+    display: inline-block;
+}
+
+ul {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    li {
+        font-size: 2rem;
+        line-height: 1.3;
+        list-style-type: none;
+        //padding-bottom: 1.5rem;
+        &.emdash {
+            &::before {
+                content: '— ';
+                margin-left: -1.2em;
+            }
         }
     }
 }
 
-.langchanger {
-    a {
-        border-bottom: 1px solid $white;
-        color: $white;
-        &:hover {
-            text-decoration: none;
-            border-bottom-style: none;
-        }
+ol {
+    text-align: left;
+    list-style-position: outside;
+    li {
+        font-size: 2rem;
+        line-height: 1.3;
+        padding-bottom: 1.5rem;
     }
 }
 
-.small {
-    font-size: 1.5em;
+//
+strong {
+    @extend .bold;
 }
 
+//
 .quotes {
     &:lang(ru) {
         &::before {
@@ -78,13 +138,5 @@ a {
         &::after {
             content: '”';
         }
-    }
-}
-
-.emdash {
-    display: block;
-    &::before {
-        content: '— ';
-        margin-left: -1em;
     }
 }

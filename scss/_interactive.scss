@@ -2,6 +2,14 @@
     transition-duration: .25s;
     &:hover {
         transform: rotate(3deg);
+        filter: brightness(102%);
+    }
+}
+
+.heavy {
+    transition-duration: .25s;
+    &:hover {
+        transform: rotate(-1deg);
     }
 }
 
@@ -10,20 +18,17 @@
     height: auto;
     position: absolute;
     cursor: grab;
-    z-index: 1;
     transform: translate(0px, 0px);
-    &:hover {
-        //opacity: .9;
-    }
     img {
         @extend .touch;
     }
 }
 
 .spin {
+    position: absolute;
     cursor: grab;
-    &:hover {
-        //opacity: .8;
+    img {
+        @extend .touch;
     }
 }
 
@@ -32,5 +37,28 @@
     opacity: 1;
     &:hover {
         opacity: .8;
+    }
+}
+
+.scrollhor,
+.scrollvert {
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+.scale {
+    transition: transform .5s;
+    transform-origin: center !important;
+    cursor: pointer;
+    &:hover {
+        transform: scale(1.1);
+    }
+    &__bottom {
+        transform-origin: bottom center;
+        transition: transform .5s;
+        &:hover {
+            transform: scale(1.1);
+        }
     }
 }

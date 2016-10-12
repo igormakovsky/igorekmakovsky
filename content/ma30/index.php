@@ -1,5 +1,6 @@
 <?php
 $id = 'ma30';
+$parent = 'content';
 $title_ru = 'Аудиометрический кабинет МА-30';
 $title_en = 'Audiometrical cabinet MA-30';
 $description_ru = 'Мама, я тебя люблю и хочу, чтобы ты никогда не болела.';
