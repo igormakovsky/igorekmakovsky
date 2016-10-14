@@ -74,11 +74,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Четыре разворота</span>
-            <span lang="en">Four spreads</span>
-
+        <li id="fourspreads">
+            <a href="/content/fourspreads/">
+                <span lang="ru">4 разворота</span>
+                <span lang="en">4 spreads</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -88,11 +88,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Уголёк и молоток</span>
-            <span lang="en">A coal and a hammer</span>
-
+        <li id="coalhammer">
+            <a href="/content/coalhammer/">
+                <span lang="ru">Уголёк и молоток</span>
+                <span lang="en">A coal and a hammer</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -109,11 +109,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Крокодил показывает язык</span>
-            <span lang="en">Crocodile shows his tongue</span>
-
+        <li id="crocodile">
+            <a href="/content/crocodile/">
+                <span lang="ru">Крокодил</span>
+                <span lang="en">Crocodile</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -137,11 +137,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вишня</span>
-            <span lang="en">Cherry</span>
-
+        <li id="cherry">
+            <a href="/content/cherry/">
+                <span lang="ru">Вишня</span>
+                <span lang="en">Cherry</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

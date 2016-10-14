@@ -3059,15 +3059,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/content\/!empty\/css\/custom.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/content\/!empty\/css\/custom.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/content\/!empty\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3097,6 +3088,240 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/!empty\/scss\/custom.scss",
 		"outputAbbreviatedPath": "\/content\/!empty\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/content\/cherry\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/cherry\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/cherry\/img\/cherry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219940,
+		"inputAbbreviatedPath": "\/content\/cherry\/img\/cherry.jpg",
+		"outputAbbreviatedPath": "\/content\/cherry\/img\/cherry.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/cherry\/img\/cherry@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 856649,
+		"inputAbbreviatedPath": "\/content\/cherry\/img\/cherry@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/cherry\/img\/cherry@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/cherry\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124896,
+		"inputAbbreviatedPath": "\/content\/cherry\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/cherry\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/cherry\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/cherry\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/cherry\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/cherry\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/cherry\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/cherry\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/cherry\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/cherry\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/content\/coalhammer\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/coalhammer\/img\/coalhammer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 502531,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/img\/coalhammer.jpg",
+		"outputAbbreviatedPath": "\/content\/coalhammer\/img\/coalhammer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/coalhammer\/img\/coalhammer@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.09824e+06,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/img\/coalhammer@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/coalhammer\/img\/coalhammer@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/coalhammer\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88453,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/coalhammer\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/coalhammer\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/coalhammer\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/coalhammer\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/coalhammer\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/coalhammer\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/coalhammer\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/content\/crocodile\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/crocodile\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/crocodile\/img\/crocodile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32594,
+		"inputAbbreviatedPath": "\/content\/crocodile\/img\/crocodile.jpg",
+		"outputAbbreviatedPath": "\/content\/crocodile\/img\/crocodile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/crocodile\/img\/crocodile@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113406,
+		"inputAbbreviatedPath": "\/content\/crocodile\/img\/crocodile@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/crocodile\/img\/crocodile@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/crocodile\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36252,
+		"inputAbbreviatedPath": "\/content\/crocodile\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/crocodile\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/crocodile\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/crocodile\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/crocodile\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/crocodile\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/crocodile\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/crocodile\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/crocodile\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/crocodile\/css\/custom.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3248,6 +3473,150 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/content\/fourspreads\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/fourspreads\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58991,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81230,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-1.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 227463,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-1@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74536,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-2.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-2@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212528,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-2@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-2@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74930,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-3.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-3@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220926,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-3@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-3@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75828,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-4.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/img\/spread-4@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215055,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-4@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/img\/spread-4@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/fourspreads\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/fourspreads\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/fourspreads\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/fourspreads\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/fourspreads\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/content\/geometry\/css\/custom.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -3257,116 +3626,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/content\/geometry\/img\/contents.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 160906,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/contents.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/contents.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/contents@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 517405,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/contents@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/contents@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/credits.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 148834,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/credits.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/credits.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/credits@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 522667,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/credits@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/credits@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/dots.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 154734,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/dots.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/dots.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/dots@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 524148,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/dots@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/dots@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/forest.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 164657,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/forest.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/forest.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/forest@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 571152,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/forest@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/forest@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/front-cover.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 137746,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/front-cover.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/front-cover.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/front-cover@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 551219,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/front-cover@2x.jpg",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/front-cover@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3374,17 +3633,6 @@
 		"initialSize": 47427,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.jpg",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/geometry-1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 762771,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3400,17 +3648,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/geometry\/img\/geometry-1@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1@2x.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-1@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3418,17 +3655,6 @@
 		"initialSize": 144409,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.jpg",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/geometry-2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 820087,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3444,17 +3670,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/geometry\/img\/geometry-2@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2@2x.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-2@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3462,17 +3677,6 @@
 		"initialSize": 157464,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.jpg",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/geometry-3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 752106,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3488,17 +3692,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/geometry\/img\/geometry-3@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3@2x.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-3@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3506,17 +3699,6 @@
 		"initialSize": 145172,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.jpg",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/geometry-4.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 702745,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3532,17 +3714,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/geometry\/img\/geometry-4@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4@2x.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-4@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3554,17 +3725,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/geometry\/img\/geometry-5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 768429,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/content\/geometry\/img\/geometry-5@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3572,17 +3732,6 @@
 		"initialSize": 518497,
 		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.jpg",
 		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/geometry\/img\/geometry-5@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.png",
-		"outputAbbreviatedPath": "\/content\/geometry\/img\/geometry-5@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

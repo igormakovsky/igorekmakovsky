@@ -1,0 +1,10 @@
+@import "../../../scss/retinajs";
+$bg:#a4b777;
+body {
+    background-color: $bg;
+}
+
+#bg1 {
+    background-image: url(img/bg-barinovcover.jpg);
+    @include at2x('../img/bg-barinovcover');
+}

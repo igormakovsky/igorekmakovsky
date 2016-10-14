@@ -18,7 +18,7 @@
   font-family: "Graphik Regular", helvetica neue, arial, sans-serif;
 }
 
-.bold, strong {
+.bold, h2, strong {
   font-family: "Graphik Bold", helvetica neue, arial, sans-serif;
 }
 
@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   font-weight: normal;
   padding: 0;
 }
@@ -943,7 +943,7 @@ ol li {
   position: relative;
 }
 
-.center {
+.center, article section.picture .image {
   text-align: center;
 }
 
@@ -972,6 +972,10 @@ ol li {
     display: none;
     visibility: hidden;
   }
+}
+
+.notavaible {
+  opacity: .5;
 }
 
 .rotates {
@@ -1718,6 +1722,14 @@ article section.text {
 article section.text p {
   font-size: 2.5rem;
 }
+article section.picture {
+  width: 86.5%;
+  margin: 0 auto;
+  max-width: 1150px;
+}
+article section.picture .image img {
+  width: 100%;
+}
 
 html {
   background-color: white;
@@ -1726,7 +1738,7 @@ html {
 body {
   font-family: "Graphik Regular", helvetica neue, arial, sans-serif;
   min-width: 1000px;
-  min-height: 100%;
+  min-height: 100vh;
   font-size: 1em;
   width: 100%;
   height: 100%;

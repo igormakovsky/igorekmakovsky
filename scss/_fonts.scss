@@ -64,7 +64,8 @@ h1 {
 
 h2 {
     @extend .white;
-    font-size: 2.5rem;
+    @extend .bold;
+    font-size: 3.5rem;
     font-weight: normal;
     padding: 0;
 }

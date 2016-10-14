@@ -1,6 +1,6 @@
 <?php
 $id = '';
-$parent = '';
+$parent = 'content';
 $title_ru = '';
 $title_en = '';
 $description_ru = '';

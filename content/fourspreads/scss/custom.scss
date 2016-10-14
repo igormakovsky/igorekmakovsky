@@ -1,0 +1,24 @@
+@import "../../../scss/retinajs";
+$bg:#e35656;
+body {
+    background-color: $bg;
+}
+
+section {
+    .center {
+        margin-bottom: 10rem;
+    }
+    #spread-2 {
+        transform: rotate(-2deg);
+    }
+    #spread-3 {
+        transform: rotate(-1deg) translate(5rem, 0);
+    }
+    #spread-4 {
+        transform: rotate(5deg) translate(2rem, 0);
+    }
+}
+
+#bg1 {
+    @include at2x('../img/bg-barinovcover');
+}

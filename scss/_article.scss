@@ -13,5 +13,16 @@ article {
                 font-size: 2.5rem;
             }
         }
+        &.picture {
+            width: 86.5%;
+            margin: 0 auto;
+            max-width: 1150px;
+            .image {
+                @extend .center;
+                img {
+                    width: 100%;
+                }
+            }
+        }
     }
 }
