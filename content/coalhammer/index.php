@@ -1,8 +1,9 @@
 <?php
 $id = 'coalhammer';
 $parent = 'content';
+$color = '126f8e';
 $title_ru = 'Уголёк и молоток';
-$title_en = 'Coal and the Hammer';
+$title_en = 'Coal and a Hammer';
 $description_ru = 'угольки';
 $description_en = 'coals';
 $keywords_ru = 'уголек, молоток';
@@ -21,7 +22,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     <section class="text" style="margin-bottom:10rem;">
 
         <h2 lang="ru">Уголёк и молоток</h2>
-        <h2 lang="en">Coal and the Hammer</h2>
+        <h2 lang="en">Coal and a Hammer</h2>
         <p lang="ru">21×29см
             <br>(акварель, маркер, шариковая ручка)
             <br>2 марта, 1990</p>

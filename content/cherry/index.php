@@ -1,6 +1,7 @@
 <?php
 $id = 'cherry';
 $parent = 'content';
+$color = 'ce5261';
 $title_ru = 'Вишня';
 $title_en = 'Cherry';
 $description_ru = 'и вишневая косточка';

@@ -1,6 +1,7 @@
 <?php
 $id = 'faucets';
 $parent = 'content';
+$color = '7ebdc3';
 $title_ru = 'Faucets';
 $title_en = 'Faucets';
 $description_ru = '512 — 6 — Восход — Арт. 7205р, цена 17 коп';

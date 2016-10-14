@@ -95,11 +95,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Краткий домашний справочник</span>
-            <span lang="en">Brief household reference</span>
-
+        <li id="dacha">
+            <a href="/content/dacha/">
+                <span lang="ru">Наш дом — дача</span>
+                <span lang="en">Dacha is our home</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -986,7 +986,7 @@
 
         <li id="" class="notavaible">
 
-            <span lang="ru">Преусадебное хозяйство</span>
+            <span lang="ru">Приусадебное хозяйство</span>
             <span lang="en">Homestead land</span>
 
         </li>

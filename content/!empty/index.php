@@ -1,6 +1,7 @@
 <?php
 $id = '';
 $parent = 'content';
+$color = '';
 $title_ru = '';
 $title_en = '';
 $description_ru = '';

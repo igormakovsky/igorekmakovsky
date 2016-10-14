@@ -1,6 +1,7 @@
 <?php
 $id = 'fourspreads';
 $parent = 'content';
+$color = 'e35656';
 $title_ru = '4 разворота';
 $title_en = '4 spreads';
 $description_ru = '3/4 игорек 3/2 папа мама';

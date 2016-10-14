@@ -4,9 +4,9 @@
     .langchanger {
         @extend .absolute;
         right: 2rem;
-        top: -1rem;
+        top: .5rem;
         @media screen and (max-width: 1000px) {
-            top: -1.8rem;
+            top: 0.4rem;
             p {
                 font-size: 2.5rem;
             }

@@ -1,6 +1,7 @@
 <?php
 $id = 'geometry';
 $parent = 'content';
+$color = '8dcfbb';
 $title_ru = 'Английский изучитель языка геометрии';
 $title_en = 'English learnitator of geometry language';
 $description_ru = 'Ты тоже нарисуй точь в точь';
@@ -29,13 +30,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
         </div>
        
         <div class="center">
-            <img id="front-cover" src="img/front-cover.jpg" srcset="img/front-cover@2x.jpg 2x" alt="English learnitator cover">
+            <img id="front-cover" src="img/geometry-1.jpg" srcset="img/geometry-1@2x.jpg 2x" alt="English learnitator cover">
         </div>
     </section>
 
     <section>
         <div class="center">
-            <img id="dots" src="img/dots.jpg" srcset="img/dots@2x.jpg 2x" alt="You should draw it exactly right to the point too">
+            <img id="dots" src="img/geometry-2.jpg" srcset="img/geometry-2@2x.jpg 2x" alt="You should draw it exactly right to the point too">
         </div>
     </section>
 
@@ -48,7 +49,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
 
     <section style="margin-top:10em;">
         <div class="center">
-            <img id="forest" src="img/forest.jpg" srcset="img/forest@2x.jpg 2x" alt="Try to draw forest yourself">
+            <img id="forest" src="img/geometry-3.jpg" srcset="img/geometry-3@2x.jpg 2x" alt="Try to draw forest yourself">
         </div>
     </section>
 
@@ -61,7 +62,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
 
     <section style="margin-top:15em;">
         <div class="center">
-            <img id="credits" src="img/credits.jpg" srcset="img/credits@2x.jpg 2x" alt="Credits of the english learnitator of the geometry language, volume one">
+            <img id="credits" src="img/geometry-4.jpg" srcset="img/geometry-4@2x.jpg 2x" alt="Credits of the english learnitator of the geometry language, volume one">
         </div>
     </section>
 
@@ -87,7 +88,7 @@ first volume
 
     <section style="margin-bottom:5em;">
         <div class="center">
-            <img id="contents-this" src="img/contents.jpg" srcset="img/contents@2x.jpg 2x" alt="">
+            <img id="contents-this" src="img/geometry-5.jpg" srcset="img/geometry-5@2x.jpg 2x" alt="">
         </div>
     </section>
 

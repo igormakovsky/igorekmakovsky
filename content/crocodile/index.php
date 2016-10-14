@@ -1,6 +1,7 @@
 <?php
 $id = 'crocodile';
 $parent = 'content';
+$color = 'a4b777';
 $title_ru = 'Крокодил';
 $title_en = 'Crocodile';
 $description_ru = 'Отражение на воде';

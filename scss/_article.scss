@@ -6,11 +6,19 @@ article {
         position: relative;
         width: 1000px;
         &.text {
-            width: 100%;
-            padding: 0 5rem;
+            width: 86.5%;
+            margin: 0 auto;
             max-width: 1300px;
             p {
                 font-size: 2.5rem;
+            }
+            &.double {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                * {
+                    flex: 2 2 2;
+                }
             }
         }
         &.picture {

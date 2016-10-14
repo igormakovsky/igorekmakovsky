@@ -1,6 +1,7 @@
 <?php
 $id = 'ma30';
 $parent = 'content';
+$color = 'ef6f8a';
 $title_ru = 'Аудиометрический кабинет МА-30';
 $title_en = 'Audiometrical cabinet MA-30';
 $description_ru = 'Мама, я тебя люблю и хочу, чтобы ты никогда не болела.';
@@ -25,9 +26,9 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
     <section class="text" style="height:100em; margin-top:14rem;">
 
         <div lang="ru">
-            <h1>Гомеопатическая поликлиника</h1>
-            <h2>Аудиометрический кабинет МА-30</h2>
-            <input title="fio">
+            <h2>Гомеопатическая поликлиника</h2>
+            <p>Аудиометрический кабинет МА-30</p>
+            <input>
             <p class="label">Ф. И. О.</p>
             <input>
             <p class="label">Возраст</p>
@@ -48,9 +49,9 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
         </div>
 
         <div lang="en">
-            <h1>Homeopathic polyclinic</h1>
-            <h2>Audiometrical cabinet MA-30</h2>
-            <input title="fio">
+            <h2>Homeopathic polyclinic</h2>
+            <p>Audiometrical cabinet MA-30</p>
+            <input>
             <p class="label">Name</p>
             <input>
             <p class="label">Age</p>

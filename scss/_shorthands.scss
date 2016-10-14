@@ -712,3 +712,7 @@
 .notavaible {
     opacity: .5;
 }
+
+figure {
+    @extend .center;
+}
