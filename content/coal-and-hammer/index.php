@@ -1,5 +1,5 @@
 <?php
-$id = 'coalhammer';
+$id = 'coal-and-hammer';
 $parent = 'content';
 $color = '126f8e';
 $title_ru = 'Уголёк и молоток';
@@ -13,7 +13,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section class="picture" style="margin-top:6rem;">
 
-        <div class="image">
+        <div class="center">
             <img src="img/coalhammer.jpg" srcset="img/coalhammer@2x.jpg 2x">
         </div>
 

@@ -13,7 +13,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section class="picture" style="margin-top:6rem;">
 
-        <div class="image">
+        <div class="center">
             <img src="img/cherry.jpg" srcset="img/cherry@2x.jpg 2x">
         </div>
 

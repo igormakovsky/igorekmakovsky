@@ -13,10 +13,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
 ?>
 
     <section class="text" style="height:30rem; margin-top:10rem;">
-        <h1>
+        <h2>
             <span lang="ru">Английский изучитель<br>Язык геометрии</span>
             <span lang="en">English learnitator<br>of geometry language</span>
-       </h1>
+       </h2>
         <p>
             <span lang="ru">Первый павильон</span>
             <span lang="en">First pavilion</span>

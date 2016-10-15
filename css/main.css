@@ -123,6 +123,10 @@ ol li {
   content: '”';
 }
 
+.small, article section.text p.small {
+  font-size: 1.5rem;
+}
+
 .rot5 {
   -webkit-transform: rotate(5deg);
           transform: rotate(5deg);
@@ -946,7 +950,7 @@ ol li {
   position: relative;
 }
 
-.center, figure, article section.picture .image {
+.center, figure, article section.picture .center {
   text-align: center;
 }
 
@@ -1727,6 +1731,10 @@ article section.text {
 }
 article section.text p {
   font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+article section.text p.intended {
+  margin-left: 5rem;
 }
 article section.text.double {
   display: -webkit-box;
@@ -1750,7 +1758,7 @@ article section.picture {
   margin: 0 auto;
   max-width: 1150px;
 }
-article section.picture .image img {
+article section.picture figure img, article section.picture .center img {
   width: 100%;
 }
 

@@ -9,11 +9,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Anglis Russhkiй Slowhor</span>
-            <span lang="en">Anglis Russhkiй Slowhor</span>
-
+        <li id="eng-rus">
+            <a href="/content/eng-rus/">
+                <span lang="ru">Anglis Russhkiй Slowhor</span>
+                <span lang="en">Anglis Russhkiй Slowhor</span>
+            </a>
         </li>
 
         <li id="faucets">
@@ -46,18 +46,18 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наутилус Помпилиус рассказывает о себе</span>
-            <span lang="en">Nautilus Pompilius speaks about himself</span>
-
+        <li id="nautilus-pompilius">
+            <a href="/content/nautilus-pompilius/">
+                <span lang="ru">Наутилус Помпилиус рассказывает о себе</span>
+                <span lang="en">Nautilus Pompilius speaks about himself</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Взволнованное настроение у бабушки</span>
-            <span lang="en">Babushka is in excited mood</span>
-
+        <li id="baboushka">
+            <a href="/content/baboushka/">
+                <span lang="ru">Бабушка</span>
+                <span lang="en">Baboushka</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -88,8 +88,8 @@
 
         </li>
 
-        <li id="coalhammer">
-            <a href="/content/coalhammer/">
+        <li id="coal-and-hammer">
+            <a href="/content/coal-and-hammer/">
                 <span lang="ru">Уголёк и молоток</span>
                 <span lang="en">A coal and a hammer</span>
             </a>
@@ -102,11 +102,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Октябрь</span>
-            <span lang="en">October</span>
-
+        <li id="october">
+            <a href="/content/october/">
+                <span lang="ru">Октябрь</span>
+                <span lang="en">October</span>
+            </a>
         </li>
 
         <li id="crocodile">

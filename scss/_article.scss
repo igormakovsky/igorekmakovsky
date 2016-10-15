@@ -11,6 +11,13 @@ article {
             max-width: 1300px;
             p {
                 font-size: 2.5rem;
+                margin-bottom: 1.5rem;
+                &.small {
+                    @extend .small;
+                }
+                &.intended {
+                    margin-left: 5rem;
+                }
             }
             &.double {
                 display: flex;
@@ -25,7 +32,7 @@ article {
             width: 86.5%;
             margin: 0 auto;
             max-width: 1150px;
-            .image {
+            .center {
                 @extend .center;
                 img {
                     width: 100%;
