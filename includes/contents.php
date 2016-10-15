@@ -116,11 +116,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сорок три</span>
-            <span lang="en">Fourtythree </span>
-
+        <li id="fourty-three">
+            <a href="/content/fourty-three/">
+                <span lang="ru">43</span>
+                <span lang="en">43</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -130,11 +130,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Урок математики</span>
-            <span lang="en">Math lesson</span>
-
+        <li id="mathematics-1">
+            <a href="/content/mathematics-1/">
+                <span lang="ru">Математика — №1</span>
+                <span lang="en">Mathematics — #1</span>
+            </a>
         </li>
 
         <li id="cherry">
@@ -165,11 +165,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Восход Солнца на Трудовой</span>
-            <span lang="en">Sunrise upon Trudovaya</span>
-
+        <li id="sunrise">
+            <a href="/content/sunrise/">
+                <span lang="ru">Восход на Трудовой</span>
+                <span lang="en">Sunrise in Trudovaya</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -235,11 +235,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Клумба</span>
-            <span lang="en">Flowerbed</span>
-
+        <li id="flowerbed">
+            <a href="/content/flowerbed/">
+                <span lang="ru">Клумба</span>
+                <span lang="en">Flower bed</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -249,11 +249,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Порыв ветра</span>
-            <span lang="en">Gust of wind</span>
-
+        <li id="gust-of-wind">
+            <a href="/content/gust-of-wind/">
+                <span lang="ru">Порыв ветра</span>
+                <span lang="en">Gust of wind</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
