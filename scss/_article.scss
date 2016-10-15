@@ -38,6 +38,20 @@ article {
                     width: 100%;
                 }
             }
+            &.double {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                * {
+                    flex: 2 2 2;
+                }
+                .center {
+                    @extend .center;
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
         }
     }
 }

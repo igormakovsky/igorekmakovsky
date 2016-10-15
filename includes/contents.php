@@ -67,11 +67,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Телефонная книжка</span>
-            <span lang="en">Phonebook</span>
-
+        <li id="phonebook">
+            <a href="/content/phonebook/">
+                <span lang="ru">Телефонная книжка</span>
+                <span lang="en">Phonebook</span>
+            </a>
         </li>
 
         <li id="fourspreads">
@@ -81,11 +81,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Я — солнце</span>
-            <span lang="en">I am the sun</span>
-
+        <li id="i-am-sun">
+            <a href="/content/i-am-sun/">
+                <span lang="ru">Я — солнце</span>
+                <span lang="en">I am the sun</span>
+            </a>
         </li>
 
         <li id="coal-and-hammer">
