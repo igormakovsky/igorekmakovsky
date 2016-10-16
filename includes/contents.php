@@ -39,11 +39,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Календарь дачника</span>
-            <span lang="en">Calendar of the dacha owner</span>
-
+        <li id="calendar">
+            <a href="/content/calendar/">
+                <span lang="ru">Календарь дачника</span>
+                <span lang="en">Calendar of the dacha owner</span>
+            </a>
         </li>
 
         <li id="nautilus-pompilius">
@@ -60,11 +60,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Подписка на 1990 год</span>
-            <span lang="en">Subscription for 1990 year</span>
-
+        <li id="subscription">
+            <a href="/content/subscription/">
+                <span lang="ru">Подписка на 1990 год</span>
+                <span lang="en">Subscription for 1990 year</span>
+            </a>
         </li>
 
         <li id="phonebook">
