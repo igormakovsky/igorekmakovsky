@@ -340,11 +340,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Желтые фонари</span>
-            <span lang="en">Yellow lights</span>
-
+        <li id="streetlights">
+            <a href="/content/streetlights/">
+                <span lang="ru">Фонари</span>
+                <span lang="en">Streetlights</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -354,11 +354,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вечерняя дорога</span>
-            <span lang="en">Evening road</span>
-
+        <li id="lines">
+            <a href="/content/lines/">
+                <span lang="ru">Линии</span>
+                <span lang="en">Lines</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -375,11 +375,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Тридцать один</span>
-            <span lang="en">Thirty one</span>
-
+        <li id="thirty-one">
+            <a href="/content/thirty-one/">
+                <span lang="ru">31</span>
+                <span lang="en">31</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -445,11 +445,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Закат на Трудовой</span>
-            <span lang="en">Sunset at Trudovaya</span>
-
+        <li id="sunset">
+            <a href="/content/sunset/">
+                <span lang="ru">Закат в поле</span>
+                <span lang="en">Sunset out in the field</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
