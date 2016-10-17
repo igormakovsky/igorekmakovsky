@@ -1574,6 +1574,7 @@ ol li {
   cursor: grab;
   -webkit-transform: translate(0px, 0px);
           transform: translate(0px, 0px);
+  z-index: 1;
 }
 
 .spin {

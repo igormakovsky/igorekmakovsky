@@ -2,17 +2,17 @@
 
     <ul>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Дуоденальное содержимое</span>
-            <span lang="en">Duodenal contents</span>
-
-        </li>
-
         <li id="eng-rus">
             <a href="/content/eng-rus/">
                 <span lang="ru">Anglis Russhkiй Slowhor</span>
                 <span lang="en">Anglis Russhkiй Slowhor</span>
+            </a>
+        </li>
+
+        <li id="donald">
+            <a href="/content/donald/">
+                <span lang="ru">Дональд</span>
+                <span lang="en">Donald</span>
             </a>
         </li>
 
@@ -760,11 +760,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Куранты</span>
-            <span lang="en">Chimes</span>
-
+        <li id="kranty">
+            <a href="/content/kranty/">
+                <span lang="ru">Кранты</span>
+                <span lang="en">Kranty</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -991,11 +991,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Уважаемая Вера Ивановна!</span>
-            <span lang="en">Dear Vera Ivanovna!</span>
-
+        <li id="vera">
+            <a href="/content/vera/">
+                <span lang="ru">Уважаемая Вера Ивановна</span>
+                <span lang="en">Dear Vera Ivanovna</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
