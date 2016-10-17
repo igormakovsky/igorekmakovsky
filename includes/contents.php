@@ -123,11 +123,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Это мамины духи</span>
-            <span lang="en">This is mother’s parfume</span>
-
+        <li id="parfume">
+            <a href="/content/parfume/">
+                <span lang="ru">Мамины духи</span>
+                <span lang="en">Mother’s parfume</span>
+            </a>
         </li>
 
         <li id="mathematics-1">
@@ -158,11 +158,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Басовый ключ</span>
-            <span lang="en">Bass key</span>
-
+        <li id="bass">
+            <a href="/content/bass/">
+                <span lang="ru">Басовый ключ</span>
+                <span lang="en">Bass key</span>
+            </a>
         </li>
 
         <li id="sunrise">
@@ -214,11 +214,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Логотип компании по уборке улиц</span>
-            <span lang="en">Street washing company identity</span>
-
+        <li id="clean">
+            <a href="/content/clean/">
+                <span lang="ru">Логотип компании по уборке улиц</span>
+                <span lang="en">Street cleaning company logo</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
