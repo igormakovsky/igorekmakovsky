@@ -571,11 +571,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вредители дома №2</span>
-            <span lang="en">Domestic pests #2</span>
-
+        <li id="insects-2">
+            <a href="/content/insects-2/">
+                <span lang="ru">Вредители дома №2</span>
+                <span lang="en">Domestic pests #2</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
