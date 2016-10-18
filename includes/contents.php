@@ -788,11 +788,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Атлас москвы туристической</span>
-            <span lang="en">Moscow tourist atlas</span>
-
+        <li id="moscow">
+            <a href="/content/moscow/">
+                <span lang="ru">Атлас Москвы</span>
+                <span lang="en">Moscow atlas</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1061,11 +1061,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Квадратная карта</span>
-            <span lang="en">Square map</span>
-
+        <li id="square">
+            <a href="/content/square/">
+                <span lang="ru">Квадратная карта</span>
+                <span lang="en">Square map</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1089,11 +1089,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Две березы</span>
-            <span lang="en">Two birches</span>
-
+        <li id="two-birches">
+            <a href="/content/two-birches/">
+                <span lang="ru">Две березы</span>
+                <span lang="en">Two birches</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

@@ -5,7 +5,7 @@ $color = 'e66274';
 $title_ru = 'Закат в поле';
 $title_en = 'Sunset out in the field';
 $description_ru = '21×29см — шариковая ручка, акварель — ~1989';
-$description_en = '21×29cm — ballpen — watercolor — ~1989';
+$description_en = '21×29cm — ballpen, watercolor — ~1989';
 $keywords_ru = 'закат, солнце, лэп, поле, трудовая';
 $keywords_en = 'sunset, sun, power lines, field, trudovaya';
 

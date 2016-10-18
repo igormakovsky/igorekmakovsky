@@ -2,7 +2,7 @@
 $id = 'donald';
 $parent = 'content';
 $color = '81786a';
-$title_ru = 'Дональ';
+$title_ru = 'Дональд';
 $title_en = 'Donald';
 $description_ru = 'Дуоденальное содержимое';
 $description_en = 'Intubation contents';
