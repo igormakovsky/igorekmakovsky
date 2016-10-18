@@ -7384,6 +7384,75 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/content\/motions\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183300,
+		"inputAbbreviatedPath": "\/content\/motions\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/motions\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/motions\/img\/motions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 404515,
+		"inputAbbreviatedPath": "\/content\/motions\/img\/motions.jpg",
+		"outputAbbreviatedPath": "\/content\/motions\/img\/motions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/motions\/img\/motions@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.37136e+06,
+		"inputAbbreviatedPath": "\/content\/motions\/img\/motions@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/motions\/img\/motions@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/motions\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/motions\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/motions\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/motions\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/motions\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/motions\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/motions\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/motions\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/content\/mushrooms\/img\/index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

@@ -396,11 +396,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Моции</span>
-            <span lang="en">Motions</span>
-
+        <li id="motions">
+            <a href="/content/motions/">
+                <span lang="ru">Моции</span>
+                <span lang="en">Motions</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
