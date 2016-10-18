@@ -361,11 +361,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Оранжевое</span>
-            <span lang="en">Orange one</span>
-
+        <li id="orange">
+            <a href="/content/orange/">
+                <span lang="ru">Рыжий</span>
+                <span lang="en">Orange</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
