@@ -4,10 +4,10 @@ $parent = 'content';
 $color = '44d3ec';
 $title_ru = 'Русаковская больница';
 $title_en = 'Rusakovsky hospital';
-$description_ru = '';
-$description_en = '';
-$keywords_ru = '';
-$keywords_en = '';
+$description_ru = '29×21см — шариковая ручка — 1989';
+$description_en = '29×21cm — ballpen — 1989';
+$keywords_ru = 'больница, русаковская, палата, фонарь';
+$keywords_en = 'hospital, rusakovsky, hospital ward, streetlight';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
@@ -27,11 +27,12 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p lang="ru">Чуть-чуть вон там, на Матросской тишине</p>
         <p lang="en">A bit over there, on Matrosskaya Tishina</p>
 
-        <p class="small">
-            <span lang="ru">сентябрь, 1989</span>
-            <span lang="en">september, 1989</span>
-
-        </p>
+        <p lang="ru">29×21см
+            <br>шариковая ручка
+            <br>1989</p>
+        <p lang="en">29×21cm
+            <br>ballpen
+            <br>1989</p>
 
     </section>
 
@@ -69,11 +70,12 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <br>End&hellip;
         </p>
 
-        <p class="small">
-            <span lang="ru">сентябрь, 1989</span>
-            <span lang="en">september, 1989</span>
-
-        </p>
+        <p lang="ru">29×21см
+            <br>шариковая ручка
+            <br>1989</p>
+        <p lang="en">29×21cm
+            <br>ballpen
+            <br>1989</p>
 
     </section>
 
@@ -100,6 +102,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <br>under the window of my hospital ward,
             <br>and I am sitting on a nightstand.
             <br>End&hellip;</p>
+
+        <p lang="ru">29×21см
+            <br>шариковая ручка
+            <br>1989</p>
+        <p lang="en">29×21cm
+            <br>ballpen
+            <br>1989</p>
 
     </section>
 

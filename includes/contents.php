@@ -1180,11 +1180,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Заявление</span>
-            <span lang="en">Announcement</span>
-
+        <li id="announcement">
+            <a href="/content/announcement/">
+                <span lang="ru">Заявление</span>
+                <span lang="en">Announcement</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1257,11 +1257,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Грибы</span>
-            <span lang="en">Mushrooms</span>
-
+        <li id="mushrooms">
+            <a href="/content/mushrooms/">
+                <span lang="ru">Грибы</span>
+                <span lang="en">Mushrooms</span>
+            </a>
         </li>
 
     </ul>
