@@ -774,11 +774,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Я не верю в бога</span>
-            <span lang="en">I don’t believe in god</span>
-
+        <li id="god">
+            <a href="/content/god/">
+                <span lang="ru">Дневник погоды №2</span>
+                <span lang="en">Weather diary #2</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
