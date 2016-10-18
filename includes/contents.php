@@ -690,11 +690,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Русаковская больница</span>
-            <span lang="en">Rusakovskaya hospital</span>
-
+        <li id="hospital">
+            <a href="/content/hospital/">
+                <span lang="ru">Русаковская больница</span>
+                <span lang="en">Rusakovskaya hospital</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
