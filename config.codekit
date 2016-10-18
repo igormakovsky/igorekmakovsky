@@ -6420,6 +6420,75 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/content\/makhaon\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130222,
+		"inputAbbreviatedPath": "\/content\/makhaon\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/makhaon\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/makhaon\/img\/makhaon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257801,
+		"inputAbbreviatedPath": "\/content\/makhaon\/img\/makhaon.jpg",
+		"outputAbbreviatedPath": "\/content\/makhaon\/img\/makhaon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/makhaon\/img\/makhaon@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 929857,
+		"inputAbbreviatedPath": "\/content\/makhaon\/img\/makhaon@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/makhaon\/img\/makhaon@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/makhaon\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/makhaon\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/makhaon\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/makhaon\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/makhaon\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/makhaon\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/makhaon\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/makhaon\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/content\/mathematics-1\/img\/index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

@@ -1124,11 +1124,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Махаон</span>
-            <span lang="en">Mahaon</span>
-
+        <li id="makhaon">
+            <a href="/content/makhaon/">
+                <span lang="ru">Махаон</span>
+                <span lang="en">Makhaon</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
