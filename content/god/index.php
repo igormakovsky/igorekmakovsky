@@ -2,7 +2,7 @@
 $id = 'god';
 $parent = 'content';
 $color = '6a7a7b';
-$title_ru = 'Дневник погоду №2';
+$title_ru = 'Дневник погоды №2';
 $title_en = 'Weather diary #2';
 $description_ru = 'Я не верю в бога';
 $description_en = 'I do not believe in god';

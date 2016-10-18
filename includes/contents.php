@@ -1166,11 +1166,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Centrowt</span>
-            <span lang="en">Centrowt</span>
-
+        <li id="centrowt">
+            <a href="/content/centrowt/">
+                <span lang="ru">Centrowt</span>
+                <span lang="en">Centrowt</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

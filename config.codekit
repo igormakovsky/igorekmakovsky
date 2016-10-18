@@ -3550,6 +3550,75 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/content\/centrowt\/img\/centrowt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 647210,
+		"inputAbbreviatedPath": "\/content\/centrowt\/img\/centrowt.jpg",
+		"outputAbbreviatedPath": "\/content\/centrowt\/img\/centrowt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/centrowt\/img\/centrowt@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.3696e+06,
+		"inputAbbreviatedPath": "\/content\/centrowt\/img\/centrowt@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/centrowt\/img\/centrowt@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/centrowt\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107191,
+		"inputAbbreviatedPath": "\/content\/centrowt\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/centrowt\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/centrowt\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/centrowt\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/centrowt\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/centrowt\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/centrowt\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/centrowt\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/centrowt\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/centrowt\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/content\/cherry\/css\/custom.css": {
 		"fileType": 16,
 		"ignore": 1,
