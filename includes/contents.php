@@ -732,11 +732,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Хватит рисовать</span>
-            <span lang="en">Enough drawing</span>
-
+        <li id="buy">
+            <a href="/content/buy/">
+                <span lang="ru">Купить</span>
+                <span lang="en">Buy</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
