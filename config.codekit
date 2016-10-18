@@ -5912,6 +5912,75 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/content\/life\/img\/index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116520,
+		"inputAbbreviatedPath": "\/content\/life\/img\/index.jpg",
+		"outputAbbreviatedPath": "\/content\/life\/img\/index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/life\/img\/life.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324069,
+		"inputAbbreviatedPath": "\/content\/life\/img\/life.jpg",
+		"outputAbbreviatedPath": "\/content\/life\/img\/life.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/life\/img\/life@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.21848e+06,
+		"inputAbbreviatedPath": "\/content\/life\/img\/life@2x.jpg",
+		"outputAbbreviatedPath": "\/content\/life\/img\/life@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/life\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/life\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/life\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/life\/js\/custom.js",
+		"outputAbbreviatedPath": "\/content\/life\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/content\/life\/scss\/custom.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/life\/scss\/custom.scss",
+		"outputAbbreviatedPath": "\/content\/life\/css\/custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/content\/lines\/img\/index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

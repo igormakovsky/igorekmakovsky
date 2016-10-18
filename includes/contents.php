@@ -858,11 +858,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Забыл</span>
-            <span lang="en">Forgot</span>
-
+        <li id="life">
+            <a href="/content/life/">
+                <span lang="ru">Жызене</span>
+                <span lang="en">Life</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
