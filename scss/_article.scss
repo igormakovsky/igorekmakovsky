@@ -53,5 +53,14 @@ article {
                 }
             }
         }
+        &.fullwidth {
+            width:100%;
+            max-width:1500px;
+            &.flex-row {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+        }
     }
 }

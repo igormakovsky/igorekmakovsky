@@ -333,11 +333,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Завтрак</span>
-            <span lang="en">Breakfast</span>
-
+        <li id="dinner">
+            <a href="/content/dinner/">
+                <span lang="ru">Обед</span>
+                <span lang="en">Dinner</span>
+            </a>
         </li>
 
         <li id="streetlights">

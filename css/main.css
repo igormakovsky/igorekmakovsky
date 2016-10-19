@@ -1787,6 +1787,22 @@ article section.picture.double * {
 article section.picture.double figure img, article section.picture.double .center img {
   width: 100%;
 }
+article section.fullwidth {
+  width: 100%;
+  max-width: 1500px;
+}
+article section.fullwidth.flex-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
 
 html {
   background-color: white;
