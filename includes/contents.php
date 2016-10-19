@@ -326,11 +326,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сосед сверху</span>
-            <span lang="en">Upstairs neighbor</span>
-
+        <li id="fifth-level">
+            <a href="/content/fifth-level/">
+                <span lang="ru">5 этаж</span>
+                <span lang="en">5th level</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -440,8 +440,8 @@
 
         <li id="musail-book">
             <a href="/content/musail-book/">
-                <span lang="ru">Мусаил</span>
-                <span lang="en">Musail</span>
+                <span lang="ru">Приключения Мусаила</span>
+                <span lang="en">Musail adventures</span>
             </a>
         </li>
 

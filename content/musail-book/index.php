@@ -324,7 +324,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section style="margin-top:5rem;">
+    <section style="margin-top:5rem; margin-bottom:15rem;">
 
         <div class="center">
             <img src="img/musail-book-20.jpg" srcset="img/musail-book-20@2x.jpg 2x">
@@ -332,13 +332,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section style="margin-top:10rem; margin-bottom:16rem;">
-
+<!-- <section style="margin-top:10rem; margin-bottom:16rem;">
+    
         <div class="center">
             <img src="img/musail-4.jpg" srcset="img/musail-4@2x.jpg 2x">
         </div>
-
-    </section>
+    
+    </section> -->
 
 
     <?php require $docroot.'includes/bottom.php'; ?>
