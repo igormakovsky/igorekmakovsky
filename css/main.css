@@ -123,6 +123,11 @@ ol li {
   content: '”';
 }
 
+.emdash::before {
+  content: '— ';
+  margin-left: -1em;
+}
+
 .small, article section.text p.small {
   font-size: 1.5rem;
 }

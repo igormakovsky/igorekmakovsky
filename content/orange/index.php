@@ -4,10 +4,10 @@ $parent = 'content';
 $color = 'f3763f';
 $title_ru = 'Рыжий';
 $title_en = 'Orange';
-$description_ru = '';
-$description_en = '';
-$keywords_ru = '';
-$keywords_en = '';
+$description_ru = '21×29см — акварель — 1988';
+$description_en = '21×29cm — watercolors — 1988';
+$keywords_ru = 'рыжий, цвет, глаза, кот';
+$keywords_en = 'orange, color, eyes, cat';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 

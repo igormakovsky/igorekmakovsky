@@ -145,6 +145,13 @@ strong {
     }
 }
 
+.emdash {
+    &::before {
+            content: '— ';
+            margin-left: -1em;
+        }
+}
+
 .small {
     font-size: 1.5rem;
 }

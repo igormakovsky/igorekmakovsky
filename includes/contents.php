@@ -438,11 +438,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мусаил</span>
-            <span lang="en">Musail</span>
-
+        <li id="musail-book">
+            <a href="/content/musail-book/">
+                <span lang="ru">Мусаил</span>
+                <span lang="en">Musail</span>
+            </a>
         </li>
 
         <li id="sunset">
