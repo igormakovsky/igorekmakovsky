@@ -711,11 +711,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Свое хозяйство — свои продукты</span>
-            <span lang="en">Own farm — own goods</span>
-
+        <li id="birds">
+            <a href="/content/birds/">
+                <span lang="ru">Домашние птицы</span>
+                <span lang="en">Domestic fowl</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

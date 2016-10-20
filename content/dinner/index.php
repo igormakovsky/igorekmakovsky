@@ -87,7 +87,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
     
-    <section style="height:45rem;">
+    <section style="height:45rem; margin-top:12rem;">
         
         <div class="drag" style="top:-8rem; left:-13rem;">
             <img src="img/dinner-13.png" srcset="img/dinner-13@2x.png 2x">
@@ -101,7 +101,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/dinner-15.png" srcset="img/dinner-15@2x.png 2x">
         </div>
            
-        <div class="drag" style="top:-3.5rem; left:24.4rem;">
+        <div class="drag" style="top:-29.5rem; left:19.4rem;">
             <img src="img/dinner-16.png" srcset="img/dinner-16@2x.png 2x">
         </div>
            
