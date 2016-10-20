@@ -914,11 +914,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Бурда Мода — 3</span>
-            <span lang="en">Burda Moda — 3</span>
-
+        <li id="burda-3">
+            <a href="/content/burda-3/">
+                <span lang="ru">Бурда Моден — 3</span>
+                <span lang="en">Burda Moden — 3</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
