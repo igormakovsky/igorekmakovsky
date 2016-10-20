@@ -3,7 +3,7 @@ $id = 'fifth-level';
 $parent = 'content';
 $color = 'da593b';
 $title_ru = '5 этаж';
-$title_en = '5th level';
+$title_en = '5th floor';
 $description_ru = 'фломастеры, печатная машинка — 1990';
 $description_en = 'feltpen, typewriter — 1990';
 $keywords_ru = 'пять, этаж';
@@ -26,7 +26,23 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
+
+    <section class="text">
+
+        <h2>
+            <span lang="ru">5-й этаж</span>
+            <span lang="en">5-th floor</span>
+        </h2>
+
+        <p>
+            <span lang="ru">Табличка из подъезда моего дома
+            <br>на Старом Гае в Москве</span>
+            <span lang="en">Tablet from my house entrance
+            <br>on Staryi Gay street, Moscow</span>
+        </p>
+
+    </section>
+
     <section style="margin-top:6rem; margin-bottom:14rem;">
 
         <div class="center">

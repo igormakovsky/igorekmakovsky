@@ -329,7 +329,7 @@
         <li id="fifth-level">
             <a href="/content/fifth-level/">
                 <span lang="ru">5 этаж</span>
-                <span lang="en">5th level</span>
+                <span lang="en">5th floor</span>
             </a>
         </li>
 
@@ -662,11 +662,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">N</span>
-            <span lang="en">N</span>
-
+        <li id="n">
+            <a href="/content/n/">
+                <span lang="ru">N</span>
+                <span lang="en">N</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -676,11 +676,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наутилус и я</span>
-            <span lang="en">Nautilis and me</span>
-
+        <li id="nautilus-and-me">
+            <a href="/content/nautilus-and-me/">
+                <span lang="ru">Наутилус и я</span>
+                <span lang="en">Nautilis and me</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -830,11 +830,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Воспоминания о Кашире</span>
-            <span lang="en">Memories of Kashira</span>
-
+        <li id="kashira">
+            <a href="/content/kashira/">
+                <span lang="ru">Кашира</span>
+                <span lang="en">Kashira</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
