@@ -921,11 +921,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Походный англо-русский словарь</span>
-            <span lang="en">Field english-russian dictionary</span>
-
+        <li id="camping">
+            <a href="/content/camping/">
+                <span lang="ru">Походный славаr</span>
+                <span lang="en">Camping dictionary</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -949,11 +949,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Телеграфные столбы зимой</span>
-            <span lang="en">Electricity poles in winter</span>
-
+        <li id="telegraph">
+            <a href="/content/telegraph/">
+                <span lang="ru">Телеграфные столбы</span>
+                <span lang="en">Telegraph poles</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1005,25 +1005,25 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Столы</span>
-            <span lang="en">Tables</span>
-
+        <li id="podagra">
+            <a href="/content/podagra/">
+                <span lang="ru">Подагра</span>
+                <span lang="en">Podagra</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Таблетки угольки</span>
-            <span lang="en">Coal medicine</span>
-
+        <li id="charcoal">
+            <a href="/content/charcoal/">
+                <span lang="ru">Таблетки угольки</span>
+                <span lang="en">Charcoal pills</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сама знаешь</span>
-            <span lang="en">You know for yourself</span>
-
+        <li id="schematics">
+            <a href="/content/schematics/">
+                <span lang="ru">Схема Леопольда</span>
+                <span lang="en">Leopold schematics</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1033,11 +1033,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мужчины и супер женщины</span>
-            <span lang="en">Men and super women</span>
-
+        <li id="plan">
+            <a href="/content/plan/">
+                <span lang="ru">План</span>
+                <span lang="en">Plan</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1110,11 +1110,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Павел Максимович</span>
-            <span lang="en">Pavelmaximovich</span>
-
+        <li id="pavel-moksimoch">
+            <a href="/content/pavel-moksimoch/">
+                <span lang="ru">Паэл Моксимоч</span>
+                <span lang="en">Pavel Moksimoch</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1152,11 +1152,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Новости России</span>
-            <span lang="en">Russian news</span>
-
+        <li id="russia-news">
+            <a href="/content/russia-news/">
+                <span lang="ru">Новости России</span>
+                <span lang="en">Russia news</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
