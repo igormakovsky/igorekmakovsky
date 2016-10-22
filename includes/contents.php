@@ -781,11 +781,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Английский — 2</span>
-            <span lang="en">English — 2</span>
-
+        <li id="english-2">
+            <a href="/content/english-2/">
+                <span lang="ru">Английский — 2</span>
+                <span lang="en">English — 2</span>
+            </a>
         </li>
 
         <li id="moscow">
