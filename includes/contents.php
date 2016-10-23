@@ -1138,11 +1138,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мысли о больнице</span>
-            <span lang="en">Thoughts on hospital</span>
-
+        <li id="reminiscences">
+            <a href="/content/reminiscences/">
+                <span lang="ru">Реминисценции о больнице</span>
+                <span lang="en">Hospital reminiscences</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
