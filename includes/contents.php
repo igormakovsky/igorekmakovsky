@@ -557,11 +557,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Пейзаж</span>
-            <span lang="en">Landscape</span>
-
+        <li id="vishnikovskaya">
+            <a href="/content/vishnikovskaya/">
+                <span lang="ru">Писаж — церковь Вишниковская</span>
+                <span lang="en">Lantscape — Vishnikovskaya church</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
