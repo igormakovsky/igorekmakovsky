@@ -28,6 +28,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
+    
+    <section>
+        
+        <div class="drag" style="left:10; top:-5rem;">
+            <figure class="rot-10">
+                <img src="img/academy-4.png" srcset="img/academy-4@2x.png 2x">
+            </figure>
+        </div>
+        
+    </section>
 
     <section class="text">
 

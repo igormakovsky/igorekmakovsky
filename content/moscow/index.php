@@ -19,6 +19,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
+    <section class="picture" style="margin-top:3rem; max-width:1500px;">
+
+        <div class="center">
+            <img src="img/moscow-10.jpg" srcset="img/moscow-10@2x.jpg 2x">
+        </div>
+
+    </section>
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -26,7 +34,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -34,7 +42,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -42,15 +50,23 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
-    <section class="picture" style="margin-top:8rem;">
+
+    <section class="picture" style="margin-top:1rem;">
+
+        <div class="center">
+            <img src="img/moscow-14.jpg" srcset="img/moscow-14@2x.jpg 2x">
+        </div>
+
+    </section>
+
+    <section class="picture" style="margin-top:2rem;">
 
         <div class="center">
             <img src="img/moscow-5.jpg" srcset="img/moscow-5@2x.jpg 2x">
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -58,7 +74,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -66,7 +82,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:8rem;">
 
         <div class="center">
@@ -74,7 +90,29 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
+
+    <section style="height:34rem; margin-top:10rem;">
+
+        <div class="drag" style="left:-5rem; top:5rem;">
+            <figure class="scale-08">
+                <img src="img/moscow-11.png" srcset="img/moscow-11@2x.png 2x">
+            </figure>
+        </div>
+
+        <div class="drag" style="left:19rem; top:-1rem;">
+            <figure class="scale-08">
+                <img src="img/moscow-12.png" srcset="img/moscow-12@2x.png 2x">
+            </figure>
+        </div>
+
+        <div class="drag" style="right:-5rem; top:2rem;">
+            <figure class="scale-08">
+                <img src="img/moscow-13.png" srcset="img/moscow-13@2x.png 2x">
+            </figure>
+        </div>
+
+    </section>
+
     <section style="margin-top:8rem; margin-bottom:13rem;">
 
         <div class="center">

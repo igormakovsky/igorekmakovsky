@@ -620,11 +620,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сщвецкая жизьнь</span>
-            <span lang="en">Sowedish life</span>
-
+        <li id="soviet-life">
+            <a href="/content/soviet-life/">
+                <span lang="ru">Сщвецкая жизьнь</span>
+                <span lang="en">Sowiet lyfe</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
