@@ -144,18 +144,18 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Домашняя академия</span>
-            <span lang="en">Domestic academy</span>
-
+        <li id="academy">
+            <a href="/content/academy/">
+                <span lang="ru">Домашняя академия</span>
+                <span lang="en">Housework academy</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Три trees</span>
-            <span lang="en">Three trees</span>
-
+        <li id="trees">
+            <a href="/content/trees/">
+                <span lang="ru">Деревья — полиптих</span>
+                <span lang="en">Trees — polyptych</span>
+            </a>
         </li>
 
         <li id="bass">
@@ -172,25 +172,25 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">План У</span>
-            <span lang="en">U plan</span>
-
+        <li id="u-plan">
+            <a href="/content/u-plan/">
+                <span lang="ru">План У</span>
+                <span lang="en">U plan</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Стихотворения</span>
-            <span lang="en">Poems</span>
-
+        <li id="poems">
+            <a href="/content/poems/">
+                <span lang="ru">Отценка</span>
+                <span lang="en">Skore</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Этюды шариковой ручкой</span>
-            <span lang="en">Ballpen sketches</span>
-
+        <li id="elevators">
+            <a href="/content/elevators/">
+                <span lang="ru">Лифты</span>
+                <span lang="en">Elevators</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -207,11 +207,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Строительный кран</span>
-            <span lang="en">Construction crane</span>
-
+        <li id="crane">
+            <a href="/content/crane/">
+                <span lang="ru">Строительный кран</span>
+                <span lang="en">Construction crane</span>
+            </a>
         </li>
 
         <li id="clean">
@@ -221,18 +221,18 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Дедов телевизор который всегда ломается</span>
-            <span lang="en">Grandfathers tv that always tends to break</span>
-
+        <li id="tv">
+            <a href="/content/tv/">
+                <span lang="ru">Дедушкин телевизор всегда ломается</span>
+                <span lang="en">Grandfather`s tv breaks often</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Парк в Кусково</span>
-            <span lang="en">Park in Kuskovo</span>
-
+        <li id="kuskovo">
+            <a href="/content/kuskovo/">
+                <span lang="ru">Кусково</span>
+                <span lang="en">Kuskovo</span>
+            </a>
         </li>
 
         <li id="flowerbed">
@@ -242,11 +242,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Ветрено</span>
-            <span lang="en">Windy</span>
-
+        <li id="windy">
+            <a href="/content/windy/">
+                <span lang="ru">Ветрено</span>
+                <span lang="en">Windy</span>
+            </a>
         </li>
 
         <li id="gust-of-wind">
@@ -256,25 +256,25 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Пистамент</span>
-            <span lang="en">Pidestal</span>
-
+        <li id="pidestal">
+            <a href="/content/pidestal/">
+                <span lang="ru">Пистамент</span>
+                <span lang="en">Pidestal</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Лестницы</span>
-            <span lang="en">Ladders</span>
-
+        <li id="ladders">
+            <a href="/content/ladders/">
+                <span lang="ru">Лестницы — триптих</span>
+                <span lang="en">Ladders — triptych</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Леопольд и семена</span>
-            <span lang="en">Leopold and the seeds</span>
-
+        <li id="leopold-seeds">
+            <a href="/content/leopold-seeds/">
+                <span lang="ru">Семена Леопольда</span>
+                <span lang="en">Leopold's seeds</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
