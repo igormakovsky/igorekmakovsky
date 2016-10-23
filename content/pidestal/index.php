@@ -11,7 +11,7 @@ $keywords_en = 'pedestal, grate';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:8rem;">
+    <section class="picture vertical" style="margin-top:8rem;">
 
         <div class="center">
             <img src="img/pidestal.jpg" srcset="img/pidestal@2x.jpg 2x">

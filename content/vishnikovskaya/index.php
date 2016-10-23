@@ -31,7 +31,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </figure>
         </div>
            
-        <div class="drag" style="left:6rem; top:39rem;">
+        <div class="drag" style="left:6rem; top:54rem;">
             <figure class="rot-55">
                 <img src="img/ticket-4.png" srcset="img/ticket-4@2x.png 2x">
             </figure>
@@ -49,7 +49,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="text" style="margin-top:4rem; margin-bottom:22rem;">
+    <section class="text" style="margin-top:4rem; margin-bottom:33rem;">
 
         <h2>
             <span lang="ru">Писаж — церковь Вишниковская</span>

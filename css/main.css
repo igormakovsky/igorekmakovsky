@@ -1767,6 +1767,9 @@ article section.picture {
 article section.picture figure img, article section.picture .center img, article section.picture.double .center img {
   width: 100%;
 }
+article section.picture.vertical {
+  max-width: 1000px;
+}
 article section.picture.double {
   display: -webkit-box;
   display: -ms-flexbox;

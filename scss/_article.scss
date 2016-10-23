@@ -38,6 +38,9 @@ article {
                     width: 100%;
                 }
             }
+            &.vertical {
+                max-width: 1000px;
+            }
             &.double {
                 display: flex;
                 flex-direction: row;

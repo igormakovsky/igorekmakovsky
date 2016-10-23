@@ -11,7 +11,7 @@ $keywords_en = 'trees, polyptych';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:8rem; width:70%;">
+    <section class="picture vertical" style="margin-top:8rem; width:70%;">
 
         <div class="center">
             <img alt src="img/trees-1.jpg" srcset="img/trees-1@2x.jpg 2x">
@@ -59,7 +59,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
     
-    <section class="picture" style="margin-top:8rem; width:70%;">
+    <section class="picture vertical" style="margin-top:8rem; width:70%;">
 
         <div class="center">
             <img alt src="img/trees-3.jpg" srcset="img/trees-3@2x.jpg 2x">
