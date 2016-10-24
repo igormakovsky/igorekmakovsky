@@ -1,5 +1,5 @@
 <?php
-$id = 'soviet-life';
+$id = 'news';
 $parent = 'content';
 $color = '07daff';
 $title_ru = 'Сщвецкая жызьнь';
@@ -21,11 +21,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     
     <section>
         
-        <div class="drag" style="left:6rem; top:10rem;">
+        <!-- <div class="drag" style="left:6rem; top:10rem;">
             <figure class="rot15">
                 <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
             </figure>
-        </div>
+        </div> -->
            
         <div class="drag" style="right:3rem; top:-30rem;">
             <figure class="rot-20">
@@ -51,11 +51,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </figure>
         </div>
            
-        <div class="drag" style="right:31rem; top:75rem;">
+        <!-- <div class="drag" style="right:31rem; top:75rem;">
             <figure class="rot20">
                 <img src="img/drag-6.png" srcset="img/drag-6@2x.png 2x">
             </figure>
-        </div>
+        </div> -->
         
     </section>
 
@@ -122,11 +122,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </figure>
         </div>
            
-        <div class="drag" style="right:7rem; top:-20rem;">
+        <!-- <div class="drag" style="right:7rem; top:-20rem;">
             <figure class="rot-5">
                 <img src="img/drag-8.png" srcset="img/drag-8@2x.png 2x">
             </figure>
-        </div>
+        </div> -->
         
     </section>
 

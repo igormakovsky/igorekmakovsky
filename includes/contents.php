@@ -319,11 +319,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Лейкопластыри</span>
-            <span lang="en">Plasters</span>
-
+        <li id="voronezh">
+            <a href="/content/voronezh/">
+                <span lang="ru">Воронежский лейкопластырь</span>
+                <span lang="en">Voronezh plaster</span>
+            </a>
         </li>
 
         <li id="fifth-level">
@@ -620,8 +620,8 @@
 
         </li>
 
-        <li id="soviet-life">
-            <a href="/content/soviet-life/">
+        <li id="news">
+            <a href="/content/news/">
                 <span lang="ru">Сщвецкая жизьнь</span>
                 <span lang="en">Sowiet lyfe</span>
             </a>

@@ -52,8 +52,8 @@
         </li>
 
         <li>
-            <span lang="ru"><a href="http://dizzystories.ru">dizzystories.ru</a></span>
-            <span lang="en"><a href="http://dizzystories.com">dizzystories.com</a></span>
+            <span lang="ru"><a href="http://dizzybook.ru">dizzybook.ru</a></span>
+            <span lang="en"><a href="http://dizzybook.com">dizzybook.com</a></span>
         </li>
 
     </ul>
