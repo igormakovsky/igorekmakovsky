@@ -4221,6 +4221,254 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/boulder-dash\/img\/boulder-dash-1.jpg": {
+		"ft": 16384,
+		"iS": 151794,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-1.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-10.jpg": {
+		"ft": 16384,
+		"iS": 149600,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 551021,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-10@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-11.jpg": {
+		"ft": 16384,
+		"iS": 149608,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 549235,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-11@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 528591,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-1@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-2.jpg": {
+		"ft": 16384,
+		"iS": 132999,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-2.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 482694,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-2@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-3.jpg": {
+		"ft": 16384,
+		"iS": 196439,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-3.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 678190,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-3@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-4.jpg": {
+		"ft": 16384,
+		"iS": 119888,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 456536,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-4@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-5.jpg": {
+		"ft": 16384,
+		"iS": 156739,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-5.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 571385,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-5@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-6.jpg": {
+		"ft": 16384,
+		"iS": 139757,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-6.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 524841,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-6@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-7.jpg": {
+		"ft": 16384,
+		"iS": 132623,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-7.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 484643,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-7@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-8.jpg": {
+		"ft": 16384,
+		"iS": 150893,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 554015,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-9.jpg": {
+		"ft": 16384,
+		"iS": 159578,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-9.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/boulder-dash-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 560746,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/boulder-dash-9@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/boulder-dash\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 237489,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boulder-dash\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boulder-dash\/index.php",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/boulder-dash\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/boulder-dash\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/boulder-dash\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/boulder-dash\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/burda-3\/img\/burda-three-1.jpg": {
 		"ft": 16384,
 		"iS": 76236,
@@ -13779,6 +14027,94 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/perspective\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 67818,
+		"oA": 0,
+		"oAP": "\/content\/perspective\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/perspective\/img\/perspective.jpg": {
+		"ft": 16384,
+		"iS": 326651,
+		"oA": 0,
+		"oAP": "\/content\/perspective\/img\/perspective.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/perspective\/img\/perspective@2x.jpg": {
+		"ft": 16384,
+		"iS": 1203760,
+		"oA": 0,
+		"oAP": "\/content\/perspective\/img\/perspective@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/perspective\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/perspective\/index.php",
+		"oF": 0
+		},
+	"\/content\/perspective\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/perspective\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/perspective\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/perspective\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/perspective\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/pests\/img\/drag-1.png": {
 		"ft": 32768,
 		"iS": 114523,
@@ -19893,6 +20229,94 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/voronezh\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/water-pipe\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 77331,
+		"oA": 0,
+		"oAP": "\/content\/water-pipe\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/water-pipe\/img\/water-pipe.jpg": {
+		"ft": 16384,
+		"iS": 260612,
+		"oA": 0,
+		"oAP": "\/content\/water-pipe\/img\/water-pipe.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/water-pipe\/img\/water-pipe@2x.jpg": {
+		"ft": 16384,
+		"iS": 930460,
+		"oA": 0,
+		"oAP": "\/content\/water-pipe\/img\/water-pipe@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/water-pipe\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/water-pipe\/index.php",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/water-pipe\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/water-pipe\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/water-pipe\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/water-pipe\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

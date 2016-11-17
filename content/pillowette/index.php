@@ -4,8 +4,8 @@ $parent = 'content';
 $color = '7d7260';
 $title_ru = 'Подушечка';
 $title_en = 'Pillowette';
-$description_ru = 'Ах ты, моя душечка — белая подушечка';
-$description_en = 'Oh you, my sweetheart — white pillowette';
+$description_ru = '12×6см — карандаш — 1991';
+$description_en = '12×6cm — pencil — 1991';
 $keywords_ru = 'подушка, стихотворение, пуговица';
 $keywords_en = 'pillow, poem, button';
 

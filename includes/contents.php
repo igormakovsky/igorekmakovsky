@@ -508,11 +508,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Ветер в проводах</span>
-            <span lang="en">Wind in the wires</span>
-
+        <li id="perspective">
+            <a href="/content/perspective/">
+                <span lang="ru">Перспектива</span>
+                <span lang="en">Perspective</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -585,11 +585,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Ушли и кран не закрыли</span>
-            <span lang="en">Left and didn’t close the valve</span>
-
+        <li id="water-pipe">
+            <a href="/content/water-pipe/">
+                <span lang="ru">Ушли и забыли закрыть кран</span>
+                <span lang="en">Forgot closing the tap and gone</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -753,11 +753,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Boulder Dash</span>
-            <span lang="en">Boulder Dash</span>
-
+        <li id="boulder-dash">
+            <a href="/content/boulder-dash/">
+                <span lang="ru">Boulder Dash</span>
+                <span lang="en">Boulder Dash</span>
+            </a>
         </li>
 
         <li id="kranty">
