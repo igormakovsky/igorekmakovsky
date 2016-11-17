@@ -382,18 +382,18 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Подушечка</span>
-            <span lang="en">Pillowette</span>
-
+        <li id="pillowette">
+            <a href="/content/pillowette/">
+                <span lang="ru">Подушечка</span>
+                <span lang="en">Pillowette</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Ноты для цветомузыки</span>
-            <span lang="en">Notes for the color music</span>
-
+        <li id="color-music">
+            <a href="/content/color-music/">
+                <span lang="ru">Партитура для цветомузыки</span>
+                <span lang="en">Score for the colored music</span>
+            </a>
         </li>
 
         <li id="motions">
@@ -679,7 +679,7 @@
         <li id="nautilus-and-me">
             <a href="/content/nautilus-and-me/">
                 <span lang="ru">Наутилус и я</span>
-                <span lang="en">Nautilis and me</span>
+                <span lang="en">Nautilus and me</span>
             </a>
         </li>
 
