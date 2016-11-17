@@ -37,7 +37,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </figure>
         </div>
            
-        <div class="drag" style="left:4rem; top:23rem;">
+        <div class="absolute rot-5" style="left:4rem; top:23rem;">
             <figure class="rot-5">
                 <img src="img/plaster-6.png" srcset="img/plaster-6@2x.png 2x">
             </figure>

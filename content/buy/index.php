@@ -11,7 +11,7 @@ $keywords_en = 'buy, list, shop';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-<section class="picture" style="margin-top:8rem; width:60%;">
+<section style="margin-top:8rem; width:60%;">
 
     <div class="center">
         <img src="img/buy.jpg" srcset="img/buy@2x.jpg 2x">

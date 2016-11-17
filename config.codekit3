@@ -23,6 +23,12 @@
 		"oAP": "\/.com.apple.timemachine.supported",
 		"oF": 0
 		},
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
@@ -4475,6 +4481,798 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/burda-3\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-0.jpg": {
+		"ft": 16384,
+		"iS": 153180,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 606135,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-0@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-1.jpg": {
+		"ft": 16384,
+		"iS": 347711,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-10.jpg": {
+		"ft": 16384,
+		"iS": 316598,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 1029726,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-11.jpg": {
+		"ft": 16384,
+		"iS": 294262,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 988319,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-12.jpg": {
+		"ft": 16384,
+		"iS": 387175,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 1217420,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-12@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-13.jpg": {
+		"ft": 16384,
+		"iS": 367307,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 1179423,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-13@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-14.jpg": {
+		"ft": 16384,
+		"iS": 402181,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-14.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 1220447,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-14@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-15.jpg": {
+		"ft": 16384,
+		"iS": 311831,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-15.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 1034609,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-15@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-16.jpg": {
+		"ft": 16384,
+		"iS": 413920,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-16.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 1244335,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-16@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-17.jpg": {
+		"ft": 16384,
+		"iS": 180254,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-17.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 579850,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-17@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1184380,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-1@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-2.jpg": {
+		"ft": 16384,
+		"iS": 484150,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1404130,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-2@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-3.jpg": {
+		"ft": 16384,
+		"iS": 393274,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1228419,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-4.jpg": {
+		"ft": 16384,
+		"iS": 473129,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1371714,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-4@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-5.jpg": {
+		"ft": 16384,
+		"iS": 330487,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1101335,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-5@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/butterflies-6.jpg": {
+		"ft": 16384,
+		"iS": 380719,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1199393,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-7.jpg": {
+		"ft": 16384,
+		"iS": 405465,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1262606,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-8.jpg": {
+		"ft": 16384,
+		"iS": 431813,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1285969,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-9.jpg": {
+		"ft": 16384,
+		"iS": 361230,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/butterflies-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 1138994,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/butterflies-9@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 64720,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 126140,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 480474,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 84416,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 330656,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 90958,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 347344,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 83817,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 319136,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 39961,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 154407,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 84412,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 313057,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 15042,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 58143,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 32976,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 115499,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 10399,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 37876,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 47687,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 175560,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 443838,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 95128,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 65203,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 247270,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 54707,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 207668,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 56029,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 205637,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 24000,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 86807,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 59807,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 226075,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 64873,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 255706,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 27480,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 99666,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 44864,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 171495,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 354599,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 88432,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 361982,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 131528,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 488345,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 101943,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 389483,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 135607,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 553886,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 131443,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 399386,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 109431,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 389086,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 125821,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 426990,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/butterflies\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 46687,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/img\/index.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/butterflies\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/butterflies\/index.php",
+		"oF": 0
+		},
+	"\/content\/butterflies\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/butterflies\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/butterflies\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/butterflies\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/butterflies\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -12409,6 +13207,1006 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/pavel-moksimoch\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/pests\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 114523,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 188224,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 697898,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 257890,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 894427,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 19668,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 71108,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 80819,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 303357,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 97237,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 367202,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 76519,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 281898,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 88928,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 327404,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 123979,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 460505,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 7759,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 25131,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 17722,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 63516,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 428485,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 142303,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 148220,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 148220,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 58941,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 169647,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 51267,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 254489,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 68748,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 263471,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 45099,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 165960,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 53901,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 198182,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 79499,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 297598,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/pests\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 66848,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 238151,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-28.png": {
+		"ft": 32768,
+		"iS": 63279,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-28.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-28@2x.png": {
+		"ft": 32768,
+		"iS": 229973,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-28@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-29.png": {
+		"ft": 32768,
+		"iS": 45597,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-29.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-29@2x.png": {
+		"ft": 32768,
+		"iS": 161930,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-29@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 515222,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 143678,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-30.png": {
+		"ft": 32768,
+		"iS": 55776,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-30.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-30@2x.png": {
+		"ft": 32768,
+		"iS": 200312,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-30@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-31.png": {
+		"ft": 32768,
+		"iS": 68615,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-31.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-31@2x.png": {
+		"ft": 32768,
+		"iS": 258146,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-31@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-32.png": {
+		"ft": 32768,
+		"iS": 79958,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-32@2x.png": {
+		"ft": 32768,
+		"iS": 291302,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-32@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-33.png": {
+		"ft": 32768,
+		"iS": 64482,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-33.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-33@2x.png": {
+		"ft": 32768,
+		"iS": 245034,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-33@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-34.png": {
+		"ft": 32768,
+		"iS": 45498,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-34.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-34@2x.png": {
+		"ft": 32768,
+		"iS": 162292,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-34@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-35.png": {
+		"ft": 32768,
+		"iS": 53962,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-35.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-35@2x.png": {
+		"ft": 32768,
+		"iS": 193343,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-35@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 518671,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 30203,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 107525,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 137999,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 497843,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 131194,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 495036,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 103872,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 393767,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 118726,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 440820,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 71282,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 251703,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 81824,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-0.jpg": {
+		"ft": 16384,
+		"iS": 81690,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 262919,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-1.jpg": {
+		"ft": 16384,
+		"iS": 153645,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-10.jpg": {
+		"ft": 16384,
+		"iS": 223680,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 679037,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-11.jpg": {
+		"ft": 16384,
+		"iS": 215196,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 669849,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-12.jpg": {
+		"ft": 16384,
+		"iS": 240165,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 736412,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-12@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-13.jpg": {
+		"ft": 16384,
+		"iS": 219657,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 683016,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-13@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-14.jpg": {
+		"ft": 16384,
+		"iS": 197863,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-14.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 625421,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-14@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-15.jpg": {
+		"ft": 16384,
+		"iS": 180492,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-15.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 574894,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-15@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-16.jpg": {
+		"ft": 16384,
+		"iS": 153381,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-16.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 533184,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-16@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-17.jpg": {
+		"ft": 16384,
+		"iS": 164757,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-17.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 560519,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-17@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-18.jpg": {
+		"ft": 16384,
+		"iS": 152526,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-18.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-18@2x.jpg": {
+		"ft": 16384,
+		"iS": 515808,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-18@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-19.jpg": {
+		"ft": 16384,
+		"iS": 166302,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-19.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-19@2x.jpg": {
+		"ft": 16384,
+		"iS": 556229,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-19@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 541157,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-2.jpg": {
+		"ft": 16384,
+		"iS": 198723,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-20.jpg": {
+		"ft": 16384,
+		"iS": 98658,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-20.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-20@2x.jpg": {
+		"ft": 16384,
+		"iS": 409185,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-20@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-21.jpg": {
+		"ft": 16384,
+		"iS": 110920,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-21.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-21@2x.jpg": {
+		"ft": 16384,
+		"iS": 432071,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-21@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-22.jpg": {
+		"ft": 16384,
+		"iS": 70992,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-22.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-22@2x.jpg": {
+		"ft": 16384,
+		"iS": 281006,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-22@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 630331,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-3.jpg": {
+		"ft": 16384,
+		"iS": 251404,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 753157,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-4.jpg": {
+		"ft": 16384,
+		"iS": 211769,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 677823,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-5.jpg": {
+		"ft": 16384,
+		"iS": 191117,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 630095,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-6.jpg": {
+		"ft": 16384,
+		"iS": 200174,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 630990,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-7.jpg": {
+		"ft": 16384,
+		"iS": 230503,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 699013,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-8.jpg": {
+		"ft": 16384,
+		"iS": 210830,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 652604,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-9.jpg": {
+		"ft": 16384,
+		"iS": 239091,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/img\/pests-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 728712,
+		"oA": 0,
+		"oAP": "\/content\/pests\/img\/pests-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/pests\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/pests\/index.php",
+		"oF": 0
+		},
+	"\/content\/pests\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/pests\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/pests\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/pests\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/pests\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

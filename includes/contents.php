@@ -522,11 +522,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вредители дома и огорода</span>
-            <span lang="en">Pests of house and garden</span>
-
+        <li id="pests">
+            <a href="/content/pests/">
+                <span lang="ru">Вредители дома и огорода</span>
+                <span lang="en">Household and garden pests</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -697,11 +697,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наши любимые бабочки</span>
-            <span lang="en">Our lovely butterflies</span>
-
+        <li id="butterflies">
+            <a href="/content/butterflies/">
+                <span lang="ru">Наши любимые бабочки</span>
+                <span lang="en">Our lovely butterflies</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
