@@ -12343,6 +12343,110 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/library\/img\/books@2x.jpg": {
+		"ft": 16384,
+		"iS": 2397328,
+		"oA": 0,
+		"oAP": "\/content\/library\/img\/books@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/library\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 292258,
+		"oA": 0,
+		"oAP": "\/content\/library\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/library\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 1111240,
+		"oA": 0,
+		"oAP": "\/content\/library\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/library\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 207182,
+		"oA": 0,
+		"oAP": "\/content\/library\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/library\/img\/library.jpg": {
+		"ft": 16384,
+		"iS": 731303,
+		"oA": 0,
+		"oAP": "\/content\/library\/img\/library.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/library\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/library\/index.php",
+		"oF": 0
+		},
+	"\/content\/library\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/library\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/library\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/library\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/library\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/life\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 116520,
@@ -14603,146 +14707,146 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/content\/oblspolkom\/img\/drag-1.png": {
+	"\/content\/oblispolkom\/img\/deputy.jpg": {
+		"ft": 16384,
+		"iS": 60553,
+		"oA": 0,
+		"oAP": "\/content\/oblispolkom\/img\/deputy.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblispolkom\/img\/deputy@2x.jpg": {
+		"ft": 16384,
+		"iS": 202867,
+		"oA": 0,
+		"oAP": "\/content\/oblispolkom\/img\/deputy@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblispolkom\/img\/drag-1.png": {
 		"ft": 32768,
 		"iS": 206617,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-1.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-1.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-1@2x.png": {
+	"\/content\/oblispolkom\/img\/drag-1@2x.png": {
 		"ft": 32768,
 		"iS": 684712,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-1@2x.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-1@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-2.png": {
+	"\/content\/oblispolkom\/img\/drag-2.png": {
 		"ft": 32768,
 		"iS": 76413,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-2.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-2.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-2@2x.png": {
+	"\/content\/oblispolkom\/img\/drag-2@2x.png": {
 		"ft": 32768,
 		"iS": 226221,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-2@2x.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-2@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-3.png": {
+	"\/content\/oblispolkom\/img\/drag-3.png": {
 		"ft": 32768,
 		"iS": 69786,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-3.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-3.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-3@2x.png": {
+	"\/content\/oblispolkom\/img\/drag-3@2x.png": {
 		"ft": 32768,
 		"iS": 245490,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-3@2x.png",
+		"oAP": "\/content\/oblispolkom\/img\/drag-3@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/drag-4.png": {
-		"ft": 32768,
-		"iS": 140710,
-		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-4.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/content\/oblspolkom\/img\/drag-4@2x.png": {
-		"ft": 32768,
-		"iS": 436366,
-		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/drag-4@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/content\/oblspolkom\/img\/index.jpg": {
+	"\/content\/oblispolkom\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 113571,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/index.jpg",
+		"oAP": "\/content\/oblispolkom\/img\/index.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/ispolkom.jpg": {
+	"\/content\/oblispolkom\/img\/ispolkom.jpg": {
 		"ft": 16384,
 		"iS": 114466,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/ispolkom.jpg",
+		"oAP": "\/content\/oblispolkom\/img\/ispolkom.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/img\/ispolkom@2x.jpg": {
+	"\/content\/oblispolkom\/img\/ispolkom@2x.jpg": {
 		"ft": 16384,
 		"iS": 430394,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/img\/ispolkom@2x.jpg",
+		"oAP": "\/content\/oblispolkom\/img\/ispolkom@2x.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/oblspolkom\/index.php": {
+	"\/content\/oblispolkom\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/oblspolkom\/index.php",
+		"oAP": "\/content\/oblispolkom\/index.php",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/js\/custom.js": {
+	"\/content\/oblispolkom\/js\/custom.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/content\/oblspolkom\/js\/min\/custom-min.js",
+		"oAP": "\/content\/oblispolkom\/js\/min\/custom-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+	"\/content\/oblispolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oAP": "\/content\/oblispolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
 		"oF": 0
 		},
-	"\/content\/oblspolkom\/scss\/custom.scss": {
+	"\/content\/oblispolkom\/scss\/custom.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -14750,7 +14854,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/content\/oblspolkom\/css\/custom.css",
+		"oAP": "\/content\/oblispolkom\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

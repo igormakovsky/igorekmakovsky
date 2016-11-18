@@ -1082,11 +1082,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Составление книг</span>
-            <span lang="en">Book compilation</span>
-
+        <li id="library">
+            <a href="/content/library/">
+                <span lang="ru">Библиотека</span>
+                <span lang="en">Library</span>
+            </a>
         </li>
 
         <li id="two-birches">
