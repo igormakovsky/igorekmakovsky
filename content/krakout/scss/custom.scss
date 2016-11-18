@@ -1,0 +1,20 @@
+@import "../../../scss/retinajs";
+$bg:#8dcfbb;
+body {
+    background-color: $bg;
+}
+
+table {
+    font-size: 2.5rem;
+    transform: translate(-.15rem, 0);
+    tr {
+        height:3.5rem;
+    }
+    td {
+        width:10rem;
+    }
+}
+
+#bg1 {
+    @include at2x('../img/a');
+}

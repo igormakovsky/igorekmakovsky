@@ -7325,6 +7325,782 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/dictations\/img\/dictations.jpg": {
+		"ft": 16384,
+		"iS": 357583,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/dictations.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/dictations@2x.jpg": {
+		"ft": 16384,
+		"iS": 1352637,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/dictations@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 233800,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 13072,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 38480,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 62028,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 207269,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 70149,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 225376,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 9489,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 27098,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 34836,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 118482,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 65380,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 218907,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 49573,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 152910,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 8045,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 24201,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 41158,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 128595,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 12326,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 39184,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 1012639,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/dictations\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 9788,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 55064,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 171872,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 4663,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 11935,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 54088,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 176702,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 10354,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 31931,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 74014,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 276069,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 72810,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 229454,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 4584,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 13163,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 62981,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 183641,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-28.png": {
+		"ft": 32768,
+		"iS": 51011,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-28.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-28@2x.png": {
+		"ft": 32768,
+		"iS": 175288,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-28@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-29.png": {
+		"ft": 32768,
+		"iS": 9259,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-29.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-29@2x.png": {
+		"ft": 32768,
+		"iS": 27804,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-29@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 30088,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 31218,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-30.png": {
+		"ft": 32768,
+		"iS": 39108,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-30.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-30@2x.png": {
+		"ft": 32768,
+		"iS": 114572,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-30@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-31.png": {
+		"ft": 32768,
+		"iS": 12900,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-31.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-31@2x.png": {
+		"ft": 32768,
+		"iS": 37805,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-31@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-32.png": {
+		"ft": 32768,
+		"iS": 63855,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-32@2x.png": {
+		"ft": 32768,
+		"iS": 198038,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-32@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-33.png": {
+		"ft": 32768,
+		"iS": 12425,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-33.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-33@2x.png": {
+		"ft": 32768,
+		"iS": 41069,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-33@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-34.png": {
+		"ft": 32768,
+		"iS": 38506,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-34.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-34@2x.png": {
+		"ft": 32768,
+		"iS": 124045,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-34@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-35.png": {
+		"ft": 32768,
+		"iS": 18338,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-35.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-35@2x.png": {
+		"ft": 32768,
+		"iS": 60038,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-35@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-36.png": {
+		"ft": 32768,
+		"iS": 17182,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-36.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-36@2x.png": {
+		"ft": 32768,
+		"iS": 53921,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-36@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-37.png": {
+		"ft": 32768,
+		"iS": 4870,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-37.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-37@2x.png": {
+		"ft": 32768,
+		"iS": 13097,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-37@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-38.png": {
+		"ft": 32768,
+		"iS": 37295,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-38.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-38@2x.png": {
+		"ft": 32768,
+		"iS": 163644,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-38@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-39.png": {
+		"ft": 32768,
+		"iS": 7532,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-39.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-39@2x.png": {
+		"ft": 32768,
+		"iS": 24120,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-39@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 96064,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 7209,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-40.png": {
+		"ft": 32768,
+		"iS": 49527,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-40.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-40@2x.png": {
+		"ft": 32768,
+		"iS": 165822,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-40@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-41.png": {
+		"ft": 32768,
+		"iS": 13664,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-41.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-41@2x.png": {
+		"ft": 32768,
+		"iS": 44109,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-41@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-42.png": {
+		"ft": 32768,
+		"iS": 17006,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-42.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-42@2x.png": {
+		"ft": 32768,
+		"iS": 56324,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-42@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-43.png": {
+		"ft": 32768,
+		"iS": 8688,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-43.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-43@2x.png": {
+		"ft": 32768,
+		"iS": 26097,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-43@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 19988,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 93408,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 318096,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 13885,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 45926,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 38299,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 118889,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 8737,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 27420,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 74400,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 248675,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 163927,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dictations\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dictations\/index.php",
+		"oF": 0
+		},
+	"\/content\/dictations\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/dictations\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/dictations\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/dictations\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/dictations\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/dinner\/img\/dinner-1.png": {
 		"ft": 32768,
 		"iS": 7536,
@@ -10951,6 +11727,206 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/krakout\/css\/custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/css\/custom-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/content\/krakout\/css\/custom.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/css\/custom.css.map",
+		"oF": 0
+		},
+	"\/content\/krakout\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 253104,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-1.jpg": {
+		"ft": 16384,
+		"iS": 206643,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 713782,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-2.jpg": {
+		"ft": 16384,
+		"iS": 208086,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 690687,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-3.jpg": {
+		"ft": 16384,
+		"iS": 206566,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 702276,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-4.jpg": {
+		"ft": 16384,
+		"iS": 223304,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 761602,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-5.jpg": {
+		"ft": 16384,
+		"iS": 227938,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 776265,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-6.jpg": {
+		"ft": 16384,
+		"iS": 211964,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 736895,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-7.jpg": {
+		"ft": 16384,
+		"iS": 159554,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/img\/krakout-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 657662,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/img\/krakout-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/krakout\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/index.php",
+		"oF": 0
+		},
+	"\/content\/krakout\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/krakout\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/krakout\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/krakout\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/krakout\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/kranty\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 108711,
@@ -13623,6 +14599,158 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/news\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/oblspolkom\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 206617,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 684712,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 76413,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 226221,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 69786,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 245490,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 140710,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 436366,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 113571,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/ispolkom.jpg": {
+		"ft": 16384,
+		"iS": 114466,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/ispolkom.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/img\/ispolkom@2x.jpg": {
+		"ft": 16384,
+		"iS": 430394,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/img\/ispolkom@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/oblspolkom\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/oblspolkom\/index.php",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/oblspolkom\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/oblspolkom\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/oblspolkom\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/oblspolkom\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -17679,6 +18807,366 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/reminiscences\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/rockfall\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 183267,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-1.jpg": {
+		"ft": 16384,
+		"iS": 183504,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-10.jpg": {
+		"ft": 16384,
+		"iS": 236995,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 832954,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-11.jpg": {
+		"ft": 16384,
+		"iS": 183318,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 641599,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-12.jpg": {
+		"ft": 16384,
+		"iS": 176295,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 677316,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-12@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-13.jpg": {
+		"ft": 16384,
+		"iS": 207646,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 711065,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-13@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-14.jpg": {
+		"ft": 16384,
+		"iS": 217882,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-14.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 741198,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-14@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-15.jpg": {
+		"ft": 16384,
+		"iS": 211889,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-15.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 728209,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-15@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-16.jpg": {
+		"ft": 16384,
+		"iS": 198555,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-16.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 726972,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-16@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 645187,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-2.jpg": {
+		"ft": 16384,
+		"iS": 206724,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 718239,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-3.jpg": {
+		"ft": 16384,
+		"iS": 188670,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 670546,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-4.jpg": {
+		"ft": 16384,
+		"iS": 219692,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 754517,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-5.jpg": {
+		"ft": 16384,
+		"iS": 205349,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 712975,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-6.jpg": {
+		"ft": 16384,
+		"iS": 204606,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 783320,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-7.jpg": {
+		"ft": 16384,
+		"iS": 239992,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 804501,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-8.jpg": {
+		"ft": 16384,
+		"iS": 224204,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 823084,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-9.jpg": {
+		"ft": 16384,
+		"iS": 230596,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 783394,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-album-1.jpg": {
+		"ft": 16384,
+		"iS": 371248,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-album-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-album-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1400110,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-album-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-album-2.jpg": {
+		"ft": 16384,
+		"iS": 355786,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-album-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/img\/rockfall-album-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1347055,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/img\/rockfall-album-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rockfall\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rockfall\/index.php",
+		"oF": 0
+		},
+	"\/content\/rockfall\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/rockfall\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rockfall\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rockfall\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/rockfall\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

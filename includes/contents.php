@@ -424,11 +424,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Альбом для рисования</span>
-            <span lang="en">Drawing album</span>
-
+        <li id="oblispolkom">
+            <a href="/content/oblispolkom/">
+                <span lang="ru">Облисполком</span>
+                <span lang="en">Oblispolkom</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -725,11 +725,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Krakout</span>
-            <span lang="en">Krakout</span>
-
+        <li id="krakout">
+            <a href="/content/krakout/">
+                <span lang="ru">Krakout</span>
+                <span lang="en">Krakout</span>
+            </a>
         </li>
 
         <li id="buy">
@@ -739,11 +739,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Rockfall-2</span>
-            <span lang="en">Rockfall-2</span>
-
+        <li id="rockfall">
+            <a href="/content/rockfall/">
+                <span lang="ru">Rockfall</span>
+                <span lang="en">Rockfall</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1026,11 +1026,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Диктанты</span>
-            <span lang="en">Dictations</span>
-
+        <li id="dictations">
+            <a href="/content/dictations/">
+                <span lang="ru">Диктанты</span>
+                <span lang="en">Dictations</span>
+            </a>
         </li>
 
         <li id="plan">
