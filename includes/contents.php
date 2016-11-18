@@ -305,11 +305,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">День рождения папы</span>
-            <span lang="en">Father's birthday</span>
-
+        <li id="father">
+            <a href="/content/father/">
+                <span lang="ru">День рождения папы</span>
+                <span lang="en">Father's birthday</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
