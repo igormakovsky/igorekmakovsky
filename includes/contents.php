@@ -307,8 +307,8 @@
 
         <li id="" class="notavaible">
 
-            <span lang="ru">Rockfall</span>
-            <span lang="en">Rockfall</span>
+            <span lang="ru">День рождения папы</span>
+            <span lang="en">Father's birthday</span>
 
         </li>
 
@@ -410,11 +410,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Квант БК</span>
-            <span lang="en">ZX Spectrum</span>
-
+        <li id="zxspectrum">
+            <a href="/content/zxspectrum/">
+                <span lang="ru">Квант БК</span>
+                <span lang="en">ZX Spectrum</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -942,11 +942,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Плакат Бурды Моды</span>
-            <span lang="en">Burda Moda poster</span>
-
+        <li id="beriozka">
+            <a href="/content/beriozka/">
+                <span lang="ru">Березка</span>
+                <span lang="en">Beriozka</span>
+            </a>
         </li>
 
         <li id="telegraph">

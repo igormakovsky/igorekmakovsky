@@ -11,6 +11,22 @@ $keywords_en = 'moscow, atlas, tourist';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
+   <!-- <section>
+       
+       <div class="drag" style="top:25rem; left:15rem;">
+            <figure class="rot15">
+                <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
+            </figure>
+        </div>
+           
+        <div class="drag" style="top:26rem; left:17rem;">
+            <figure class="rot5">
+                <img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x">
+            </figure>
+        </div>
+       
+   </section> -->
+   
     <section style="margin-top:10rem;">
 
         <div class="center">
@@ -49,6 +65,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/moscow-4.jpg" srcset="img/moscow-4@2x.jpg 2x">
         </div>
 
+    </section>
+    
+    <section>
+           
+        <div class="drag" style="top:21rem; left:7rem;">
+            <figure class="rot10">
+                <img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x">
+            </figure>
+        </div>
+        
     </section>
 
     <section class="picture" style="margin-top:1rem;">

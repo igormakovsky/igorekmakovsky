@@ -30,6 +30,78 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     <section style="margin-top:7rem;">
 
         <div class="center">
+            <img src="img/rockfall-17.jpg" srcset="img/rockfall-17@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:3rem;">
+
+        <div class="center">
+            <img src="img/rockfall-18.jpg" srcset="img/rockfall-18@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:4rem;">
+
+        <div class="center">
+            <img src="img/rockfall-19.jpg" srcset="img/rockfall-19@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:6rem;">
+
+        <div class="center">
+            <img src="img/rockfall-20.jpg" srcset="img/rockfall-20@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:1rem;">
+
+        <div class="center">
+            <img src="img/rockfall-21.jpg" srcset="img/rockfall-21@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:1rem;">
+
+        <div class="center">
+            <img src="img/rockfall-22.jpg" srcset="img/rockfall-22@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:6rem;">
+
+        <div class="center">
+            <img src="img/rockfall-23.jpg" srcset="img/rockfall-23@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:9rem;">
+
+        <div class="center">
+            <img src="img/rockfall-24.jpg" srcset="img/rockfall-24@2x.jpg 2x">
+        </div>
+
+    </section>
+        
+    <section style="margin-top:9rem;">
+
+        <div class="center">
+            <img src="img/violet.jpg" srcset="img/violet@2x.jpg 2x">
+        </div>
+
+    </section>
+    
+    <section style="margin-top:10rem;">
+
+        <div class="center">
             <img src="img/rockfall-2.jpg" srcset="img/rockfall-2@2x.jpg 2x">
         </div>
 

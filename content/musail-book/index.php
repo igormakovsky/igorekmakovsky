@@ -111,8 +111,24 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
+    
+    <section>
+        
+        <div class="drag" style="top:-20rem; right:8rem;">
+            <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
+        </div>
+           
+        <div class="drag" style="top:20rem; left:8rem;">
+            <img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x">
+        </div>
+           
+        <div class="drag" style="top:37rem; left:24.5rem;">
+            <img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x">
+        </div>
+        
+    </section>
 
-    <section class="text" style="margin-top:3rem;">
+    <section class="text" style="margin-top:3rem; height:45rem;">
 
         <p>
             Когда у него вроде все прошло,
