@@ -2,8 +2,8 @@
 $id = 'english-2';
 $parent = 'content';
 $color = 'fe8f51';
-$title_ru = 'Английский';
-$title_en = 'English';
+$title_ru = 'Английский — 2';
+$title_en = 'English — 2';
 $description_ru = 'Второй номер';
 $description_en = 'Second number';
 $keywords_ru = 'Английский, язык, учебник';

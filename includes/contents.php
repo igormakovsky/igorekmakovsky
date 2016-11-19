@@ -193,11 +193,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Английский — 1</span>
-            <span lang="en">English — 1</span>
-
+        <li id="english-1">
+            <a href="/content/english-1/">
+                <span lang="ru">Английский — 1</span>
+                <span lang="en">English — 1</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

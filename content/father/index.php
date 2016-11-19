@@ -49,7 +49,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     
     <section>
         
-        <div class="drag" style="top:-13rem; left:5rem; z-index:1;">
+        <div class="absolute" style="top:-37rem; right:-20rem; z-index:1;">
             <figure class="rot-5">
                 <img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x">
             </figure>
