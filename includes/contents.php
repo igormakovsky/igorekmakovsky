@@ -200,11 +200,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сад</span>
-            <span lang="en">Garden</span>
-
+        <li id="garden">
+            <a href="/content/garden/">
+                <span lang="ru">Огород и его заботы</span>
+                <span lang="en">Garden hassle</span>
+            </a>
         </li>
 
         <li id="crane">
@@ -858,10 +858,10 @@
 
         </li>
 
-        <li id="life">
-            <a href="/content/life/">
-                <span lang="ru">Жызене</span>
-                <span lang="en">Life</span>
+        <li id="expensive">
+            <a href="/content/expensive/">
+                <span lang="ru">Как все дорого</span>
+                <span lang="en">All is so expensive</span>
             </a>
         </li>
 
@@ -1033,10 +1033,10 @@
             </a>
         </li>
 
-        <li id="plan">
-            <a href="/content/plan/">
-                <span lang="ru">План</span>
-                <span lang="en">Plan</span>
+        <li id="life">
+            <a href="/content/life/">
+                <span lang="ru">Жизнь</span>
+                <span lang="en">Life</span>
             </a>
         </li>
 

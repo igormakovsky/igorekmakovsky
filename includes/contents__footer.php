@@ -6,12 +6,12 @@
 </h1>
 
     <p lang="ru">
-        Архив работ 1988–1993 года, каждая из&nbsp;которых создавалсь с&nbsp;надеждой, что&nbsp;мама, папа или&nbsp;бабушка с&nbsp;дедом не&nbsp;заметят разницы между серъезными позднесоветскими изданиями и&nbsp;тем, что&nbsp;издавал я
+        Архив работ 1988–1994 года, каждая из&nbsp;которых создавалсь с&nbsp;надеждой, что&nbsp;мама, папа или&nbsp;бабушка с&nbsp;дедом не&nbsp;заметят разницы между серъезными позднесоветскими изданиями и&nbsp;тем, что&nbsp;издавал я
         <br>— Игорь Маковский
     </p>
 
     <p lang="en">
-        Archive of 1988–1993 works, each of&nbsp;which was&nbsp;created with a&nbsp;hope, that my&nbsp;mother, dad or&nbsp;grandparents will not&nbsp;notice the&nbsp;difference between serious editions of&nbsp;the&nbsp;late soviet era and those published by&nbsp;me
+        Archive of 1988–1994 works, each of&nbsp;which was&nbsp;created with a&nbsp;hope, that my&nbsp;mother, dad or&nbsp;grandparents will not&nbsp;notice the&nbsp;difference between serious editions of&nbsp;the&nbsp;late soviet era and those published by&nbsp;me
         <br>— Igor Makovsky
     </p>
 

@@ -23,9 +23,9 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
         <p>
             <span lang="ru">Краны, которые долбили землю,<br>провода чинили&hellip;
-        <br>еще в больнице обед</span>
+        <br>еще в&nbsp;больнице обед</span>
             <span lang="en">Cranes, which were pounding ground,<br>repairing wires&hellip;
-        <br>and it is dinner-time in a hospital</span>
+        <br>and it&nbsp;is&nbsp;dinner-time in&nbsp;a&nbsp;hospital</span>
         </p>
         
         <p lang="ru">21×29см
@@ -63,7 +63,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </span>
             <span lang="en">
                 Translation:
-                <br>The bathtub in a hospital clogged down, mother purged it with a plunger, and the window was open in&nbsp;our ward&nbsp;— Dimka, Katya and Lena were lying there&hellip; and suddenly something flowed from the other hole and I was scarred. We also had two round lamps and the sink. We have plugged the hole with a wool. Also we've been washing from bottles and there was a cold water there. Then the warm water flowed.
+                <br>The bathtub in&nbsp;a&nbsp;hospital clogged down, mother purged it with a&nbsp;plunger, and the&nbsp;window was&nbsp;open in&nbsp;our ward&nbsp;— Dimka, Katya and&nbsp;Lena were lying there&hellip; and suddenly something flowed from the&nbsp;other hole and I&nbsp;was scarred. We also had&nbsp;two&nbsp;round lamps and the&nbsp;sink. We&nbsp;have plugged the&nbsp;hole with a&nbsp;wool. Also we've been washing from&nbsp;bottles and&nbsp;there was a&nbsp;cold water there. Then the&nbsp;warm water flowed.
             </span>
         </p>
 

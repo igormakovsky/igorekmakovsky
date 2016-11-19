@@ -11,7 +11,7 @@ $keywords_en = 'library, book, read, document';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:7rem;">
+    <section class="picture" style="margin-top:7rem; width:65%;">
 
         <div class="center">
             <img src="img/library.jpg" srcset="img/library
