@@ -11,7 +11,7 @@ $keywords_en = 'pauel, maksimovich, agreement';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:8rem;">
+    <section class="picture" style="margin-top:8rem; width:69%;">
 
         <div class="center">
             <img src="img/pavel-maksimovich.jpg" srcset="img/pavel-maksimovich@2x.jpg 2x">

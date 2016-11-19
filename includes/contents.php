@@ -312,13 +312,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Дневник природы</span>
-            <span lang="en">Weather diary</span>
-
-        </li>
-
         <li id="voronezh">
             <a href="/content/voronezh/">
                 <span lang="ru">Воронежский лейкопластырь</span>
@@ -774,10 +767,10 @@
 
         </li>
 
-        <li id="god">
-            <a href="/content/god/">
-                <span lang="ru">Дневник погоды №2</span>
-                <span lang="en">Weather diary #2</span>
+        <li id="diary-1">
+            <a href="/content/diary-1/">
+                <span lang="ru">Дневник погоды №1</span>
+                <span lang="en">Dairy of the weather #1</span>
             </a>
         </li>
 
@@ -806,13 +799,6 @@
 
             <span lang="ru">Мир и наука</span>
             <span lang="en">World &amp; science</span>
-
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Английский — 3</span>
-            <span lang="en">English — 3</span>
 
         </li>
 
@@ -879,11 +865,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Артикли</span>
-            <span lang="en">Articles</span>
-
+        <li id="articles">
+            <a href="/content/articles/">
+                <span lang="ru">Артикли</span>
+                <span lang="en">Articles</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1102,6 +1088,13 @@
             <span lang="en">VCR</span>
 
         </li>
+        
+        <li id="english-3">
+            <a href="/content/english-3/">
+                <span lang="ru">Английский — 3</span>
+                <span lang="en">English — 3</span>
+            </a>
+        </li>
 
         <li id="" class="notavaible">
 
@@ -1128,6 +1121,13 @@
             <a href="/content/makhaon/">
                 <span lang="ru">Махаон</span>
                 <span lang="en">Makhaon</span>
+            </a>
+        </li>
+
+        <li id="diary-2">
+            <a href="/content/diary-2/">
+                <span lang="ru">Дневник погоды №2</span>
+                <span lang="en">Weather diary #2</span>
             </a>
         </li>
 
@@ -1217,13 +1217,6 @@
 
         <li id="" class="notavaible">
 
-            <span lang="ru">Дневник погоды</span>
-            <span lang="en">Dairy of the weather</span>
-
-        </li>
-
-        <li id="" class="notavaible">
-
             <span lang="ru">Путеводитель — 2</span>
             <span lang="en">Travel Guide — 2</span>
 
@@ -1241,6 +1234,13 @@
             <span lang="ru">Математика — 2</span>
             <span lang="en">Mathematics — 2</span>
 
+        </li>
+
+        <li id="diary-3">
+            <a href="/content/diary-3/">
+                <span lang="ru">Дневник погоды №3</span>
+                <span lang="en">Weather diary #3</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

@@ -1,5 +1,5 @@
 <?php
-$id = 'god';
+$id = 'diary-2';
 $parent = 'content';
 $color = '6a7a7b';
 $title_ru = 'Дневник погоды №2';
@@ -192,7 +192,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
            
         <p>
             <span class="small">17 марта</span>
-            <br>Мы заводим Orogonons
+            <br>Мы заводим Dragons
         </p>
            
         <p>

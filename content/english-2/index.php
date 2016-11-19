@@ -6,8 +6,8 @@ $title_ru = 'Английский — 2';
 $title_en = 'English — 2';
 $description_ru = 'Второй номер';
 $description_en = 'Second number';
-$keywords_ru = 'Английский, язык, учебник';
-$keywords_en = 'English, language, textbook';
+$keywords_ru = 'английский, язык, учебник';
+$keywords_en = 'english, language, textbook';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
