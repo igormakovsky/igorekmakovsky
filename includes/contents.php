@@ -557,11 +557,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Карта местности</span>
-            <span lang="en">Map of the area</span>
-
+        <li id="territory">
+            <a href="/content/territory/">
+                <span lang="ru">Территория</span>
+                <span lang="en">Territory</span>
+            </a>
         </li>
 
         <li id="insects-2">
@@ -676,11 +676,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Туалет</span>
-            <span lang="en">Toilet</span>
-
+        <li id="toilet">
+            <a href="/content/toilet/">
+                <span lang="ru">Туалет</span>
+                <span lang="en">Toilet</span>
+            </a>
         </li>
 
         <li id="hospital">
