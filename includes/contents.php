@@ -291,18 +291,18 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Светофор</span>
-            <span lang="en">Traffic light</span>
-
+        <li id="traffic">
+            <a href="/content/traffic/">
+                <span lang="ru">Светофор</span>
+                <span lang="en">Traffic light</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Годовой отчет</span>
-            <span lang="en">Annual report</span>
-
+        <li id="annual">
+            <a href="/content/annual/">
+                <span lang="ru">Годовой отчет</span>
+                <span lang="en">Annual report</span>
+            </a>
         </li>
 
         <li id="father">
@@ -473,11 +473,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Два три четыре</span>
-            <span lang="en">Two three four</span>
-
+        <li id="numbers">
+            <a href="/content/numbers/">
+                <span lang="ru">Цифры</span>
+                <span lang="en">Numbers</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
