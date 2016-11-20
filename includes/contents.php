@@ -648,11 +648,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Звезда на елку</span>
-            <span lang="en">Star on the fir-tree</span>
-
+        <li id="star">
+            <a href="/content/star/">
+                <span lang="ru">Звезда</span>
+                <span lang="en">Star</span>
+            </a>
         </li>
 
         <li id="n">
@@ -809,11 +809,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Бабочки</span>
-            <span lang="en">Butterflies</span>
-
+        <li id="buterfy">
+            <a href="/content/buterfy/">
+                <span lang="ru">Батерфяй</span>
+                <span lang="en">Buterfy</span>
+            </a>
         </li>
 
         <li id="kashira">
@@ -961,6 +961,13 @@
             <span lang="ru">Ирма Рауш</span>
             <span lang="en">Irma Rauz</span>
 
+        </li>
+
+        <li id="boris-and-andrey">
+            <a href="/content/boris-and-andrey/">
+                <span lang="ru">Боря и Андрей</span>
+                <span lang="en">Borya and Andrey</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

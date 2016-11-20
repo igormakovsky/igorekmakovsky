@@ -4059,6 +4059,22 @@
 		"oA": 0,
 		"oAP": "\/content\/beriozka\/img\/beriozka@2x.jpg",
 		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/beriozka\/img\/check.jpg": {
+		"ft": 16384,
+		"iS": 153137,
+		"oA": 0,
+		"oAP": "\/content\/beriozka\/img\/check.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/beriozka\/img\/check@2x.jpg": {
+		"ft": 16384,
+		"iS": 590353,
+		"oA": 0,
+		"oAP": "\/content\/beriozka\/img\/check@2x.jpg",
+		"oF": 0,
 		"opt": 0
 		},
 	"\/content\/beriozka\/img\/drag-1.png": {
@@ -5197,6 +5213,206 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/boris-and-andrey\/img\/boris-and-andrey.jpg": {
+		"ft": 16384,
+		"iS": 142223,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/boris-and-andrey.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/boris-and-andrey@2x.jpg": {
+		"ft": 16384,
+		"iS": 517777,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/boris-and-andrey@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 123207,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 448904,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 198077,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 764296,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 173953,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 665497,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 183315,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 692809,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 167710,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 633442,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 180419,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 697303,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 125817,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 462982,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 217631,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boris-and-andrey\/index.php",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/boris-and-andrey\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/boris-and-andrey\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/boris-and-andrey\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/boulder-dash\/img\/boulder-dash-1.jpg": {
 		"ft": 16384,
 		"iS": 151794,
@@ -5857,6 +6073,206 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/burda-3\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/buterfy\/img\/buterfy.jpg": {
+		"ft": 16384,
+		"iS": 241525,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/buterfy.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/buterfy@2x.jpg": {
+		"ft": 16384,
+		"iS": 941879,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/buterfy@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 427811,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 1732762,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 83927,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 320889,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 52760,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 202094,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 417432,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 99376,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 382228,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 80561,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 305391,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 65056,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 247493,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/buterfy\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 125757,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/img\/index.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/buterfy\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/buterfy\/index.php",
+		"oF": 0
+		},
+	"\/content\/buterfy\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/buterfy\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/buterfy\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/buterfy\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/buterfy\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -24751,6 +25167,94 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/square\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/star\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 153458,
+		"oA": 0,
+		"oAP": "\/content\/star\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/star\/img\/star.jpg": {
+		"ft": 16384,
+		"iS": 303506,
+		"oA": 0,
+		"oAP": "\/content\/star\/img\/star.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/star\/img\/star@2x.jpg": {
+		"ft": 16384,
+		"iS": 1150802,
+		"oA": 0,
+		"oAP": "\/content\/star\/img\/star@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/star\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/star\/index.php",
+		"oF": 0
+		},
+	"\/content\/star\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/star\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/star\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/star\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/star\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

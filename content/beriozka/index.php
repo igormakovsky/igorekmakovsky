@@ -11,6 +11,12 @@ $keywords_en = 'beriozka, fashion, wear, foreign, shop, money, dollars';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
+   <section style="margin-top:9rem;">
+       <div class="center">
+           <img src="img/check.jpg" srcset="img/check@2x.jpg 2x">
+       </div>
+   </section>
+   
     <section>
 
         <div class="drag" style="top:7rem; left:16rem;">
@@ -141,7 +147,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:16rem;">
+    <section class="picture" style="margin-top:16rem; height:120rem;">
 
         <div class="center">
             <img src="img/beriozka.jpg" srcset="img/beriozka@2x.jpg 2x">
