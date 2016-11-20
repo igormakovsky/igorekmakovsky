@@ -1,0 +1,17 @@
+@import "../../../scss/retinajs";
+$bg:#8dcfbb;
+body {
+    background-color: $bg;
+}
+
+#vinyl-spinner {
+    transform-origin: 50% 43%;
+}
+#vinyl {
+    @extend #vinyl-spinner;
+    animation-duration: 2s;
+}
+
+#bg1 {
+    @include at2x('../img/a');
+}

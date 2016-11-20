@@ -823,18 +823,18 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мелодия</span>
-            <span lang="en">Melodia</span>
-
+        <li id="films">
+            <a href="/content/films/">
+                <span lang="ru">Кинопленки</span>
+                <span lang="en">Films</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Четыре бумажных пакетика</span>
-            <span lang="en">Four small paperbags</span>
-
+        <li id="bread">
+            <a href="/content/bread/">
+                <span lang="ru">Хлеб с семенами</span>
+                <span lang="en">Bread with seeds</span>
+            </a>
         </li>
 
         <li id="mathematics-2">
