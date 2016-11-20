@@ -592,11 +592,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Master</span>
-            <span lang="en">Master</span>
-
+        <li id="master">
+            <a href="/content/master/">
+                <span lang="ru">Master</span>
+                <span lang="en">Master</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -620,11 +620,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Облако кошка и береза</span>
-            <span lang="en">Cloud cat and a birch</span>
-
+        <li id="cloud-cat-birch">
+            <a href="/content/cloud-cat-birch/">
+                <span lang="ru">Туча, кошка и береза</span>
+                <span lang="en">Cloud, cat and a birch</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
