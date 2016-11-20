@@ -11,7 +11,7 @@ $keywords_en = 'hospital, memories, reminiscences';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:9rem;">
+    <section class="picture" style="margin-top:9rem; width:70%;">
 
         <div class="center">
             <img src="img/reminiscences-1.jpg" srcset="img/reminiscences-1@2x.jpg 2x">
@@ -38,7 +38,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
     
-    <section class="picture" style="margin-top:9rem;">
+    <section class="picture" style="margin-top:9rem; width:70%;">
 
         <div class="center">
             <img src="img/reminiscences-2.jpg" srcset="img/reminiscences-2@2x.jpg 2x">
@@ -46,7 +46,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
         
-    <section class="picture" style="margin-top:1rem;">
+    <section class="picture" style="margin-top:1rem; width:70%;">
 
         <div class="center">
             <img src="img/reminiscences-3.jpg" srcset="img/reminiscences-3@2x.jpg 2x">

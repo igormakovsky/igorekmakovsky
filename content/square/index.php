@@ -11,7 +11,7 @@ $keywords_en = 'map, square';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-<section class="picture" style="margin-top:8rem;">
+<section class="picture" style="margin-top:8rem; width:70%;">
 
 <div class="center">
     <img src="img/square-1.jpg" srcset="img/square-1@2x.jpg 2x">

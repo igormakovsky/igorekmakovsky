@@ -837,11 +837,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Математика — 1</span>
-            <span lang="en">Mathematics — 1</span>
-
+        <li id="mathematics-2">
+            <a href="/content/mathematics-2/">
+                <span lang="ru">Математика — №2</span>
+                <span lang="en">Mathematics — #2</span>
+            </a>
         </li>
 
         <li id="expensive">
@@ -1088,7 +1088,7 @@
             <span lang="en">VCR</span>
 
         </li>
-        
+
         <li id="english-3">
             <a href="/content/english-3/">
                 <span lang="ru">Английский — 3</span>
@@ -1110,11 +1110,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Деньги</span>
-            <span lang="en">Money</span>
-
+        <li id="money">
+            <a href="/content/money/">
+                <span lang="ru">Деньги</span>
+                <span lang="en">Money</span>
+            </a>
         </li>
 
         <li id="makhaon">
