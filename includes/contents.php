@@ -284,11 +284,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Сейчас 13 часов 07 минут</span>
-            <span lang="en">It is 7 minutes past 1 pm</span>
-
+        <li id="holiday">
+            <a href="/content/holiday/">
+                <span lang="ru">Праздник</span>
+                <span lang="en">Holiday</span>
+            </a>
         </li>
 
         <li id="traffic">

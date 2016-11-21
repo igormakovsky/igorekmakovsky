@@ -15191,6 +15191,334 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/holiday\/css\/custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/css\/custom-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/content\/holiday\/css\/custom.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/css\/custom.css.map",
+		"oF": 0
+		},
+	"\/content\/holiday\/img\/holiday-0.jpg": {
+		"ft": 16384,
+		"iS": 97652,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 399255,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-1.jpg": {
+		"ft": 16384,
+		"iS": 177312,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-10.jpg": {
+		"ft": 16384,
+		"iS": 131799,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 491717,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-11.jpg": {
+		"ft": 16384,
+		"iS": 330147,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 1083781,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-12.jpg": {
+		"ft": 16384,
+		"iS": 212867,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 869718,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-12@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-13.jpg": {
+		"ft": 16384,
+		"iS": 166896,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 700230,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-13@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-14.jpg": {
+		"ft": 16384,
+		"iS": 80431,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-14.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 334978,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-14@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 729817,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-2.jpg": {
+		"ft": 16384,
+		"iS": 210371,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 786842,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-3.jpg": {
+		"ft": 16384,
+		"iS": 223571,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 888375,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-4.jpg": {
+		"ft": 16384,
+		"iS": 372394,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1229345,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-5.jpg": {
+		"ft": 16384,
+		"iS": 81701,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 329290,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-6.jpg": {
+		"ft": 16384,
+		"iS": 255815,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 974047,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-7.jpg": {
+		"ft": 16384,
+		"iS": 220916,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 907159,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-8.jpg": {
+		"ft": 16384,
+		"iS": 74468,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 310876,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-9.jpg": {
+		"ft": 16384,
+		"iS": 212737,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/holiday-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 830667,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/holiday-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 168692,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/holiday\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/index.php",
+		"oF": 0
+		},
+	"\/content\/holiday\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/holiday\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/holiday\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/holiday\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/holiday\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/hospital\/img\/hospital-1.jpg": {
 		"ft": 16384,
 		"iS": 275442,
