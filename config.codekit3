@@ -5429,6 +5429,38 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/content\/boris-and-andrey\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 190045,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 755304,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 216342,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/boris-and-andrey\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 836619,
+		"oA": 0,
+		"oAP": "\/content\/boris-and-andrey\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/content\/boris-and-andrey\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 217631,
@@ -18891,6 +18923,174 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/medical\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 243163,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 990265,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 145115,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 603915,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 138276,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 585272,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 157507,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 610335,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 147788,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/medical-1.jpg": {
+		"ft": 16384,
+		"iS": 643849,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/medical-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/medical-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 2335295,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/medical-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/medical-2.jpg": {
+		"ft": 16384,
+		"iS": 82258,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/medical-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/img\/medical-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 303902,
+		"oA": 0,
+		"oAP": "\/content\/medical\/img\/medical-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/medical\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/medical\/index.php",
+		"oF": 0
+		},
+	"\/content\/medical\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/medical\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/medical\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/medical\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/medical\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/content\/money\/img\/coin-1.png": {
 		"ft": 32768,
 		"iS": 22917,
@@ -21243,147 +21443,147 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-1.jpg": {
-		"ft": 16384,
-		"iS": 24646,
+	"\/content\/nine\/img\/nine-1.png": {
+		"ft": 32768,
+		"iS": 138571,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-1.jpg",
+		"oAP": "\/content\/nine\/img\/nine-1.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-1@2x.jpg": {
-		"ft": 16384,
-		"iS": 95229,
+	"\/content\/nine\/img\/nine-1@2x.png": {
+		"ft": 32768,
+		"iS": 613919,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-1@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-1@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-2.jpg": {
-		"ft": 16384,
-		"iS": 27397,
+	"\/content\/nine\/img\/nine-2.png": {
+		"ft": 32768,
+		"iS": 146699,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-2.jpg",
+		"oAP": "\/content\/nine\/img\/nine-2.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-2@2x.jpg": {
-		"ft": 16384,
-		"iS": 104794,
+	"\/content\/nine\/img\/nine-2@2x.png": {
+		"ft": 32768,
+		"iS": 660017,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-2@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-2@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-3.jpg": {
-		"ft": 16384,
-		"iS": 31547,
+	"\/content\/nine\/img\/nine-3.png": {
+		"ft": 32768,
+		"iS": 156510,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-3.jpg",
+		"oAP": "\/content\/nine\/img\/nine-3.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-3@2x.jpg": {
-		"ft": 16384,
-		"iS": 113470,
+	"\/content\/nine\/img\/nine-3@2x.png": {
+		"ft": 32768,
+		"iS": 672636,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-3@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-3@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-4.jpg": {
-		"ft": 16384,
-		"iS": 30032,
+	"\/content\/nine\/img\/nine-4.png": {
+		"ft": 32768,
+		"iS": 154345,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-4.jpg",
+		"oAP": "\/content\/nine\/img\/nine-4.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-4@2x.jpg": {
-		"ft": 16384,
-		"iS": 110768,
+	"\/content\/nine\/img\/nine-4@2x.png": {
+		"ft": 32768,
+		"iS": 674259,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-4@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-4@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-5.jpg": {
-		"ft": 16384,
-		"iS": 24515,
+	"\/content\/nine\/img\/nine-5.png": {
+		"ft": 32768,
+		"iS": 138756,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-5.jpg",
+		"oAP": "\/content\/nine\/img\/nine-5.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-5@2x.jpg": {
-		"ft": 16384,
-		"iS": 95819,
+	"\/content\/nine\/img\/nine-5@2x.png": {
+		"ft": 32768,
+		"iS": 625007,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-5@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-5@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-6.jpg": {
-		"ft": 16384,
-		"iS": 23659,
+	"\/content\/nine\/img\/nine-6.png": {
+		"ft": 32768,
+		"iS": 136532,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-6.jpg",
+		"oAP": "\/content\/nine\/img\/nine-6.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-6@2x.jpg": {
-		"ft": 16384,
-		"iS": 94169,
+	"\/content\/nine\/img\/nine-6@2x.png": {
+		"ft": 32768,
+		"iS": 608339,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-6@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-6@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-7.jpg": {
-		"ft": 16384,
-		"iS": 21400,
+	"\/content\/nine\/img\/nine-7.png": {
+		"ft": 32768,
+		"iS": 119798,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-7.jpg",
+		"oAP": "\/content\/nine\/img\/nine-7.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-7@2x.jpg": {
-		"ft": 16384,
-		"iS": 81764,
+	"\/content\/nine\/img\/nine-7@2x.png": {
+		"ft": 32768,
+		"iS": 541864,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-7@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-7@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-8.jpg": {
-		"ft": 16384,
-		"iS": 27362,
+	"\/content\/nine\/img\/nine-8.png": {
+		"ft": 32768,
+		"iS": 145193,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-8.jpg",
+		"oAP": "\/content\/nine\/img\/nine-8.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-8@2x.jpg": {
-		"ft": 16384,
-		"iS": 104161,
+	"\/content\/nine\/img\/nine-8@2x.png": {
+		"ft": 32768,
+		"iS": 639176,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-8@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-8@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-9.jpg": {
-		"ft": 16384,
-		"iS": 27077,
+	"\/content\/nine\/img\/nine-9.png": {
+		"ft": 32768,
+		"iS": 144780,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-9.jpg",
+		"oAP": "\/content\/nine\/img\/nine-9.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/content\/nine\/img\/nine-9@2x.jpg": {
-		"ft": 16384,
-		"iS": 100762,
+	"\/content\/nine\/img\/nine-9@2x.png": {
+		"ft": 32768,
+		"iS": 630930,
 		"oA": 0,
-		"oAP": "\/content\/nine\/img\/nine-9@2x.jpg",
+		"oAP": "\/content\/nine\/img\/nine-9@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -25535,6 +25735,110 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/poems\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/poles-and-manhole\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 183707,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/img\/index.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/poles-and-manhole\/img\/manhole.jpg": {
+		"ft": 16384,
+		"iS": 364501,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/img\/manhole.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/poles-and-manhole\/img\/manhole@2x.jpg": {
+		"ft": 16384,
+		"iS": 1351726,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/img\/manhole@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/poles-and-manhole\/img\/poles.jpg": {
+		"ft": 16384,
+		"iS": 357438,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/img\/poles.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/content\/poles-and-manhole\/img\/poles@2x.jpg": {
+		"ft": 16384,
+		"iS": 1234211,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/img\/poles@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/poles-and-manhole\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/poles-and-manhole\/index.php",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/poles-and-manhole\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/poles-and-manhole\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/poles-and-manhole\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/poles-and-manhole\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1

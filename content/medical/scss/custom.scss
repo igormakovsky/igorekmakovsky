@@ -4,14 +4,6 @@ body {
     background-color: $bg;
 }
 
-.row {
-    max-width: 1250px;
-    justify-content: space-around;
-    .item {
-        width: 33%;
-    }
-}
-
 #bg1 {
     @include at2x('../img/a');
 }

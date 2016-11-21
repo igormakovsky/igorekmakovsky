@@ -11,7 +11,7 @@ $keywords_en = 'sunset, sun, power lines, field, trudovaya';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:7rem; width:75%;">
+    <section class="picture" style="margin-top:7rem; width:70%;">
 
         <div class="center">
             <img src="img/sunset-1.jpg" srcset="img/sunset-1@2x.jpg 2x">
@@ -19,7 +19,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:5rem; width:75%;">
+    <section class="picture" style="margin-top:5rem; width:70%;">
 
         <div class="center">
             <img src="img/sunset-2.jpg" srcset="img/sunset-2@2x.jpg 2x">
@@ -27,7 +27,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
     
-    <section class="text" style="margin-bottom:7rem;">
+    <section class="text" style="margin:3rem auto 7rem;">
         
         <h2 lang="ru">Закат в поле на Трудовой</h2>
         <h2 lang="en">Sunset in Trudovaya field</h2>

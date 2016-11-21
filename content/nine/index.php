@@ -14,46 +14,64 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     <section class="fullwidth flex-row row" style="margin-top:10.5rem;">
 
         <div class="item">
-            <img src="img/nine-1.jpg" srcset="img/nine-1@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-1.png" srcset="img/nine-1@2x.png 2x">
+            </figure>
         </div>
         <div class="item">
-            <img src="img/nine-2.jpg" srcset="img/nine-2@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-2.png" srcset="img/nine-2@2x.png 2x">
+            </figure>
         </div>
         <div class="item">
-            <img src="img/nine-3.jpg" srcset="img/nine-3@2x.jpg 2x">
-        </div>
-
-    </section>
-        
-    <section class="fullwidth flex-row row" style="margin-top:10vw;">
-
-        <div class="item">
-            <img src="img/nine-4.jpg" srcset="img/nine-4@2x.jpg 2x">
-        </div>
-        <div class="item">
-            <img src="img/nine-5.jpg" srcset="img/nine-5@2x.jpg 2x">
-        </div>
-        <div class="item">
-            <img src="img/nine-6.jpg" srcset="img/nine-6@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-3.png" srcset="img/nine-3@2x.png 2x">
+            </figure>
         </div>
 
     </section>
         
-    <section class="fullwidth flex-row row" style="margin-top:10vw;">
+    <section class="fullwidth flex-row row" style="margin-top:30rem;">
 
         <div class="item">
-            <img src="img/nine-7.jpg" srcset="img/nine-7@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-4.png" srcset="img/nine-4@2x.png 2x">
+            </figure>
         </div>
         <div class="item">
-            <img src="img/nine-8.jpg" srcset="img/nine-8@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-5.png" srcset="img/nine-5@2x.png 2x">
+            </figure>
         </div>
         <div class="item">
-            <img src="img/nine-9.jpg" srcset="img/nine-9@2x.jpg 2x">
+            <figure class="drag">
+                <img src="img/nine-6.png" srcset="img/nine-6@2x.png 2x">
+            </figure>
+        </div>
+
+    </section>
+        
+    <section class="fullwidth flex-row row" style="margin-top:30rem;">
+
+        <div class="item">
+            <figure class="drag">
+                <img src="img/nine-7.png" srcset="img/nine-7@2x.png 2x">
+            </figure>
+        </div>
+        <div class="item">
+            <figure class="drag">
+                <img src="img/nine-8.png" srcset="img/nine-8@2x.png 2x">
+            </figure>
+        </div>
+        <div class="item">
+            <figure class="drag">
+                <img src="img/nine-9.png" srcset="img/nine-9@2x.png 2x">
+            </figure>
         </div>
 
     </section>
     
-    <section class="text" style="margin:3.5rem auto 8rem;">
+    <section class="text" style="margin:3.5rem auto 15.5rem;">
 
         <h2>
         <span lang="ru">9</span>

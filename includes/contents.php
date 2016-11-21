@@ -438,11 +438,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Текущие наблюдения</span>
-            <span lang="en">Current observations</span>
-
+        <li id="medical">
+            <a href="/content/medical/">
+                <span lang="ru">Медицинское</span>
+                <span lang="en">Medical</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -459,11 +459,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Электрические столбы и чугунная крышка</span>
-            <span lang="en">Electricity poles and the manhole</span>
-
+        <li id="poles-and-manhole">
+            <a href="/content/poles-and-manhole/">
+                <span lang="ru">Столбы и чугунная крышка</span>
+                <span lang="en">Poles and the cast iron manhole</span>
+            </a>
         </li>
 
         <li id="numbers">

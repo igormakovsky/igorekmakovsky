@@ -69,6 +69,18 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             </figure>
         </div>
            
+        <div class="drag" style="left:-4rem; top:-32rem;">
+            <figure class="scale-08">
+                <img src="img/drag-8.png" srcset="img/drag-8@2x.png 2x">
+            </figure>
+        </div>
+           
+        <div class="drag" style="left:4rem; top:11rem;">
+            <figure class="scale-08">
+                <img src="img/drag-9.png" srcset="img/drag-9@2x.png 2x">
+            </figure>
+        </div>
+           
         <!-- <div class="absolute" style="left:20rem; top:20rem;">
             <img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x">
         </div> -->
