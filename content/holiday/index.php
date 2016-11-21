@@ -51,17 +51,64 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="text" style="margin-top:6rem;">
+    <section class="text" style="margin-top:10rem;">
 
-        <p>В мамин день на деревьях зажглись
-            <br><span class="indent">разноцветные лампочки</span>,
-            <br>И в Кремле зажглась звезда
-            <br>На работе СССеров заседает
-            <br><span class="indent">Верховный Совет</span>
-            <br>И вверху пушинки летают от тополя
-            <br><span class="indent">и на работе у мамы тоже зажглась звезда</span>
-            <br>Мамина звезда — хорошая
-            <br>И у мамы праздник тоже кажется</p>
+        <h2>Еще один праздник</h2>
+
+        <p>С цветами незабудками поздравляют
+            <br><span class="indent">маму с Верховным Советом</span>
+            <br>И деревья распустились как домики —
+            <br><span class="indent">только пониже</span>
+            <br>Зато подняли флаг —
+            <br><span class="indent">выше</span>
+            <br>И с цветами стало —
+            <br><span class="indent">лучше</span>
+            <br>И в праздник маме подарили незабудки
+            <br>И на улице не было ветра
+            <br><span class="indent">больше</span></p>
+
+        <p style="margin-top:6rem;">
+            Поздравляем маму с праздником,
+            <br><span class="indent">с цветами незабудками,</span>
+            <br>чтобы она не ругалась
+            <br><span class="indent">с Верховным Советом</span>.
+        </p>
+
+        <p style="margin-top:6rem;">
+            Пушка в праздник стреляет
+            <br>И верховный Совет падает
+            <br><span class="indent">от праздника</span>
+            <br>Потом&hellip; расцветают стихи,
+            <br><span class="indent">как у мамы</span>
+            <br>И Верховный Совет заседает
+            <br><span class="indent">в Кремле</span>
+            <br>И в церкви все стали мириться
+            <br>А цветы как огоньки зажглись
+            <br><span class="indent">с праздником</span>
+            <br>И флаг горит в праздники
+            <br><span class="indent">как фонарь</span>
+            <br>И на дорогах стали кучками
+            <br><span class="indent">разлетаться от одуванчиков</span>
+            <br>У мамы сразу настроение
+            <br><span class="indent">хорошее</span>
+            <br>И ночью листок распустился —
+            <br><span class="indent">любой</span>
+            <br>Может березы, а может
+            <br><span class="indent">крапивы</span>
+            <br>И так появилась
+            <br><span class="indent">рябина!</span>
+            <br>И сразу на улице стало
+            <br><span class="indent">тепло</span>
+            <br>Флаг от ветра
+            <br><span class="indent">затрепыхал</span>
+            <br>Прямо на людей
+            <br>А фонари поставили
+            <br><span class="indent">со звездами</span>
+            <br>И цветы как листы распускаются
+            <br>И много радости сразу
+            <br><span class="indent">у всех!</span>
+
+        </p>
 
         <p class="small">1990, май</p>
 
@@ -122,65 +169,18 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
-    <section class="text" style="margin-top:10rem;">
 
-        <h2>Еще один праздник</h2>
+    <section class="text" style="margin-top:6rem;">
 
-        <p>С цветами незабудками поздравляют
-            <br><span class="indent">маму с Верховным Советом</span>
-            <br>И деревья распустились как домики —
-            <br><span class="indent">только пониже</span>
-            <br>Зато подняли флаг —
-            <br><span class="indent">выше</span>
-            <br>И с цветами стало —
-            <br><span class="indent">лучше</span>
-            <br>И в праздник маме подарили незабудки
-            <br>И на улице не было ветра
-            <br><span class="indent">больше</span></p>
-
-        <p style="margin-top:6rem;">
-            Поздравляем маму с праздником,
-            <br><span class="indent">с цветами незабудками,</span>
-            <br>чтобы она не ругалась
-            <br><span class="indent">с Верховным Советом</span>.
-        </p>
-
-        <p style="margin-top:6rem;">
-            Пушка в праздник стреляет
-            <br>И верховный Совет падает
-            <br><span class="indent">от праздника</span>
-            <br>Потом&hellip; расцветают стихи,
-            <br><span class="indent">как у мамы</span>
-            <br>И Верховный Совет заседает
-            <br><span class="indent">в Кремле</span>
-            <br>И в церкви все стали мириться
-            <br>А цветы как огоньки зажглись
-            <br><span class="indent">с праздником</span>
-            <br>И флаг горит в праздники
-            <br><span class="indent">как фонарь</span>
-            <br>И на дорогах стали кучками
-            <br><span class="indent">разлетаться от одуванчиков</span>
-            <br>У мамы сразу настроение
-            <br><span class="indent">хорошее</span>
-            <br>И ночью листок распустился —
-            <br><span class="indent">любой</span>
-            <br>Может березы, а может
-            <br><span class="indent">крапивы</span>
-            <br>И так появилась
-            <br><span class="indent">рябина!</span>
-            <br>И сразу на улице стало
-            <br><span class="indent">тепло</span>
-            <br>Флаг от ветра
-            <br><span class="indent">затрепыхал</span>
-            <br>Прямо на людей
-            <br>А фонари поставили
-            <br><span class="indent">со звездами</span>
-            <br>И цветы как листы распускаются
-            <br>И много радости сразу
-            <br><span class="indent">у всех!</span>
-
-        </p>
+        <p>В мамин день на деревьях зажглись
+            <br><span class="indent">разноцветные лампочки</span>,
+            <br>И в Кремле зажглась звезда
+            <br>На работе СССеров заседает
+            <br><span class="indent">Верховный Совет</span>
+            <br>И вверху пушинки летают от тополя
+            <br><span class="indent">и на работе у мамы тоже зажглась звезда</span>
+            <br>Мамина звезда — хорошая
+            <br>И у мамы праздник тоже кажется</p>
 
         <p class="small">1990, май</p>
 

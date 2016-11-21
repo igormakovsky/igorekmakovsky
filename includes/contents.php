@@ -361,13 +361,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Минимализм</span>
-            <span lang="en">Minimalism</span>
-
-        </li>
-
         <li id="thirty-one">
             <a href="/content/thirty-one/">
                 <span lang="ru">31</span>
@@ -396,11 +389,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Финансовый отчет</span>
-            <span lang="en">Financial report</span>
-
+        <li id="finance">
+            <a href="/content/finance/">
+                <span lang="ru">Финансовый отчет</span>
+                <span lang="en">Financial report</span>
+            </a>
         </li>
 
         <li id="zxspectrum">
@@ -932,6 +925,13 @@
             <a href="/content/beriozka/">
                 <span lang="ru">Березка</span>
                 <span lang="en">Beriozka</span>
+            </a>
+        </li>
+
+        <li id="nine">
+            <a href="/content/nine/">
+                <span lang="ru">9</span>
+                <span lang="en">9</span>
             </a>
         </li>
 
