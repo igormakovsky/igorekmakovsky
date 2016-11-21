@@ -991,11 +991,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наружное применение воды</span>
-            <span lang="en">Outer use of water</span>
-
+        <li id="water">
+            <a href="/content/water/">
+                <span lang="ru">Наружное применение воды</span>
+                <span lang="en">Outer use of water</span>
+            </a>
         </li>
 
         <li id="podagra">
