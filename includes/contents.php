@@ -753,11 +753,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Девочка Эмблемочка</span>
-            <span lang="en">Lady Emblemette</span>
-
+        <li id="milk">
+            <a href="/content/milk/">
+                <span lang="ru">Девочка Эмблемочка</span>
+                <span lang="en">Lady Emblemette</span>
+            </a>
         </li>
 
         <li id="diary-1">
@@ -872,11 +872,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Бейсик</span>
-            <span lang="en">Basic</span>
-
+        <li id="basic">
+            <a href="/content/basic/">
+                <span lang="ru">Бейсик</span>
+                <span lang="en">Basic</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -914,11 +914,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Пропись</span>
-            <span lang="en">Cursive</span>
-
+        <li id="cursive">
+            <a href="/content/cursive/">
+                <span lang="ru">Пропись</span>
+                <span lang="en">Cursive</span>
+            </a>
         </li>
 
         <li id="beriozka">
@@ -1194,11 +1194,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">В зале</span>
-            <span lang="en">In the hall</span>
-
+        <li id="hall">
+            <a href="/content/hall/">
+                <span lang="ru">В зале</span>
+                <span lang="en">In the hall</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
