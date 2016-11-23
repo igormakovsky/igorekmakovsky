@@ -1068,11 +1068,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Белочка и Тамарочка</span>
-            <span lang="en">Belochka and Tamarochka</span>
-
+        <li id="belochka-tamarochka">
+            <a href="/content/belochka-tamarochka/">
+                <span lang="ru">Белочка и Тамарочка</span>
+                <span lang="en">Belochka and Tamarochka</span>
+            </a>
         </li>
 
         <li id="library">
