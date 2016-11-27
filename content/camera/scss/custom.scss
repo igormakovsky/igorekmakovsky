@@ -1,0 +1,23 @@
+@import "../../../scss/retinajs";
+.logos {
+    width: 100%;
+    max-width: 1700px;
+    min-width: 1000px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: stretch;
+    height: 0rem;
+    div {
+        width: 10vw;
+        height: 12.5rem;
+        figure {}
+    }
+}
+
+.camera {}
+
+#bg1 {
+    @include at2x('../img/a');
+}

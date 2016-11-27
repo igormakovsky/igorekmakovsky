@@ -1,0 +1,29 @@
+.logos {
+  width: 100%;
+  max-width: 1700px;
+  min-width: 1000px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: stretch;
+  height: 0rem;
+}
+
+.logos div {
+  width: 10vw;
+  height: 12.5rem;
+}
+
+#bg1 {
+  background-image: url("../img/a.jpg");
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
+  #bg1 {
+    background-image: url("../img/a@2x.jpg");
+    background-size: cover;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */

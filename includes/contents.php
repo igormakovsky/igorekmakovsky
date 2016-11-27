@@ -452,18 +452,18 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Цветок эмблема</span>
-            <span lang="en">Flower emblem</span>
-
+        <li id="seeds-flower">
+            <a href="/content/seeds-flower/">
+                <span lang="ru">Соцветие знака семян</span>
+                <span lang="en">Seed symbol flower</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Семена</span>
-            <span lang="en">Seeds</span>
-
+        <li id="seeds-triptych">
+            <a href="/content/seeds-triptych/">
+                <span lang="ru">Знак семян — триптих</span>
+                <span lang="en">Seed symbol — triptych</span>
+            </a>
         </li>
 
         <li id="poles-and-manhole">
@@ -1040,25 +1040,25 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Работа за камерой</span>
-            <span lang="en">The work behind the camera</span>
-
+        <li id="camera">
+            <a href="/content/camera/">
+                <span lang="ru">Работа за камерой</span>
+                <span lang="en">Working with camera</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Программа Bolder Dash</span>
-            <span lang="en">Boulder Dash program</span>
-
+        <li id="dearest">
+            <a href="/content/dearest/">
+                <span lang="ru">Любезнейшая программа</span>
+                <span lang="en">Dearest progrаm</span>
+            </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Три знака</span>
-            <span lang="en">Three signs</span>
-
+        <li id="three-symbols">
+            <a href="/content/three-symbols/">
+                <span lang="ru">Три символа</span>
+                <span lang="en">Three symbols</span>
+            </a>
         </li>
 
         <li id="square">
@@ -1096,11 +1096,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">VCR</span>
-            <span lang="en">VCR</span>
-
+        <li id="vcr">
+            <a href="/content/vcr/">
+                <span lang="ru">VCR</span>
+                <span lang="en">VCR</span>
+            </a>
         </li>
 
         <li id="english-3">

@@ -4,10 +4,10 @@ $parent = 'content';
 $color = 'dfb392';
 $title_ru = 'Найти';
 $title_en = 'Find';
-$description_ru = '';
-$description_en = '';
-$keywords_ru = '';
-$keywords_en = '';
+$description_ru = 'Плащ голубой, валан для бадминтона, книги, утюг, еда, кастрюлька для пара, термос, шерсть, бурда моден';
+$description_en = 'Blue raincoat, badminton shuttlecock, books, iron, food, vapor pan, thermos, wool, burda moden';
+$keywords_ru = 'вещи, не забыть, взять, поиск';
+$keywords_en = 'things, not forget, take, search';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
