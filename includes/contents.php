@@ -277,6 +277,13 @@
             </a>
         </li>
 
+        <li id="seeds-1">
+            <a href="/content/seeds-1/">
+                <span lang="ru">Знаки семян</span>
+                <span lang="en">Seed emblems</span>
+            </a>
+        </li>
+
         <li id="" class="notavaible">
 
             <span lang="ru">Союзсортсемовощ</span>
@@ -480,11 +487,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Найти</span>
-            <span lang="en">To find</span>
-
+        <li id="find">
+            <a href="/content/find/">
+                <span lang="ru">Найти</span>
+                <span lang="en">Find</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -956,11 +963,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Ирма Рауш</span>
-            <span lang="en">Irma Rauz</span>
-
+        <li id="irma-ramuz">
+            <a href="/content/irma-ramuz/">
+                <span lang="ru">Ирма Рамуш</span>
+                <span lang="en">Irma Ramuz</span>
+            </a>
         </li>
 
         <li id="boris-and-andrey">
