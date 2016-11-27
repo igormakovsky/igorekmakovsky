@@ -886,11 +886,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Программа передач</span>
-            <span lang="en">TV guide</span>
-
+        <li id="schedule">
+            <a href="/content/schedule/">
+                <span lang="ru">Программа ТВ-передач</span>
+                <span lang="en">TV schedule</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1264,11 +1264,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Собака</span>
-            <span lang="en">Sobaka</span>
-
+        <li id="dymo">
+            <a href="/content/dymo/">
+                <span lang="ru">Dymo</span>
+                <span lang="en">Dymo</span>
+            </a>
         </li>
 
         <li id="mushrooms">

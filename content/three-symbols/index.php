@@ -27,7 +27,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </h2>
 
        <p class="small">
-           <span lang="ru">Скрипичный ключ, басовый ключ, знак «семяна»</span>
+           <span lang="ru">Скрипичный ключ, басовый ключ, знак «семена»</span>
            <span lang="en">Treble clef, bass clef, &#8220;seeds&#8221; symbol</span>
        </p>
        

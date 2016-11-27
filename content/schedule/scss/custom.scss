@@ -1,0 +1,5 @@
+@import "../../../scss/retinajs";
+
+#bg1 {
+    @include at2x('../img/a');
+}
