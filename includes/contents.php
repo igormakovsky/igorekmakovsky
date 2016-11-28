@@ -8,6 +8,13 @@
                 <span lang="en">Anglis Russhkiй Slowhor</span>
             </a>
         </li>
+        
+        <li id="musail-book">
+            <a href="/content/musail-book/">
+                <span lang="ru">Мусаил — 1</span>
+                <span lang="en">Musail — 1</span>
+            </a>
+        </li>
 
         <li id="donald">
             <a href="/content/donald/">
@@ -410,11 +417,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Номер 3</span>
-            <span lang="en">Number 3</span>
-
+        <li id="musail-3">
+            <a href="/content/musail-3/">
+                <span lang="ru">Мусаил — 3</span>
+                <span lang="en">Musail — 3</span>
+            </a>
         </li>
 
         <li id="oblispolkom">
@@ -429,13 +436,6 @@
             <span lang="ru">Индивидуальный договор</span>
             <span lang="en">Individual contract</span>
 
-        </li>
-
-        <li id="musail-book">
-            <a href="/content/musail-book/">
-                <span lang="ru">Приключения Мусаила</span>
-                <span lang="en">Musail adventures</span>
-            </a>
         </li>
 
         <li id="sunset">

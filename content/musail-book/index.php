@@ -2,8 +2,8 @@
 $id = 'musail-book';
 $parent = 'content';
 $color = '576d74';
-$title_ru = 'Приключения Мусаила';
-$title_en = 'Musail adventures';
+$title_ru = 'Мусаил';
+$title_en = 'Musail';
 $description_ru = 'Графический роман';
 $description_en = 'Graphic novel';
 $keywords_ru = 'мусаил, мышь, приключения, графический, роман';
