@@ -662,11 +662,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Надпись в альбом</span>
-            <span lang="en">Caption in the album</span>
-
+        <li id="album">
+            <a href="/content/album/">
+                <span lang="ru">Надпись в альбом</span>
+                <span lang="en">Writing in album</span>
+            </a>
         </li>
 
         <li id="nautilus-and-me">
@@ -872,11 +872,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Приятного аппетита!</span>
-            <span lang="en">Bon appetit!</span>
-
+        <li id="recipe">
+            <a href="/content/recipe/">
+                <span lang="ru">Рецепт</span>
+                <span lang="en">Recipe</span>
+            </a>
         </li>
 
         <li id="basic">
@@ -893,11 +893,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Акт №2</span>
-            <span lang="en">Act #2</span>
-
+        <li id="acts">
+            <a href="/content/acts/">
+                <span lang="ru">Акты</span>
+                <span lang="en">Acts</span>
+            </a>
         </li>
 
         <li id="burda-3">
