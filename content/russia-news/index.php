@@ -11,7 +11,7 @@ $keywords_en = 'news, russia, article';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:7rem;">
+    <section class="picture" style="margin-top:7rem; width:65%;">
 
         <div class="center">
             <img src="img/russia-news.jpg" srcset="img/russia-news@2x.jpg 2x">

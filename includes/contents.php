@@ -284,11 +284,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Союзсортсемовощ</span>
-            <span lang="en">Souzsortsemovosch</span>
-
+        <li id="seeds-collection">
+            <a href="/content/seeds-collection/">
+                <span lang="ru">Коллекция семян</span>
+                <span lang="en">Seeds collection</span>
+            </a>
         </li>
 
         <li id="holiday">
@@ -494,11 +494,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Список семян</span>
-            <span lang="en">List of seeds</span>
-
+        <li id="seeds-list">
+            <a href="/content/seeds-list/">
+                <span lang="ru">Список семян</span>
+                <span lang="en">List of seeds</span>
+            </a>
         </li>
 
         <li id="perspective">
