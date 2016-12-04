@@ -1,0 +1,17 @@
+#bg1 {
+  background-image: url("../img/a.jpg");
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
+  #bg1 {
+    background-image: url("../img/a@2x.jpg");
+    background-size: cover;
+  }
+}
+
+.cloud {
+  opacity: 0;
+  transition: all 1.5s 1s;
+}
+
+/*# sourceMappingURL=custom.css.map */

@@ -98,6 +98,90 @@
     }
 }
 
+//
+.animation-defaults {
+    position: absolute;
+    z-index: 1;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+//
+.horizontal {
+    @extend .animation-defaults;
+    animation-name: horizontal;
+    &-small {
+        @extend .horizontal;
+        animation-name: horizontal-small;
+    }
+}
+
+@keyframes horizontal {
+    100% {
+        transform: translate(5rem, 0);
+    }
+}
+
+@keyframes horizontal-small {
+    100% {
+        transform: translate(2.5rem, 0);
+    }
+}
+
+//
+.vertical {
+    @extend .animation-defaults;
+    animation-name: vertical;
+    &-small {
+        @extend .animation-defaults;
+        animation-name: vertical-small;
+    }
+}
+
+@keyframes vertical {
+    100% {
+        transform: translate(0, 5rem);
+    }
+}
+
+@keyframes vertical-small {
+    100% {
+        transform: translate(0, 2.5rem);
+    }
+}
+
+//
+.circle {
+    @extend .animation-defaults;
+    animation-name: circle;
+    animation-direction: normal;
+    animation-timing-function: linear;
+    &-rev {
+        @extend .circle;
+        animation-name: circle-rev;
+    }
+}
+
+@keyframes circle {
+    from {
+        transform: rotate(0deg) translateX(40px) rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg) translateX(40px) rotate(-360deg);
+    }
+}
+
+@keyframes circle-rev {
+    from {
+        transform: rotate(0deg) translateX(40px) rotate(0deg);
+    }
+    to {
+        transform: rotate(-360deg) translateX(40px) rotate(360deg);
+    }
+}
+
+//
 .appear {
     opacity: 0;
     animation-duration: .5s;
@@ -319,7 +403,7 @@
     @include duration(140);
 }
 
-//control
+//
 .rev {
     animation-direction: reverse;
 }

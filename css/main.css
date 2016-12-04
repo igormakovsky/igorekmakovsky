@@ -1215,6 +1215,151 @@ ol li {
   }
 }
 
+.animation-defaults, .horizontal, .horizontal-small, .vertical, .vertical-small, .circle, .circle-rev {
+  position: absolute;
+  z-index: 1;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+.horizontal, .horizontal-small {
+  -webkit-animation-name: horizontal;
+          animation-name: horizontal;
+}
+
+.horizontal-small {
+  -webkit-animation-name: horizontal-small;
+          animation-name: horizontal-small;
+}
+
+@-webkit-keyframes horizontal {
+  100% {
+    -webkit-transform: translate(5rem, 0);
+            transform: translate(5rem, 0);
+  }
+}
+
+@keyframes horizontal {
+  100% {
+    -webkit-transform: translate(5rem, 0);
+            transform: translate(5rem, 0);
+  }
+}
+
+@-webkit-keyframes horizontal-small {
+  100% {
+    -webkit-transform: translate(2.5rem, 0);
+            transform: translate(2.5rem, 0);
+  }
+}
+
+@keyframes horizontal-small {
+  100% {
+    -webkit-transform: translate(2.5rem, 0);
+            transform: translate(2.5rem, 0);
+  }
+}
+
+.vertical {
+  -webkit-animation-name: vertical;
+          animation-name: vertical;
+}
+
+.vertical-small {
+  -webkit-animation-name: vertical-small;
+          animation-name: vertical-small;
+}
+
+@-webkit-keyframes vertical {
+  100% {
+    -webkit-transform: translate(0, 5rem);
+            transform: translate(0, 5rem);
+  }
+}
+
+@keyframes vertical {
+  100% {
+    -webkit-transform: translate(0, 5rem);
+            transform: translate(0, 5rem);
+  }
+}
+
+@-webkit-keyframes vertical-small {
+  100% {
+    -webkit-transform: translate(0, 2.5rem);
+            transform: translate(0, 2.5rem);
+  }
+}
+
+@keyframes vertical-small {
+  100% {
+    -webkit-transform: translate(0, 2.5rem);
+            transform: translate(0, 2.5rem);
+  }
+}
+
+.circle, .circle-rev {
+  -webkit-animation-name: circle;
+          animation-name: circle;
+  -webkit-animation-direction: normal;
+          animation-direction: normal;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+
+.circle-rev {
+  -webkit-animation-name: circle-rev;
+          animation-name: circle-rev;
+}
+
+@-webkit-keyframes circle {
+  from {
+    -webkit-transform: rotate(0deg) translateX(40px) rotate(0deg);
+            transform: rotate(0deg) translateX(40px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translateX(40px) rotate(-360deg);
+            transform: rotate(360deg) translateX(40px) rotate(-360deg);
+  }
+}
+
+@keyframes circle {
+  from {
+    -webkit-transform: rotate(0deg) translateX(40px) rotate(0deg);
+            transform: rotate(0deg) translateX(40px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translateX(40px) rotate(-360deg);
+            transform: rotate(360deg) translateX(40px) rotate(-360deg);
+  }
+}
+
+@-webkit-keyframes circle-rev {
+  from {
+    -webkit-transform: rotate(0deg) translateX(40px) rotate(0deg);
+            transform: rotate(0deg) translateX(40px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(-360deg) translateX(40px) rotate(360deg);
+            transform: rotate(-360deg) translateX(40px) rotate(360deg);
+  }
+}
+
+@keyframes circle-rev {
+  from {
+    -webkit-transform: rotate(0deg) translateX(40px) rotate(0deg);
+            transform: rotate(0deg) translateX(40px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(-360deg) translateX(40px) rotate(360deg);
+            transform: rotate(-360deg) translateX(40px) rotate(360deg);
+  }
+}
+
 .appear {
   opacity: 0;
   -webkit-animation-duration: .5s;

@@ -8,7 +8,7 @@
                 <span lang="en">Anglis Russhkiй Slowhor</span>
             </a>
         </li>
-        
+
         <li id="musail-book">
             <a href="/content/musail-book/">
                 <span lang="ru">Мусаил — 1</span>
@@ -571,11 +571,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Edd the Duck</span>
-            <span lang="en">Edd the Duck</span>
-
+        <li id="edd-the-duck">
+            <a href="/content/edd-the-duck/">
+                <span lang="ru">Edd the Duck</span>
+                <span lang="en">Edd the Duck</span>
+            </a>
         </li>
 
         <li id="water-pipe">

@@ -4,10 +4,10 @@ $parent = 'content';
 $color = '411a6b';
 $title_ru = 'Мусаил — 3';
 $title_en = 'Musail — 3';
-$description_ru = '';
-$description_en = '';
-$keywords_ru = '';
-$keywords_en = '';
+$description_ru = 'Ох, как мне хочется сыра';
+$description_en = 'Oh, I want cheese so much';
+$keywords_ru = 'мусаил, книга, рассказ, кашира, сыр';
+$keywords_en = 'musail, book, tale, kashira, cheese';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
