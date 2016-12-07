@@ -1,7 +1,7 @@
 <?php
 $id = 'streetlights';
 $parent = 'content';
-$color = '262422';
+$color = '454361';
 $title_ru = 'Фонари';
 $title_en = 'Streetlights';
 $description_ru = '14×21см — шариковая ручка — 1990';
@@ -11,7 +11,7 @@ $keywords_en = 'street, streetlights, light, moscow';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:9rem; width:65%;">
+    <section class="picture" style="margin-top:9rem; width:45%;">
 
         <div class="center">
             <img src="img/streetlights.jpg" srcset="img/streetlights@2x.jpg 2x">

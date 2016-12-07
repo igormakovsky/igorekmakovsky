@@ -16,6 +16,20 @@
             </a>
         </li>
 
+        <li id="boulder-dash">
+            <a href="/content/boulder-dash/">
+                <span lang="ru">Boulder Dash</span>
+                <span lang="en">Boulder Dash</span>
+            </a>
+        </li>
+
+        <li id="seeds-1">
+            <a href="/content/seeds-1/">
+                <span lang="ru">Знаки семян</span>
+                <span lang="en">Seed emblems</span>
+            </a>
+        </li>
+
         <li id="donald">
             <a href="/content/donald/">
                 <span lang="ru">Дональд</span>
@@ -284,13 +298,6 @@
             </a>
         </li>
 
-        <li id="seeds-1">
-            <a href="/content/seeds-1/">
-                <span lang="ru">Знаки семян</span>
-                <span lang="en">Seed emblems</span>
-            </a>
-        </li>
-
         <li id="seeds-collection">
             <a href="/content/seeds-collection/">
                 <span lang="ru">Коллекция семян</span>
@@ -480,11 +487,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Repton 2</span>
-            <span lang="en">Repton 2</span>
-
+        <li id="repton">
+            <a href="/content/repton/">
+                <span lang="ru">Repton</span>
+                <span lang="en">Repton</span>
+            </a>
         </li>
 
         <li id="find">
@@ -590,13 +597,6 @@
             <span lang="ru">Семена не понятно чего</span>
             <span lang="en">Seeds of god knows what</span>
 
-        </li>
-
-        <li id="master">
-            <a href="/content/master/">
-                <span lang="ru">Master</span>
-                <span lang="en">Master</span>
-            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -718,13 +718,6 @@
 
         </li>
 
-        <li id="krakout">
-            <a href="/content/krakout/">
-                <span lang="ru">Krakout</span>
-                <span lang="en">Krakout</span>
-            </a>
-        </li>
-
         <li id="buy">
             <a href="/content/buy/">
                 <span lang="ru">Купить</span>
@@ -744,13 +737,6 @@
             <span lang="ru">Наука и природа человека</span>
             <span lang="en">Science and human nature</span>
 
-        </li>
-
-        <li id="boulder-dash">
-            <a href="/content/boulder-dash/">
-                <span lang="ru">Boulder Dash</span>
-                <span lang="en">Boulder Dash</span>
-            </a>
         </li>
 
         <li id="kranty">
@@ -1131,6 +1117,13 @@
             </a>
         </li>
 
+        <li id="master">
+            <a href="/content/master/">
+                <span lang="ru">Master</span>
+                <span lang="en">Master</span>
+            </a>
+        </li>
+
         <li id="makhaon">
             <a href="/content/makhaon/">
                 <span lang="ru">Махаон</span>
@@ -1241,6 +1234,13 @@
             <span lang="ru">Путеводитель — 3</span>
             <span lang="en">Travel Guide — 3</span>
 
+        </li>
+
+        <li id="krakout">
+            <a href="/content/krakout/">
+                <span lang="ru">Krakout</span>
+                <span lang="en">Krakout</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

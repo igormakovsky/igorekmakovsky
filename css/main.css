@@ -1004,6 +1004,11 @@ ol li {
   }
 }
 
+.height-48 {
+  height: 48px;
+  z-index: 1;
+}
+
 .notavaible {
   opacity: .5;
 }
@@ -1215,7 +1220,7 @@ ol li {
   }
 }
 
-.animation-defaults, .horizontal, .horizontal-small, .vertical, .vertical-small, .circle, .circle-rev {
+.animation-defaults, .horizontal, .horizontal-small, .vertical, .vertical-small, .shaker, .shaker-small, .circle, .circle-rev {
   position: absolute;
   z-index: 1;
   -webkit-animation-timing-function: ease-in-out;
@@ -1299,6 +1304,46 @@ ol li {
   100% {
     -webkit-transform: translate(0, 2.5rem);
             transform: translate(0, 2.5rem);
+  }
+}
+
+.shaker {
+  -webkit-animation-name: shaker;
+          animation-name: shaker;
+  -webkit-transform-origin: bottom center;
+          transform-origin: bottom center;
+}
+
+.shaker-small {
+  -webkit-animation-name: shaker-small;
+          animation-name: shaker-small;
+}
+
+@-webkit-keyframes shaker {
+  100% {
+    -webkit-transform: rotate(3deg);
+            transform: rotate(3deg);
+  }
+}
+
+@keyframes shaker {
+  100% {
+    -webkit-transform: rotate(3deg);
+            transform: rotate(3deg);
+  }
+}
+
+@-webkit-keyframes shaker-small {
+  100% {
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+}
+
+@keyframes shaker-small {
+  100% {
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
   }
 }
 
@@ -1536,6 +1581,13 @@ ol li {
           transition-duration: 0.3s;
   -webkit-animation-duration: 0.3s;
           animation-duration: 0.3s;
+}
+
+.dur04 {
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+  -webkit-animation-duration: 0.4s;
+          animation-duration: 0.4s;
 }
 
 .dur05 {
@@ -1916,6 +1968,7 @@ ol li {
 article {
   overflow: hidden;
   position: relative;
+  min-height: inherit;
 }
 
 article section {
@@ -1966,10 +2019,6 @@ article section.picture {
 
 article section.picture figure img, article section.picture .center img, article section.picture.double .center img {
   width: 100%;
-}
-
-article section.picture.vertical {
-  max-width: 1000px;
 }
 
 article section.picture.double {

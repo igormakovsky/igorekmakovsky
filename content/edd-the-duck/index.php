@@ -1,7 +1,7 @@
 <?php
 $id = 'edd-the-duck';
 $parent = 'content';
-$color = '0000c0';
+$color = '0100c0';
 $title_ru = 'Edd the Duck';
 $title_en = 'Edd the Duck';
 $description_ru = '71×21см — шариковая ручка, карандаш — 1992';

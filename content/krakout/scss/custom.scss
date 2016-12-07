@@ -1,8 +1,4 @@
 @import "../../../scss/retinajs";
-$bg:#8dcfbb;
-body {
-    background-color: $bg;
-}
 
 table {
     font-size: 2.5rem;
@@ -15,6 +11,307 @@ table {
     }
 }
 
-#bg1 {
-    @include at2x('../img/a');
+#ball-1 {animation: ball-1 7s linear infinite normal;}
+#ball-2 {animation: ball-2 7s linear infinite normal;}
+#ball-3 {animation: ball-3 7s linear infinite normal;}
+#ball-4 {animation: ball-4 7s linear infinite normal;}
+#ball-5 {animation: ball-5 7s linear infinite normal;}
+#ball-6 {animation: ball-6 7s linear infinite alternate;}
+#ball-7 {animation: ball-7 7s linear infinite alternate;}
+#bat-1 {animation: bat-1 7s linear infinite normal;}
+#bat-2 {animation: bat-2 7s linear infinite normal;}
+#bat-3 {animation: bat-3 7s linear infinite normal;}
+#bat-4 {animation: bat-4 7s linear infinite normal;}
+#bat-5 {animation: bat-5 7s linear infinite normal;}
+#bat-6 {animation: bat-6 7s linear infinite alternate;}
+#bat-7 {animation: bat-7 7s linear infinite alternate;}
+
+@keyframes ball-1 {  
+    0% {transform: translate(0rem, 0rem);}
+    7% {transform: translate(-9rem, -1rem);}
+    14% {transform: translate(0rem, -2rem);}
+    21% {transform: translate(-9rem, -8rem);}
+    28% {transform: translate(0rem, -15rem);}
+    37% {transform: translate(-9rem, 0rem);}
+    47% {transform: translate(0rem, 13rem);}
+    54% {transform: translate(-9rem, 16rem);}
+    61% {transform: translate(0rem, 18rem);}
+    68% {transform: translate(-9rem, 20rem);}
+    78% {transform: translate(0rem, 10rem);}
+    86% {transform: translate(-9rem, 5rem);}
+    91% {transform: translate(0rem, 3rem);}
+    95% {transform: translate(-9rem, 10rem);}
+    100% {transform: translate(0rem, 0rem);}  
+}
+
+@keyframes bat-1 {  
+    0% {transform: translate(0rem, 0rem);}
+    14% {transform: translate(0rem, -4rem);}
+    21% {transform: translate(0rem, -5rem);}
+    28% {transform: translate(0rem, -17rem);}
+    37% {transform: translate(0rem, -17rem);}
+    47% {transform: translate(0rem, 15rem);}
+    54% {transform: translate(0rem, 15rem);}
+    61% {transform: translate(0rem, 20rem);}
+    68% {transform: translate(0rem, 20rem);}
+    78% {transform: translate(0rem, 10rem);}
+    86% {transform: translate(0rem, 13rem);}
+    91% {transform: translate(0rem, 0rem);}
+    95% {transform: translate(0rem, 4rem);}
+    100% {transform: translate(0rem, 0rem);}  
+}
+
+@keyframes ball-2 {  
+    0% {transform: translate(0rem, 0rem);}
+    7% {transform: translate(9rem, -2rem);}
+    13% {transform: translate(0rem, -4rem);}
+    19% {transform: translate(8.7rem, -6rem);}
+    25% {transform: translate(0rem, -9rem);}
+    33% {transform: translate(9.1rem, -13.1rem);}
+    50% {transform: translate(0rem, 15rem);}
+    58% {transform: translate(9rem, 20rem);}
+    65% {transform: translate(0rem, 25rem);}
+    75% {transform: translate(9rem, 15rem);}
+    83% {transform: translate(0rem, 5rem);}
+    90% {transform: translate(9rem, -3rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes bat-2 {  
+    0% {transform: translate(0rem, 0rem);}
+    7% {transform: translate(0rem, 0rem);}
+    13% {transform: translate(0rem, -6rem);}
+    19% {transform: translate(0rem, -6rem);}
+    25% {transform: translate(0rem, -11rem);}
+    33% {transform: translate(0rem, -13rem);}
+    44% {transform: translate(0rem, -13rem);}
+    50% {transform: translate(0rem, 17rem);}
+    58% {transform: translate(0rem, 11rem);}
+    65% {transform: translate(0rem, 29rem);}
+    75% {transform: translate(0rem, 13rem);}
+    83% {transform: translate(0rem, 4rem);}
+    90% {transform: translate(0rem, 4rem);}
+    100% {transform: translate(0rem, 0rem);} 
+}
+
+@keyframes ball-3 {  
+    0% {transform: translate(0rem, 0rem);}
+    8% {transform: translate(-9.3rem, -2rem);}
+    16% {transform: translate(0rem, -4rem);}
+    27% {transform: translate(-9.3rem, -13rem);}
+    34% {transform: translate(0rem, -22rem);}
+    40% {transform: translate(-9.3rem, -20rem);}
+    46% {transform: translate(0rem, -22rem);}
+    52% {transform: translate(-9.3rem, -15rem);}
+    63% {transform: translate(0rem, -9rem);}
+    70% {transform: translate(-9.3rem, -8rem);}
+    77% {transform: translate(0rem, -2rem);}
+    85% {transform: translate(-9.3rem, 7rem);}
+    91% {transform: translate(0rem, 4rem);}
+    96% {transform: translate(-9.3rem, 2rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes bat-3 {  
+    0% {transform: translate(0rem, 0rem);}
+    8% {transform: translate(0rem, 0rem);}
+    16% {transform: translate(0rem, -2rem);}
+    27% {transform: translate(0rem, -3rem);}
+    34% {transform: translate(0rem, -24rem);}
+    40% {transform: translate(0rem, -24rem);}
+    46% {transform: translate(0rem, -25rem);}
+    52% {transform: translate(0rem, -13rem);}
+    63% {transform: translate(0rem, -7rem);}
+    70% {transform: translate(0rem, -6rem);}
+    77% {transform: translate(0rem, 0rem);}
+    85% {transform: translate(0rem, 5rem);}
+    93% {transform: translate(0rem, 4rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes ball-4 {  
+    0% {transform: translate(0rem, 0rem);}
+    3% {transform: translate(8.7rem, -1rem);}
+    6% {transform: translate(0rem, -2rem);}
+    10% {transform: translate(8.7rem, -2rem);}
+    15% {transform: translate(0rem, -2rem);}
+    20% {transform: translate(8.7rem, -7rem);}
+    25% {transform: translate(0rem, -10rem);}
+    30% {transform: translate(8.7rem, -9rem);}
+    35% {transform: translate(0rem, -15rem);}
+    40% {transform: translate(8.7rem, -13rem);}
+    45% {transform: translate(0rem, -14rem);}
+    50% {transform: translate(8.7rem, -13rem);}
+    55% {transform: translate(0rem, -17rem);}
+    60% {transform: translate(8.7rem, -16rem);}
+    65% {transform: translate(0rem, -12rem);}
+    70% {transform: translate(8.7rem, -14rem);}
+    75% {transform: translate(0rem, -15rem);}
+    80% {transform: translate(8.7rem, -12rem);}
+    85% {transform: translate(0rem, 0rem);}
+    90% {transform: translate(8.7rem, 1rem);}
+    93% {transform: translate(0rem, 2rem);}
+    96% {transform: translate(8.7rem, 1rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes bat-4 {  
+    0% {transform: translate(0rem, 0rem);}
+    5% {transform: translate(0rem, -3rem);}
+    10% {transform: translate(0rem, -3rem);}
+    10% {transform: translate(0rem, -2rem);}
+    15% {transform: translate(0rem, -2rem);}
+    20% {transform: translate(0rem, -11rem);}
+    25% {transform: translate(0rem, -9rem);}
+    30% {transform: translate(0rem, -15rem);}
+    35% {transform: translate(0rem, -13rem);}
+    40% {transform: translate(0rem, -19rem);}
+    45% {transform: translate(0rem, -15rem);}
+    50% {transform: translate(0rem, -17rem);}
+    55% {transform: translate(0rem, -20rem);}
+    60% {transform: translate(0rem, -21rem);}
+    65% {transform: translate(0rem, -14rem);}
+    70% {transform: translate(0rem, -14rem);}
+    75% {transform: translate(0rem, -17rem);}
+    80% {transform: translate(0rem, -14rem);}
+    85% {transform: translate(0rem, 1rem);}
+    90% {transform: translate(0rem, 1rem);}
+    93% {transform: translate(0rem, 2rem);}
+    96% {transform: translate(0rem, 1rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes ball-5 {  
+    0% {transform: translate(0rem, 0rem);}
+    6% {transform: translate(-8.3rem, 1rem);}
+    20% {transform: translate(0rem, 10rem);}
+    25% {transform: translate(-8.5rem, 14rem);}
+    30% {transform: translate(0rem, 18rem);}
+    43% {transform: translate(-8.3rem, 0rem);}
+    50% {transform: translate(0rem, 0rem);}
+    57% {transform: translate(-8.1rem, -5rem);}
+    63% {transform: translate(0rem, -8rem);}
+    69% {transform: translate(-8rem, -10rem);}
+    75% {transform: translate(0rem, -11rem);}
+    80% {transform: translate(-8rem, -11rem);}
+    85% {transform: translate(0rem, 2rem);}
+    90% {transform: translate(-8.4rem, 3rem);}
+    93% {transform: translate(0rem, 1.5rem);}
+    97% {transform: translate(-8.4rem, 1rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes bat-5 {  
+    0% {transform: translate(0rem, 0rem);}
+    7% {transform: translate(0rem, 0rem);}
+    13% {transform: translate(0rem, 0rem);}
+    20% {transform: translate(0rem, 8rem);}
+    25% {transform: translate(0rem, 12rem);}
+    30% {transform: translate(0rem, 19rem);}
+    43% {transform: translate(0rem, 19rem);}
+    50% {transform: translate(0rem, 2rem);}
+    57% {transform: translate(0rem, -6rem);}
+    63% {transform: translate(0rem, -6rem);}
+    69% {transform: translate(0rem, -8rem);}
+    75% {transform: translate(0rem, -12rem);}
+    80% {transform: translate(0rem, -12rem);}
+    85% {transform: translate(0rem, 0rem);}
+    90% {transform: translate(0rem, 0rem);}
+    93% {transform: translate(0rem, 3rem);}
+    97% {transform: translate(0rem, 3rem);}
+    100% {transform: translate(0rem, 0rem);}
+}
+
+@keyframes ball-6 {  
+    0% {transform: translate(0rem, 0rem);}
+    5% {transform: translate(9rem, 7rem);}
+    10% {transform: translate(0rem, 15rem);}
+    15% {transform: translate(9rem, 20rem);}
+    20% {transform: translate(0rem, 25rem);}
+    28% {transform: translate(14rem, 32rem);}
+    36% {transform: translate(23rem, 22.5rem);}
+    44% {transform: translate(30rem, 32rem);}
+    52% {transform: translate(37rem, 22.5rem);}
+    60% {transform: translate(44rem, 32.5rem);}
+    75% {transform: translate(55rem, 16rem);}
+    84% {transform: translate(46rem, 18rem);}
+    90% {transform: translate(55rem, 18rem);}
+    95% {transform: translate(46.5rem, 18rem);}
+    100% {transform: translate(55rem, 18rem);}
+}
+
+@keyframes bat-6 {  
+    0% {transform: translate(0rem, 0rem);}
+    5% {transform: translate(0rem, 5rem);}
+    10% {transform: translate(0rem, 13rem);}
+    15% {transform: translate(0rem, 18rem);}
+    20% {transform: translate(0rem, 23rem);}
+    27% {transform: translate(0rem, 30rem);}
+    33% {transform: translate(0rem, 30rem);}
+    36% {transform: translate(0rem, 25rem);}
+    46% {transform: translate(0rem, 25rem);}
+    47% {transform: translate(0rem, 20rem);}
+    50% {transform: translate(0rem, 20rem);}
+    52% {transform: translate(0rem, 19rem);}
+    55% {transform: translate(0rem, 19rem);}
+    58% {transform: translate(0rem, 24rem);}
+    61% {transform: translate(0rem, 24rem);}
+    63% {transform: translate(0rem, 20rem);}
+    65% {transform: translate(0rem, 20rem);}
+    68% {transform: translate(0rem, 19rem);}
+    90% {transform: translate(0rem, 19rem);}
+    92% {transform: translate(0rem, 24rem);}
+    95% {transform: translate(0rem, 20rem);}
+    97.5% {transform: translate(0rem, 24.5rem);}
+    100% {transform: translate(0rem, 18.5rem);}
+}
+
+@keyframes ball-7 {  
+    0% {transform: translate(.3rem, 0rem);}
+    5% {transform: translate(-9rem, 3rem);}
+    10% {transform: translate(.3rem, 2rem);}
+    15% {transform: translate(-9rem, -12rem);}
+    20% {transform: translate(.3rem, -15rem);}
+    25% {transform: translate(-9rem, -13rem);}
+    30% {transform: translate(.3rem, -11rem);}
+    35% {transform: translate(-9rem, -14rem);}
+    40% {transform: translate(.3rem, -10rem);}
+    45% {transform: translate(-9rem, -11rem);}
+    50% {transform: translate(.3rem, -12rem);}
+    60% {transform: translate(-9rem, -30rem);}
+    70% {transform: translate(.3rem, -37rem);}
+    76% {transform: translate(-9rem, -35rem);}
+    84% {transform: translate(.3rem, -32rem);}
+    90% {transform: translate(-9rem, -32rem);}
+    95% {transform: translate(.3rem, -35rem);}
+    100% {transform: translate(-9rem, -35rem);}
+}
+
+@keyframes bat-7 {  
+    0% {transform: translate(0rem, 0rem);}
+    5% {transform: translate(0rem, 5rem);}
+    10% {transform: translate(0rem, 4rem);}
+    15% {transform: translate(0rem, -10rem);}
+    20% {transform: translate(0rem, -18rem);}
+    25% {transform: translate(0rem, -18rem);}
+    30% {transform: translate(0rem, -13rem);}
+    35% {transform: translate(0rem, -13rem);}
+    40% {transform: translate(0rem, -7rem);}
+    45% {transform: translate(0rem, -11rem);}
+    50% {transform: translate(0rem, -12rem);}
+    55% {transform: translate(0rem, -19rem);}
+    60% {transform: translate(0rem, -30rem);}
+    63% {transform: translate(0rem, -42rem);}
+    65% {transform: translate(0rem, -32rem);}
+    67.6% {transform: translate(0rem, -37rem);}
+    70% {transform: translate(0rem, -42rem);}
+    72.5% {transform: translate(0rem, -35rem);}
+    75% {transform: translate(0rem, -38rem);}
+    77% {transform: translate(0rem, -30rem);}
+    80% {transform: translate(0rem, -35rem);}
+    83% {transform: translate(0rem, -30rem);}
+    85% {transform: translate(0rem, -30rem);}
+    90% {transform: translate(0rem, -35rem);}
+    95% {transform: translate(0rem, -38rem);}
+    100% {transform: translate(0rem, -33rem);}
 }

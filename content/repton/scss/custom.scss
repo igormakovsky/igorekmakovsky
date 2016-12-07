@@ -1,0 +1,42 @@
+@import "../../../scss/retinajs";
+
+.jewel {
+    animation-name: jewel;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+#jewel-1 {
+    animation-delay: 0s;
+}
+
+#jewel-2 {
+    animation-delay: 1s;
+}
+
+#jewel-3 {
+    animation-delay: 2s;
+}
+
+#jewel-4 {
+    animation-delay: 3s;
+}
+
+#jewel-5 {
+    animation-delay: 3.5s; 
+}
+
+@keyframes jewel {
+    0% {filter: brightness(100%);}
+    10% {filter: brightness(500%);}
+    18% {filter: brightness(100%);}
+    36% {filter: brightness(100%);}
+    44% {filter: brightness(500%);}
+    54% {filter: brightness(500%);}
+    60% {filter: brightness(100%);}
+    65% {filter: brightness(500%);}
+    70% {filter: brightness(100%);}
+    75% {filter: brightness(500%);}
+    80% {filter: brightness(100%);}
+    100% {filter: brightness(100%);}
+}

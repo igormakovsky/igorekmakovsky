@@ -11,7 +11,7 @@ $keywords_en = 'podagra, illness, description';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="picture" style="margin-top:7rem; width:80%;">
+    <section class="picture" style="margin-top:7rem; width:60%;">
 
         <div class="center">
             <img src="img/podagra-1.jpg" srcset="img/podagra-1@2x.jpg 2x">
@@ -19,7 +19,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
         
-    <section class="picture" style="margin-top:5rem; width:80%;">
+    <section class="picture" style="margin-top:5rem; width:60%;">
 
         <div class="center">
             <img src="img/podagra-2.jpg" srcset="img/podagra-2@2x.jpg 2x">

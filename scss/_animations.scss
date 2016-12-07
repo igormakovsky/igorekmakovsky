@@ -152,6 +152,29 @@
 }
 
 //
+.shaker {
+    @extend .animation-defaults;
+    animation-name: shaker;
+    transform-origin: bottom center;
+    &-small {
+        @extend .animation-defaults;
+        animation-name: shaker-small;
+    }
+}
+
+@keyframes shaker {
+    100% {
+        transform: rotate(3deg);
+    }
+}
+
+@keyframes shaker-small {
+    100% {
+        transform: rotate(1deg);
+    }
+}
+
+//
 .circle {
     @extend .animation-defaults;
     animation-name: circle;
@@ -301,6 +324,10 @@
 
 .dur03 {
     @include duration(.3);
+}
+
+.dur04 {
+    @include duration(.4);
 }
 
 .dur05 {

@@ -1,6 +1,7 @@
 article {
     overflow: hidden;
     position: relative;
+    min-height: inherit;
     section {
         margin: 0 auto;
         position: relative;
@@ -37,9 +38,6 @@ article {
                 img {
                     width: 100%;
                 }
-            }
-            &.vertical {
-                max-width: 1000px;
             }
             &.double {
                 display: flex;

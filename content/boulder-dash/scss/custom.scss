@@ -7,3 +7,13 @@ body {
 #bg1 {
     @include at2x('../img/a');
 }
+
+.bd-48 {
+    height: 48px;
+    z-index: 1;
+}
+
+.man {
+    height:45px;
+    width:36px;
+}
