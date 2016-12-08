@@ -12,6 +12,7 @@ $(function () {
     animationClick('#egg', '#egg', 'bounce')
     animationClick('#hero', '#hero', 'bounce')
     animationClick('#key', '#key', 'tada')
+    animationClick('#monster', '#monster', 'shake')
     animationClick('#head-1', '#head-1', 'wobble')
     animationClick('#head-2', '#head-2', 'wobble')
     animationClick('#head-3', '#head-3', 'wobble')

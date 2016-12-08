@@ -27801,6 +27801,1134 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/music\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 22881,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 44127,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 178555,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 7992,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 28413,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 8117,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 30931,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 23082,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 89705,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 89019,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 345750,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 27063,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 109369,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 7050,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 24809,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 6141,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 20460,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 33893,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 135082,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 31758,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 122937,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 87056,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 18744,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 39111,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 158713,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 109834,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 433910,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 119875,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 160337,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 628984,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 197870,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 778037,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 4328,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 14648,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 5482,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 16994,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 21844,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 84267,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-28.png": {
+		"ft": 32768,
+		"iS": 114876,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-28.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-28@2x.png": {
+		"ft": 32768,
+		"iS": 457965,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-28@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-29.png": {
+		"ft": 32768,
+		"iS": 41942,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-29.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-29@2x.png": {
+		"ft": 32768,
+		"iS": 161755,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-29@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 70018,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 30084,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-30.png": {
+		"ft": 32768,
+		"iS": 137605,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-30.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-30@2x.png": {
+		"ft": 32768,
+		"iS": 526896,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-30@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-31.png": {
+		"ft": 32768,
+		"iS": 34024,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-31.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-31@2x.png": {
+		"ft": 32768,
+		"iS": 131957,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-31@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-32.png": {
+		"ft": 32768,
+		"iS": 119358,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-32@2x.png": {
+		"ft": 32768,
+		"iS": 465171,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-32@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-33.png": {
+		"ft": 32768,
+		"iS": 36619,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-33.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-33@2x.png": {
+		"ft": 32768,
+		"iS": 138254,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-33@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-34.png": {
+		"ft": 32768,
+		"iS": 7628,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-34.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-34@2x.png": {
+		"ft": 32768,
+		"iS": 28841,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-34@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-35.png": {
+		"ft": 32768,
+		"iS": 57277,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-35.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-35@2x.png": {
+		"ft": 32768,
+		"iS": 242941,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-35@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-36.png": {
+		"ft": 32768,
+		"iS": 64028,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-36.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-36@2x.png": {
+		"ft": 32768,
+		"iS": 268021,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-36@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-37.png": {
+		"ft": 32768,
+		"iS": 5195,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-37.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-37@2x.png": {
+		"ft": 32768,
+		"iS": 18000,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-37@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-38.png": {
+		"ft": 32768,
+		"iS": 109449,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-38.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-38@2x.png": {
+		"ft": 32768,
+		"iS": 465658,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-38@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-39.png": {
+		"ft": 32768,
+		"iS": 76155,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-39.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-39@2x.png": {
+		"ft": 32768,
+		"iS": 305453,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-39@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 116338,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 56382,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-40.png": {
+		"ft": 32768,
+		"iS": 22056,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-40.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-40@2x.png": {
+		"ft": 32768,
+		"iS": 84342,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-40@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-41.png": {
+		"ft": 32768,
+		"iS": 10143,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-41.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-41@2x.png": {
+		"ft": 32768,
+		"iS": 36702,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-41@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-42.png": {
+		"ft": 32768,
+		"iS": 15724,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-42.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-42@2x.png": {
+		"ft": 32768,
+		"iS": 59818,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-42@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-43.png": {
+		"ft": 32768,
+		"iS": 8598,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-43.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-43@2x.png": {
+		"ft": 32768,
+		"iS": 30769,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-43@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-44.png": {
+		"ft": 32768,
+		"iS": 95946,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-44.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-44@2x.png": {
+		"ft": 32768,
+		"iS": 395647,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-44@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-45.png": {
+		"ft": 32768,
+		"iS": 26840,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-45.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-45@2x.png": {
+		"ft": 32768,
+		"iS": 104719,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-45@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-46.png": {
+		"ft": 32768,
+		"iS": 33206,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-46.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-46@2x.png": {
+		"ft": 32768,
+		"iS": 133632,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-46@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-47.png": {
+		"ft": 32768,
+		"iS": 13126,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-47.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-47@2x.png": {
+		"ft": 32768,
+		"iS": 48017,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-47@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-48.png": {
+		"ft": 32768,
+		"iS": 24600,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-48.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-48@2x.png": {
+		"ft": 32768,
+		"iS": 100450,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-48@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-49.png": {
+		"ft": 32768,
+		"iS": 94201,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-49.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-49@2x.png": {
+		"ft": 32768,
+		"iS": 386848,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-49@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 215155,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 6476,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-50.png": {
+		"ft": 32768,
+		"iS": 32945,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-50.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-50@2x.png": {
+		"ft": 32768,
+		"iS": 125807,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-50@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-51.png": {
+		"ft": 32768,
+		"iS": 23964,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-51.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-51@2x.png": {
+		"ft": 32768,
+		"iS": 95407,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-51@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-52.png": {
+		"ft": 32768,
+		"iS": 14618,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-52.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-52@2x.png": {
+		"ft": 32768,
+		"iS": 54689,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-52@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-53.png": {
+		"ft": 32768,
+		"iS": 14629,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-53.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-53@2x.png": {
+		"ft": 32768,
+		"iS": 56493,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-53@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-54.png": {
+		"ft": 32768,
+		"iS": 111742,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-54.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-54@2x.png": {
+		"ft": 32768,
+		"iS": 455199,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-54@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 23352,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 64918,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 259641,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 14282,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 54445,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 28833,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 106798,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 33116,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 131419,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 166669,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-0.jpg": {
+		"ft": 16384,
+		"iS": 173380,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 572499,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-1.jpg": {
+		"ft": 16384,
+		"iS": 308027,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-10.jpg": {
+		"ft": 16384,
+		"iS": 344423,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 1084940,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-11.jpg": {
+		"ft": 16384,
+		"iS": 215544,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 674010,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1028605,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-2.jpg": {
+		"ft": 16384,
+		"iS": 319777,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1053033,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-3.jpg": {
+		"ft": 16384,
+		"iS": 470469,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1479499,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-4.jpg": {
+		"ft": 16384,
+		"iS": 365063,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1157532,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-5.jpg": {
+		"ft": 16384,
+		"iS": 329178,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1071678,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-6.jpg": {
+		"ft": 16384,
+		"iS": 362976,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1175805,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-7.jpg": {
+		"ft": 16384,
+		"iS": 341011,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1108751,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-8.jpg": {
+		"ft": 16384,
+		"iS": 375294,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1195232,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-9.jpg": {
+		"ft": 16384,
+		"iS": 380472,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/img\/music-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 1185957,
+		"oA": 1,
+		"oAP": "\/content\/music\/img\/music-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/music\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/music\/index.php",
+		"oF": 0
+		},
+	"\/content\/music\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/music\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/music\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/music\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/music\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/n\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 169824,
@@ -38885,6 +40013,750 @@
 		"oAP": "\/content\/windy\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/world\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 35665,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 4899,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 14558,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 5402,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 17469,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 8018,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 27458,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 4689,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 15030,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 5069,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 15828,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 3489,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 10261,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 7396,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 24715,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 5504,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 17163,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 7067,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 23771,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 7527,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 24238,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 129342,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 11395,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 5835,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 19451,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 4638,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 14280,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 7941,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 26821,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 7355,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 25170,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 3092,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 8991,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 8572,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 30367,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 7340,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 25013,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 5342,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 16370,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-28.png": {
+		"ft": 32768,
+		"iS": 10957,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-28.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-28@2x.png": {
+		"ft": 32768,
+		"iS": 37162,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-28@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-29.png": {
+		"ft": 32768,
+		"iS": 9548,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-29.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-29@2x.png": {
+		"ft": 32768,
+		"iS": 32625,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-29@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 40155,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 8765,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-30.png": {
+		"ft": 32768,
+		"iS": 5461,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-30.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-30@2x.png": {
+		"ft": 32768,
+		"iS": 18279,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-30@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-31.png": {
+		"ft": 32768,
+		"iS": 5393,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-31.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-31@2x.png": {
+		"ft": 32768,
+		"iS": 16696,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-31@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-32.png": {
+		"ft": 32768,
+		"iS": 3892,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-32@2x.png": {
+		"ft": 32768,
+		"iS": 12150,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-32@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-33.png": {
+		"ft": 32768,
+		"iS": 12667,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-33.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-33@2x.png": {
+		"ft": 32768,
+		"iS": 43892,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-33@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-34.png": {
+		"ft": 32768,
+		"iS": 11385,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-34.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-34@2x.png": {
+		"ft": 32768,
+		"iS": 38947,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-34@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 30496,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 5316,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 16803,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 13093,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 45729,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 4846,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 16216,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 7773,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 25164,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 6110,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 20781,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 5643,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 18131,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 137379,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-0.jpg": {
+		"ft": 16384,
+		"iS": 277332,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 857582,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-1.jpg": {
+		"ft": 16384,
+		"iS": 568380,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1736421,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-2.jpg": {
+		"ft": 16384,
+		"iS": 507947,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1601538,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-3.jpg": {
+		"ft": 16384,
+		"iS": 493978,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1528703,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-4.jpg": {
+		"ft": 16384,
+		"iS": 477144,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1472139,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-5.jpg": {
+		"ft": 16384,
+		"iS": 551171,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1672740,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-6.jpg": {
+		"ft": 16384,
+		"iS": 509932,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1545724,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-7.jpg": {
+		"ft": 16384,
+		"iS": 175845,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/img\/world-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 596275,
+		"oA": 1,
+		"oAP": "\/content\/world\/img\/world-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/world\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world\/index.php",
+		"oF": 0
+		},
+	"\/content\/world\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/world\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/world\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/world\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/world\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/zxspectrum\/img\/drag-1.png": {

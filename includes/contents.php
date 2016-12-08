@@ -536,11 +536,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Все места света</span>
-            <span lang="en">All the places in the world</span>
-
+        <li id="world">
+            <a href="/content/world/">
+                <span lang="ru">Все места света</span>
+                <span lang="en">Around the World</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -550,11 +550,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Музыкальный класс</span>
-            <span lang="en">Music class</span>
-
+        <li id="music">
+            <a href="/content/music/">
+                <span lang="ru">Музыкальный класс</span>
+                <span lang="en">Music class</span>
+            </a>
         </li>
 
         <li id="vishnikovskaya">

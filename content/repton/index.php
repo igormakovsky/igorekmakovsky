@@ -51,9 +51,9 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/jewel.png" srcset="img/jewel@2x.png 2x">
         </div>
 
-        <div id="key" class="absolute" style="left:27rem; top:15.4rem;">
+        <!-- <div id="key" class="absolute" style="left:27rem; top:15.4rem;">
             <img src="img/key.png" srcset="img/key@2x.png 2x">
-        </div>
+        </div> -->
 
         <div class="horizontal-small dur05" style="left:-5.5rem; top:-30rem;">
             <div id="head-1">
