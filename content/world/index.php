@@ -2,8 +2,8 @@
 $id = 'world';
 $parent = 'content';
 $color = 'a4a78c';
-$title_ru = 'Все места света, 1 том';
-$title_en = 'Around the World, 1st volume';
+$title_ru = 'Все места света — том 1';
+$title_en = 'Around the World — volume 1';
 $description_ru = 'Условные знаки, 1992';
 $description_en = 'Conventional symbols, 1992';
 $keywords_ru = 'Атлас, нефть, география, знаки, земля';
@@ -41,7 +41,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/drag-4.png" srcset="img/drag-4@2x.png 2x">
         </div>
 
-        <div class="drag" style="right:1.5rem; top:37rem;">
+        <div class="drag" style="right:1.5rem; top:22rem;">
             <img src="img/drag-5.png" srcset="img/drag-5@2x.png 2x">
         </div>
 
@@ -49,7 +49,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/drag-6.png" srcset="img/drag-6@2x.png 2x">
         </div>
 
-        <div class="drag" style="left:3rem; top:42rem;">
+        <div class="drag" style="left:3rem; top:32rem;">
             <img src="img/drag-7.png" srcset="img/drag-7@2x.png 2x">
         </div>
 
@@ -61,27 +61,27 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <img src="img/drag-9.png" srcset="img/drag-9@2x.png 2x">
         </div>
 
-        <div class="drag" style="left:38rem; top:55rem;">
+        <div class="drag" style="left:38rem; top:56rem;">
             <img src="img/drag-10.png" srcset="img/drag-10@2x.png 2x">
         </div>
 
-        <div class="drag" style="left:38rem; top:85rem;">
+        <div class="drag" style="left:38rem; top:32rem;">
             <img src="img/drag-11.png" srcset="img/drag-11@2x.png 2x">
         </div>
 
-        <div class="drag" style="left:28rem; top:88rem;">
+        <div class="drag" style="left:33rem; top:42rem;">
             <img src="img/drag-12.png" srcset="img/drag-12@2x.png 2x">
         </div>
 
-        <div class="drag" style="left:32rem; top:91rem;">
+        <div class="drag" style="left:32rem; top:130rem;">
             <img src="img/drag-13.png" srcset="img/drag-13@2x.png 2x">
         </div>
 
-        <div class="drag" style="right:-9rem; top:91rem;">
+        <div class="drag" style="right:-9rem; top:125rem;">
             <img src="img/drag-14.png" srcset="img/drag-14@2x.png 2x">
         </div>
 
-        <div class="drag" style="right:1rem; top:101rem;">
+        <div class="drag" style="right:1rem; top:130rem;">
             <img src="img/drag-15.png" srcset="img/drag-15@2x.png 2x">
         </div>
 
@@ -104,7 +104,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="text double" style="margin-top:5rem; max-width:1200px;">
+    <section class="text double" style="margin-top:5rem; max-width:1000px;">
 
         <div class="column">
             <p class="small">
@@ -139,7 +139,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Водопады, пороги</li>
                 <li>Болота</li>
                 <li>Солончаки</li>
-                <li>Отметки о высоте (в&nbsp;метрах)</li>
+                <li>Отметки о высоте<br>(в&nbsp;метрах)</li>
                 <li>Отметки глубин</li>
                 <li>Вулканы</li>
                 <li>Ледники</li>
@@ -157,7 +157,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Waterfalls, rifts</li>
                 <li>Swamps</li>
                 <li>Saltmarches</li>
-                <li>Height marks (in&nbsp;meters)</li>
+                <li>Height marks<br>(in&nbsp;meters)</li>
                 <li>Depth marks</li>
                 <li>Volcanes</li>
                 <li>Glaciers</li>

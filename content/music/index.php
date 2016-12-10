@@ -401,11 +401,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </p>
 
         <h2 style="margin-top:3rem;">
-            Гуппето
+            Гуппетто
         </h2>
 
         <p>
-            Гуппето обозначает быстрость игры — от&nbsp;одного знака «гуппето» до другого «гуппето» звук звучит быстро или, наоборот, медленно.
+            Гуппетто обозначает быстрость игры — от&nbsp;одного знака «гуппетто» до другого «гуппетто» звук звучит быстро или, наоборот, медленно.
         </p>
 
         <h2 style="margin-top:3rem;">
@@ -487,7 +487,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Акцент &hellip; 14</li>
             <li>3 песня &hellip; 15</li>
             <li>tr и mo &hellip; 16</li>
-            <li>Гуппето &hellip; 17</li>
+            <li>Гуппетто &hellip; 17</li>
             <li>Мордент-милизами &hellip; 18</li>
             <li>Гитара и лиса &hellip; 19</li>
             <li>4 песня «Барашек» &hellip; 20</li>

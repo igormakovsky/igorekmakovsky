@@ -529,11 +529,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Нефть</span>
-            <span lang="en">Oil</span>
-
+        <li id="petroleum">
+            <a href="/content/petroleum/">
+                <span lang="ru">Нефть</span>
+                <span lang="en">Petroleum</span>
+            </a>
         </li>
 
         <li id="world">
@@ -543,11 +543,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Географический атлас материков</span>
-            <span lang="en">Geographic atlas of the continents</span>
-
+        <li id="atlas">
+            <a href="/content/atlas/">
+                <span lang="ru">Атлас</span>
+                <span lang="en">Atlas</span>
+            </a>
         </li>
 
         <li id="music">
@@ -769,8 +769,8 @@
 
         <li id="moscow">
             <a href="/content/moscow/">
-                <span lang="ru">Атлас Москвы</span>
-                <span lang="en">Moscow atlas</span>
+                <span lang="ru">Москва</span>
+                <span lang="en">Moscow</span>
             </a>
         </li>
 
