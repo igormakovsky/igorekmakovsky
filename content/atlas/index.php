@@ -70,7 +70,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Песочно-земная</li>
                 <li>Гравий</li>
                 <li>Негодная поверхность</li>
@@ -83,6 +83,20 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                     <br>— Потухший</li>
                 <li>Зоны землетрясения</li>
             </ol>
+               
+            <ol lang="en">
+                <li>Sandy soil</li>
+                <li>Gravel</li>
+                <li>Worthless soil</li>
+                <li>Black soil</li>
+                <li>Swamp</li>
+                <li>Plant soil</li>
+                <li>Mining</li>
+                <li>Volcanoes
+                    <br>— Active
+                    <br>— Dormant</li>
+                <li>Earthquakes zones</li>
+            </ol>
         </div>
 
         <div class="column">
@@ -93,7 +107,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Каменный уголь</li>
                 <li>Бурый уголь</li>
                 <li>Нефть</li>
@@ -106,6 +120,21 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Калийные соли</li>
                 <li>Поваренная соль</li>
                 <li>Глауберовая соль</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Coal</li>
+                <li>Brown coal</li>
+                <li>Petroleum</li>
+                <li>Flammable gas</li>
+                <li>Silver ore</li>
+                <li>Iron ore</li>
+                <li>Manganese ore</li>
+                <li>Tin ore</li>
+                <li>Phosphorite</li>
+                <li>Potash salt</li>
+                <li>Salt</li>
+                <li>Glauber's salt</li>
             </ol>
         </div>
 
@@ -143,7 +172,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>+25° — Изотермы июля</li>
                 <li>–25° — Изотермы января</li>
                 <li>→ Направление ветра
@@ -152,6 +181,17 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                     <br>в&nbsp;январе</li>
                 <li>Влажность</li>
                 <li>Сухость</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>+25° — Isotherms of july</li>
+                <li>–25° — Isotherms of january</li>
+                <li>→ Wind direction
+                    <br>in&nbsp;july</li>
+                <li>→ Wind direction
+                    <br>in&nbsp;january</li>
+                <li>Humidity</li>
+                <li>Aridity</li>
             </ol>
         </div>
 
@@ -163,10 +203,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Сильное</li>
                 <li>Малое</li>
                 <li>Среднее</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Intense</li>
+                <li>Low</li>
+                <li>Average</li>
             </ol>
 
             <p class="small" style="margin-top:4rem;">
@@ -176,10 +222,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Слабое население</li>
                 <li>Твёрдое население</li>
                 <li>Нет ничего</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Weak population</li>
+                <li>Strong population</li>
+                <li>Nothing here</li>
             </ol>
         </div>
 
@@ -233,12 +285,20 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
            </strong>
         </p>
 
-        <ol>
+        <ol lang="ru">
             <li>+25° — Изотермы января
                 <br>(самого тёплого месяца в&nbsp;году)</li>
             <li>–25° — Изотермы июля
                 <br>(самого холодного месяца в&nbsp;году)</li>
             <li>–25° — Изотермы ледяной температуры</li>
+        </ol>
+           
+        <ol lang="en">
+            <li>+25° — January isotherms
+                <br>(the most warm month of&nbsp;the&nbsp;year)</li>
+            <li>–25° — July isotherms
+                <br>(the most cold month of&nbsp;the&nbsp;year)</li>
+            <li>–25° — Isotherms of the freezing temperature</li>
         </ol>
 
     </section>
@@ -275,7 +335,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Крупного рогатого скота</li>
                 <li>Свиноводства</li>
                 <li>Хлопчатника</li>
@@ -284,6 +344,17 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Сахарного тростника</li>
                 <li>Овцеводства</li>
                 <li>Оленеводства</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Horned cattle</li>
+                <li>Pig farming</li>
+                <li>Cotton</li>
+                <li>Cacao</li>
+                <li>Coffee</li>
+                <li>Sugar cane</li>
+                <li>Sheep farming</li>
+                <li>Reindeer farming</li>
             </ol>
         </div>
 
@@ -295,7 +366,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Каменный уголь</li>
                 <li>Нефть</li>
                 <li>Горючие газы</li>
@@ -314,6 +385,27 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Сера</li>
                 <li>Тепловые электростанции</li>
                 <li>Гидроэлектростанции</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Coal</li>
+                <li>Petroleum</li>
+                <li>Flammable gas</li>
+                <li>Iron ore</li>
+                <li>Nickel ore</li>
+                <li>Molybdenum ore</li>
+                <li>Aluminum ore</li>
+                <li>Copper ore</li>
+                <li>Lead ore</li>
+                <li>Zinc ore</li>
+                <li>Silver ore</li>
+                <li>Antimony ore</li>
+                <li>Gold</li>
+                <li>Platinum</li>
+                <li>Phosphates</li>
+                <li>Sulphur</li>
+                <li>Thermal power stations</li>
+                <li>Hydroelectricity</li>
             </ol>
         </div>
 
@@ -354,7 +446,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Каменный уголь</li>
                 <li>Нефть</li>
                 <li>Горючие газы</li>
@@ -371,22 +463,48 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <li>Слюда</li>
                 <li>Драгоценные камни</li>
             </ol>
+               
+            <ol lang="en">
+                <li>Coal</li>
+                <li>Petroleum</li>
+                <li>Flammable gas</li>
+                <li>Iron ores</li>
+                <li>Marginalia ore</li>
+                <li>Сhromite ore</li>
+                <li>Tungsten ore</li>
+                <li>Aluminum ore</li>
+                <li>Copper ore</li>
+                <li>Tin ore</li>
+                <li>Antimony ore</li>
+                <li>Graphite</li>
+                <li>Sulbphur</li>
+                <li>Mica</li>
+                <li>Gems</li>
+            </ol>
         </div>
 
         <div class="column">
             <p class="small">
                 <strong>
                    <span lang="ru">Фермы и сельские хозяйства</span>
-                   <span lang="en">Farma and agriculture</span>
+                   <span lang="en">Farms and agriculture</span>
                </strong>
             </p>
 
-            <ol>
+            <ol lang="ru">
                 <li>Крупного рогатого скота</li>
                 <li>Свиноводства</li>
                 <li>Павлинов</li>
                 <li>Бурундуков</li>
                 <li>Желоба</li>
+            </ol>
+               
+            <ol lang="en">
+                <li>Horned cattle</li>
+                <li>Pig farming</li>
+                <li>Peacocks</li>
+                <li>Chipmunks</li>
+                <li>Gutters</li>
             </ol>
         </div>
 
@@ -407,7 +525,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <span lang="en">Contents</span>
         </h2>
 
-        <ul>
+        <ul lang="ru">
             <li>Карта земли&nbsp;&hellip;&nbsp;<span class="nobr">1–2</span></li>
             <li>Африка. <span class="small">Климатическая</span>&nbsp;&hellip;&nbsp;3</li>
             <li>Давления&nbsp;&hellip;&nbsp;3</li>
@@ -430,6 +548,31 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Азия. <span class="small">Комплексная</span>&nbsp;&hellip;&nbsp;19–20</li>
             <li>Земля&nbsp;&hellip;&nbsp;21</li>
             <li>Оглавление&nbsp;&hellip;&nbsp;22</li>
+        </ul>
+           
+        <ul lang="en">
+            <li>Earth map&nbsp;&hellip;&nbsp;<span class="nobr">1–2</span></li>
+            <li>Africa. <span class="small">Climatic map</span>&nbsp;&hellip;&nbsp;3</li>
+            <li>Pressures&nbsp;&hellip;&nbsp;3</li>
+            <li>Nation and population density&nbsp;&hellip;&nbsp;4</li>
+            <li>Complex&nbsp;&hellip;&nbsp;5</li>
+            <li>Australia. <span class="small">Climatic map</span>&nbsp;&hellip;&nbsp;6</li>
+            <li>Political&nbsp;&hellip;&nbsp;7</li>
+            <li>Complex&nbsp;&hellip;&nbsp;7</li>
+            <li>Antarctica. <span class="small">Physical map</span>&nbsp;&hellip;&nbsp;8</li>
+            <li><span class="small">Climatic map</span>&nbsp;&hellip;&nbsp;8</li>
+            <li>South America. <span class="nobr small">Worldly-animalistic</span>&nbsp;&hellip;&nbsp;9</li>
+            <li>Climatics of large winds and&nbsp;pressures&nbsp;&hellip;&nbsp;<span class="nobr">9–10</span></li>
+            <li>North America. <span class="small">Complex</span>&nbsp;&hellip;&nbsp;<span class="nobr">11–12</span></li>
+            <li>Eurasia. <span class="small">Climatic</span>&nbsp;&hellip;&nbsp;13</li>
+            <li>Winds&nbsp;&hellip;&nbsp;14</li>
+            <li>Europe. <span class="small">Complex</span>&nbsp;&hellip;&nbsp;<span class="nobr">15–16</span></li>
+            <li><span class="small">Climatic</span>&nbsp;&hellip;&nbsp;17</li>
+            <li>Map of ancient world&nbsp;&hellip;&nbsp;17</li>
+            <li><span class="small">Climatic</span>&nbsp;&hellip;&nbsp;18</li>
+            <li>Asia. <span class="small">Complex</span>&nbsp;&hellip;&nbsp;19–20</li>
+            <li>Earth&nbsp;&hellip;&nbsp;21</li>
+            <li>Contents&nbsp;&hellip;&nbsp;22</li>
         </ul>
 
     </section>

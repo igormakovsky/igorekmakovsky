@@ -900,11 +900,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Альманах</span>
-            <span lang="en">Almanac</span>
-
+        <li id="almanac">
+            <a href="/content/almanac/">
+                <span lang="ru">Альманах</span>
+                <span lang="en">Almanac</span>
+            </a>
         </li>
 
         <li id="cursive">
@@ -942,11 +942,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Часы</span>
-            <span lang="en">Clock</span>
-
+        <li id="clock">
+            <a href="/content/clock/">
+                <span lang="ru">Часы</span>
+                <span lang="en">Clock</span>
+            </a>
         </li>
 
         <li id="irma-ramuz">

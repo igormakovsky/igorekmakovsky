@@ -7,7 +7,7 @@
 		"uuidString": "F234C924-8093-42A3-8350-B0A055BBC91F"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
 	"\/.brackets.json": {
 		"ft": 524288,
@@ -3387,6 +3387,478 @@
 		"oAP": "\/content\/album\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/almanac\/img\/almanac-0.jpg": {
+		"ft": 16384,
+		"iS": 218529,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 717924,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-1.jpg": {
+		"ft": 16384,
+		"iS": 292002,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-10.jpg": {
+		"ft": 16384,
+		"iS": 277924,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 1021039,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-11.jpg": {
+		"ft": 16384,
+		"iS": 259653,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 968912,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-11@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-12.jpg": {
+		"ft": 16384,
+		"iS": 245037,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 937933,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-12@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-13.jpg": {
+		"ft": 16384,
+		"iS": 253781,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 956100,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-13@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-14.jpg": {
+		"ft": 16384,
+		"iS": 233455,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-14.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 910813,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-14@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-15.jpg": {
+		"ft": 16384,
+		"iS": 265196,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-15.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 988968,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-15@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-16.jpg": {
+		"ft": 16384,
+		"iS": 274660,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-16.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 1014049,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-16@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-17.jpg": {
+		"ft": 16384,
+		"iS": 325512,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-17.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 1157689,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-17@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-18.jpg": {
+		"ft": 16384,
+		"iS": 253568,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-18.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-18@2x.jpg": {
+		"ft": 16384,
+		"iS": 968710,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-18@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-19.jpg": {
+		"ft": 16384,
+		"iS": 259047,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-19.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-19@2x.jpg": {
+		"ft": 16384,
+		"iS": 985858,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-19@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1067658,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-2.jpg": {
+		"ft": 16384,
+		"iS": 275074,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-20.jpg": {
+		"ft": 16384,
+		"iS": 246886,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-20.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-20@2x.jpg": {
+		"ft": 16384,
+		"iS": 958230,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-20@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-21.jpg": {
+		"ft": 16384,
+		"iS": 270801,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-21.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-21@2x.jpg": {
+		"ft": 16384,
+		"iS": 1017689,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-21@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-22.jpg": {
+		"ft": 16384,
+		"iS": 227918,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-22.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-22@2x.jpg": {
+		"ft": 16384,
+		"iS": 915124,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-22@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-23.jpg": {
+		"ft": 16384,
+		"iS": 245014,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-23.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-23@2x.jpg": {
+		"ft": 16384,
+		"iS": 953780,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-23@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-24.jpg": {
+		"ft": 16384,
+		"iS": 148821,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-24.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-24@2x.jpg": {
+		"ft": 16384,
+		"iS": 560253,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-24@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1016283,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-3.jpg": {
+		"ft": 16384,
+		"iS": 307111,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1100246,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-4.jpg": {
+		"ft": 16384,
+		"iS": 306398,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1083661,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-5.jpg": {
+		"ft": 16384,
+		"iS": 390622,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1273612,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-6.jpg": {
+		"ft": 16384,
+		"iS": 388944,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1287926,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-7.jpg": {
+		"ft": 16384,
+		"iS": 343556,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1181766,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-8.jpg": {
+		"ft": 16384,
+		"iS": 309974,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1088438,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-9.jpg": {
+		"ft": 16384,
+		"iS": 287176,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/almanac-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 1025463,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/almanac-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 274273,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/almanac\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/almanac\/index.php",
+		"oF": 0
+		},
+	"\/content\/almanac\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/almanac\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/almanac\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/almanac\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/announcement\/img\/announcement.jpg": {
@@ -11871,6 +12343,110 @@
 		"oAP": "\/content\/clean\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/clock\/img\/clock.jpg": {
+		"ft": 16384,
+		"iS": 511667,
+		"oA": 1,
+		"oAP": "\/content\/clock\/img\/clock.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/clock\/img\/clock@2x.jpg": {
+		"ft": 16384,
+		"iS": 983775,
+		"oA": 1,
+		"oAP": "\/content\/clock\/img\/clock@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/clock\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 228205,
+		"oA": 1,
+		"oAP": "\/content\/clock\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/clock\/img\/round.png": {
+		"ft": 32768,
+		"iS": 408840,
+		"oA": 1,
+		"oAP": "\/content\/clock\/img\/round.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/clock\/img\/round@2x.png": {
+		"ft": 32768,
+		"iS": 1422977,
+		"oA": 1,
+		"oAP": "\/content\/clock\/img\/round@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/clock\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/clock\/index.php",
+		"oF": 0
+		},
+	"\/content\/clock\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/clock\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/clock\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/clock\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/clock\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/cloud-cat-birch\/img\/cloud-cat-birch.jpg": {
@@ -42617,6 +43193,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -42780,6 +43360,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -43145,6 +43729,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -43376,6 +43964,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -44209,6 +44801,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
