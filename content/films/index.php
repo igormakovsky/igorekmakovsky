@@ -14,7 +14,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     <section style="height:50rem;">
 
         <div id="vinyl-spinner" class="spin" style="left:12rem; top:15rem;">
-            <figure id="vinyl" class="rotates">
+            <figure id="vinyl">
                 <img src="img/vinyl.png" srcset="img/vinyl@2x.png 2x">
             </figure>
         </div>

@@ -711,11 +711,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Московские хлопоты по электричеству</span>
-            <span lang="en">Moscow fuss on electricity</span>
-
+        <li id="electricity">
+            <a href="/content/electricity/">
+                <span lang="ru">Московские хлопоты по электричеству</span>
+                <span lang="en">Moscow fuss on electricity</span>
+            </a>
         </li>
 
         <li id="buy">
@@ -774,11 +774,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Рубин</span>
-            <span lang="en">Rubin</span>
-
+        <li id="dogs">
+            <a href="/content/dogs/">
+                <span lang="ru">Псы</span>
+                <span lang="en">Dogs</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1180,11 +1180,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Семь</span>
-            <span lang="en">Seven</span>
-
+        <li id="seven">
+            <a href="/content/seven/">
+                <span lang="ru">7</span>
+                <span lang="en">7</span>
+            </a>
         </li>
 
         <li id="announcement">
@@ -1210,8 +1210,8 @@
 
         <li id="" class="notavaible">
 
-            <span lang="ru">Koop</span>
-            <span lang="en">Koop</span>
+            <span lang="ru">Схемы</span>
+            <span lang="en">Circuitry</span>
 
         </li>
 

@@ -16251,6 +16251,94 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/dogs\/img\/dogs.jpg": {
+		"ft": 16384,
+		"iS": 30117,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/img\/dogs.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dogs\/img\/dogs@2x.jpg": {
+		"ft": 16384,
+		"iS": 94497,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/img\/dogs@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dogs\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 36260,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/dogs\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dogs\/index.php",
+		"oF": 0
+		},
+	"\/content\/dogs\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/dogs\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/dogs\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/dogs\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/donald\/img\/donald-1.jpg": {
 		"ft": 16384,
 		"iS": 221929,
@@ -18257,6 +18345,238 @@
 		"oAP": "\/content\/edd-the-duck\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/electricity\/img\/electricity-0.jpg": {
+		"ft": 16384,
+		"iS": 176811,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 711991,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-1.jpg": {
+		"ft": 16384,
+		"iS": 365242,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1372752,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-2.jpg": {
+		"ft": 16384,
+		"iS": 360728,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1247352,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-3.jpg": {
+		"ft": 16384,
+		"iS": 345922,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1194642,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-4.jpg": {
+		"ft": 16384,
+		"iS": 342680,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1174790,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-5.jpg": {
+		"ft": 16384,
+		"iS": 373874,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1238593,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-6.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1182352,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-7.jpg": {
+		"ft": 16384,
+		"iS": 352890,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1203950,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-8.jpg": {
+		"ft": 16384,
+		"iS": 370438,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1243201,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-9.jpg": {
+		"ft": 16384,
+		"iS": 169629,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/electricity-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 605095,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/electricity-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 144873,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/electricity\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/electricity\/index.php",
+		"oF": 0
+		},
+	"\/content\/electricity\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/electricity\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/electricity\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/electricity\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/elevators\/img\/ball-pen-1.jpg": {
@@ -37727,6 +38047,190 @@
 		"oAP": "\/content\/seeds-triptych\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/seven\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 69669,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-1.jpg": {
+		"ft": 16384,
+		"iS": 40593,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 172108,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-2.jpg": {
+		"ft": 16384,
+		"iS": 40414,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 174443,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-3.jpg": {
+		"ft": 16384,
+		"iS": 42683,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 184928,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-4.jpg": {
+		"ft": 16384,
+		"iS": 42008,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 181829,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-5.jpg": {
+		"ft": 16384,
+		"iS": 41400,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 181187,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-6.jpg": {
+		"ft": 16384,
+		"iS": 42941,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 177972,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-7.jpg": {
+		"ft": 16384,
+		"iS": 45067,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/img\/seven-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 190538,
+		"oA": 1,
+		"oAP": "\/content\/seven\/img\/seven-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/seven\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/seven\/index.php",
+		"oF": 0
+		},
+	"\/content\/seven\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/seven\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/seven\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/seven\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/seven\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/square\/img\/index.jpg": {
