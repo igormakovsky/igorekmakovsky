@@ -1,7 +1,7 @@
 <?php
 $id = 'dogs';
 $parent = 'content';
-$color = 'd4d0bc';
+$color = 'c1bdaa';
 $title_ru = 'Псы';
 $title_en = 'Dogs';
 $description_ru = 'Я пёс, ты пёс, мы с тобою псы';

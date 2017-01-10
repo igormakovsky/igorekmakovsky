@@ -126,14 +126,6 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
-    <section>
-        
-        <div class="drag" style="left:15rem; top:0rem;">
-            <img src="img/drag-8.png" srcset="img/drag-8@2x.png 2x">
-        </div>
-        
-    </section>
 
     <section class="text" style="height:22rem; margin-top:7rem;">
 

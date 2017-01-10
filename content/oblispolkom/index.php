@@ -11,18 +11,10 @@ $keywords_en = 'ispolkom, speach, blya';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section style="height:7rem;">
-
-        <div class="drag" style="left:24rem; top:12rem;">
-            <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
-        </div>
-
-    </section>
-
     <section style="margin-top:10rem;">
 
         <div class="center">
-            <img src="img/ispolkom.jpg" srcset="img/ispolkom@2x.jpg 2x">
+            <img class="scale-08" src="img/ispolkom.jpg" srcset="img/ispolkom@2x.jpg 2x">
         </div>
 
     </section>
@@ -44,6 +36,12 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     </section>
 
     <section style="height:45rem; margin-top:35rem;">
+
+        <div class="drag" style="left:24rem; top:-50rem;">
+            <figure class="scale-07">
+                <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
+            </figure>
+        </div>
         
         <div class="drag" style="left:20rem; top:25rem;">
             <figure class="rot10">

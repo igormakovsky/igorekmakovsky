@@ -435,6 +435,26 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </h2>
 
     </section>
+    
+    <section>
+        
+        <div class="drag" style="left:12rem; top:10rem;">
+            <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
+        </div>
+           
+        <div class="drag" style="right:10rem; top:3rem;">
+            <img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x">
+        </div>
+           
+        <div class="drag" style="right:20rem; top:30rem;">
+            <img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x">
+        </div>
+           
+        <div class="drag" style="right:-10rem; top:15rem;">
+            <img src="img/drag-4.png" srcset="img/drag-4@2x.png 2x">
+        </div>
+        
+    </section>
 
     <section class="text double" style="margin-top:4rem; max-width:1000px;">
 

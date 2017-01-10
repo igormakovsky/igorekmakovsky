@@ -18,20 +18,20 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-       
-       <section class="text" style="margin-top:5rem;">
-           
-           <h2>
+
+    <section class="text" style="margin-top:5rem;">
+
+        <h2>
                <span lang="ru">Московские хлопоты по электричеству</span>
                <span lang="en">Moscow fuss on electricity</span>
            </h2>
-           
-           <p>
-               1992
-           </p>
-           
-       </section>
-        
+
+        <p>
+            1992
+        </p>
+
+    </section>
+
     <section class="picture" style="margin-top:10rem;">
 
         <div class="center">
@@ -39,7 +39,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:13rem;">
 
         <div class="center">
@@ -47,7 +47,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:15rem;">
 
         <div class="center">
@@ -55,7 +55,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:13rem;">
 
         <div class="center">
@@ -63,28 +63,28 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
+
     <section class="text" style="margin-top:1rem;">
-        
+
         <h2>
             <span lang="ru">Москва</span>
             <span lang="en">Moscow</span>
         </h2>
-        
+
         <ul lang="ru">
             <li>Радио</li>
             <li>Электричество</li>
             <li>Тел.</li>
         </ul>
-           
+
         <ul lang="en">
             <li>Radio</li>
             <li>Electricity</li>
             <li>Tel.</li>
         </ul>
-        
+
     </section>
-    
+
     <section class="picture" style="margin-top:12rem;">
 
         <div class="center">
@@ -92,21 +92,21 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
+
     <section class="text" style="margin-top:3rem;">
-        
+
         <ul lang="ru">
             <li>Телефон</li>
             <li>Столбы</li>
         </ul>
-           
+
         <ul lang="en">
             <li>Phone</li>
             <li>Telegraph poles</li>
         </ul>
-        
+
     </section>
-    
+
     <section class="picture" style="margin-top:10rem;">
 
         <div class="center">
@@ -114,7 +114,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:10rem;">
 
         <div class="center">
@@ -122,7 +122,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-        
+
     <section class="picture" style="margin-top:15rem;">
 
         <div class="center">
@@ -130,27 +130,15 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
-    
+
     <section class="text" style="margin-top:3rem;">
-        
+
         <p>
             <span lang="ru">Высоковольтные напряжения бывают либо на&nbsp;вышках, либо&nbsp;на&nbsp;столбах такого&nbsp;рода</span>
             <span lang="en">High voltage presents either on&nbsp;the&nbsp;towers, or&nbsp;on&nbsp;the&nbsp;electricity poles of&nbsp;such kind</span>
         </p>
         
-    </section>
-    
-    <section style="margin-top:12rem;">
-
-        <div class="center">
-            <img src="img/electricity-9.jpg" srcset="img/electricity-9@2x.jpg 2x">
-        </div>
-
-    </section>
-    
-    <section class="text" style="margin:2rem auto 11rem;">
-        
-        <ol>
+        <ol style="margin-top:3.5rem;">
             <li>1 фаза</li>
             <li>1 фаза</li>
             <li>2 фазы</li>
@@ -162,7 +150,15 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Телефонные столбы</li>
             <li>Как сделать столб</li>
         </ol>
-        
+
+    </section>
+
+    <section style="margin:5rem auto 13rem;">
+
+        <div class="center">
+            <img src="img/electricity-9.jpg" srcset="img/electricity-9@2x.jpg 2x">
+        </div>
+
     </section>
 
     <?php require $docroot.'includes/bottom.php'; ?>

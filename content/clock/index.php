@@ -10,6 +10,14 @@ $keywords_ru = 'часы, циферблат, устройство, инстру
 $keywords_en = 'clocks, clockface, device, instructions';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
+    
+    <section style="margin-top:9rem;">
+        
+        <div class="center">
+            <img src="img/clock-2.jpg" srcset="img/clock-2@2x.jpg 2x">
+        </div>
+        
+    </section>
 
     <section class="picture" style="margin-top:10rem; width:70%;">
 
@@ -47,7 +55,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="text" style="margin:9rem auto 12rem;">
+    <section class="text" style="margin-top:9rem;">
 
         <h2>
             <span lang="ru">Часы</span>
@@ -64,6 +72,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
                 <br>1992</span>
         </p>
 
+    </section>
+    
+    <section style="margin:9rem auto 12rem;">
+        
+        <div class="center">
+            <img src="img/clock-1.jpg" srcset="img/clock-1@2x.jpg 2x">
+        </div>
+        
     </section>
 
     <?php require $docroot.'includes/bottom.php'; ?>

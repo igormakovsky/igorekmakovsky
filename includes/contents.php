@@ -438,11 +438,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Индивидуальный договор</span>
-            <span lang="en">Individual contract</span>
-
+        <li id="individual">
+            <a href="/content/individual/">
+                <span lang="ru">Индивидуальный договор</span>
+                <span lang="en">Individual contract</span>
+            </a>
         </li>
 
         <li id="sunset">
@@ -592,11 +592,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Семена не понятно чего</span>
-            <span lang="en">Seeds of god knows what</span>
-
+        <li id="seeds-2">
+            <a href="/content/seeds-2/">
+                <span lang="ru">Семена не понятно чего</span>
+                <span lang="en">Seeds of who knows what</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1096,13 +1096,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Никогда не разговаривать с незнакомым</span>
-            <span lang="en">Never speak to a stranger</span>
-
-        </li>
-
         <li id="pavel-moksimoch">
             <a href="/content/pavel-moksimoch/">
                 <span lang="ru">Паэл Моксимоч</span>
@@ -1135,6 +1128,13 @@
             <a href="/content/diary-2/">
                 <span lang="ru">Дневник погоды №2</span>
                 <span lang="en">Weather diary #2</span>
+            </a>
+        </li>
+
+        <li id="bulgakov">
+            <a href="/content/bulgakov/">
+                <span lang="ru">Мусаил и Маргарита</span>
+                <span lang="en">Musail and Margarita</span>
             </a>
         </li>
 
