@@ -591,6 +591,13 @@
                 <span lang="en">Forgot closing the tap and gone</span>
             </a>
         </li>
+        
+        <li id="magnetic">
+            <a href="/content/magnetic/">
+                <span lang="ru">Бытовая аппаратура магнитной записи</span>
+                <span lang="en">Household magnetic recording equipment</span>
+            </a>
+        </li>
 
         <li id="seeds-2">
             <a href="/content/seeds-2/">
@@ -695,13 +702,6 @@
                 <span lang="ru">Наши любимые бабочки</span>
                 <span lang="en">Our lovely butterflies</span>
             </a>
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Радио и связь</span>
-            <span lang="en">Radio and the communications</span>
-
         </li>
 
         <li id="birds">
@@ -963,11 +963,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Крыса</span>
-            <span lang="en">Rat</span>
-
+        <li id="rat">
+            <a href="/content/rat/">
+                <span lang="ru">Крыса</span>
+                <span lang="en">Rat</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

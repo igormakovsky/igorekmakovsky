@@ -7,7 +7,7 @@
 		"uuidString": "F234C924-8093-42A3-8350-B0A055BBC91F"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/.brackets.json": {
 		"ft": 524288,
@@ -25321,6 +25321,254 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/magnetic\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 327598,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-0.jpg": {
+		"ft": 16384,
+		"iS": 207968,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 774249,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-0@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-1.jpg": {
+		"ft": 16384,
+		"iS": 375488,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-10.jpg": {
+		"ft": 16384,
+		"iS": 209429,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 797623,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-10@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1433808,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-2.jpg": {
+		"ft": 16384,
+		"iS": 403625,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1370567,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-2@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-3.jpg": {
+		"ft": 16384,
+		"iS": 387878,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1344138,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-3@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-4.jpg": {
+		"ft": 16384,
+		"iS": 360124,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1280919,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-4@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-5.jpg": {
+		"ft": 16384,
+		"iS": 463664,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1523300,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-5@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-6.jpg": {
+		"ft": 16384,
+		"iS": 479275,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1575253,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-6@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-7.jpg": {
+		"ft": 16384,
+		"iS": 415619,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1417464,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-7@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-8.jpg": {
+		"ft": 16384,
+		"iS": 312675,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1160417,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-8@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-9.jpg": {
+		"ft": 16384,
+		"iS": 440758,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/img\/magnetic-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 1491453,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/magnetic-9@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/magnetic\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/index.php",
+		"oF": 0
+		},
+	"\/content\/magnetic\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/magnetic\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/magnetic\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/makhaon\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 130222,
@@ -35609,6 +35857,238 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/rat\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 110099,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 403291,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 344364,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 1265758,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 25044,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 88491,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 51910,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 188652,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 32071,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 112030,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 23641,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 83489,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 65076,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 244213,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 41644,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 158332,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 93754,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/rat-1.jpg": {
+		"ft": 16384,
+		"iS": 146927,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/rat-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/rat-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 486664,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/rat-1@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/rat.jpg": {
+		"ft": 16384,
+		"iS": 286758,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/rat.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/img\/rat@2x.jpg": {
+		"ft": 16384,
+		"iS": 1137233,
+		"oA": 1,
+		"oAP": "\/content\/rat\/img\/rat@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/content\/rat\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rat\/index.php",
+		"oF": 0
+		},
+	"\/content\/rat\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/rat\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rat\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rat\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/rat\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/recipe\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 208765,
@@ -44437,6 +44917,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -44976,6 +45460,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
