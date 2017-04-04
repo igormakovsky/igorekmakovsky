@@ -2,8 +2,8 @@
 $id = 'burda-3';
 $parent = 'content';
 $color = '9d095c';
-$title_ru = 'Бурда моден';
-$title_en = 'Burda Moden';
+$title_ru = 'Бурда Мода — 3';
+$title_en = 'Burda Moda — 3';
 $description_ru = 'Выпуск №3';
 $description_en = 'Number #3';
 $keywords_ru = 'бурда, моден, мода, журнал';

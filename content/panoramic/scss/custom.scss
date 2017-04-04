@@ -1,0 +1,115 @@
+@import "../../../scss/retinajs";
+$bg:#8dcfbb;
+body {
+    background-color: $bg;
+}
+
+.panoramic {
+    width: 100vw;
+    min-width: 1000px;
+}
+
+.panoramic-image {
+    float: left;
+    padding: 0 15rem;
+}
+
+#panoramic-1 {
+    @extend .panoramic;
+    height: 552px;
+    margin-top: 10rem;
+    img {
+        @extend .panoramic-image;
+        width: 1408px;
+    }
+}
+
+#panoramic-2 {
+    @extend .panoramic;
+    height: 550px;
+    img {
+        @extend .panoramic-image;
+        width: 2898px;
+    }
+}
+
+#panoramic-3 {
+    @extend .panoramic;
+    height: 543px;
+    img {
+        @extend .panoramic-image;
+        width: 854px;
+    }
+}
+
+#panoramic-4 {
+    @extend .panoramic;
+    height: 570px;
+    img {
+        @extend .panoramic-image;
+        width: 1988px;
+    }
+}
+
+#panoramic-5 {
+    @extend .panoramic;
+    height: 556px;
+    img {
+        @extend .panoramic-image;
+        width: 1190px;
+    }
+}
+
+#panoramic-6 {
+    @extend .panoramic;
+    height: 574px;
+    img {
+        @extend .panoramic-image;
+        width: 1959px;
+    }
+}
+
+#panoramic-7 {
+    @extend .panoramic;
+    height: 578px;
+    img {
+        @extend .panoramic-image;
+        width: 1826px;
+    }
+}
+
+#panoramic-8 {
+    @extend .panoramic;
+    height: 590px;
+    img {
+        @extend .panoramic-image;
+        width: 2204px;
+    }
+}
+
+#panoramic-9 {
+    @extend .panoramic;
+    height: 566px;
+    img {
+        @extend .panoramic-image;
+        width: 1904px;
+    }
+}
+
+#panoramic-10 {
+    @extend .panoramic;
+    height: 568px;
+    img {
+        @extend .panoramic-image;
+        width: 1868px;
+    }
+}
+
+#panoramic-11 {
+    @extend .panoramic;
+    height: 556px;
+    img {
+        @extend .panoramic-image;
+        width: 1145px;
+    }
+}

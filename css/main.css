@@ -987,8 +987,10 @@ ol li {
   -webkit-box-align: baseline;
       -ms-flex-align: baseline;
           align-items: baseline;
-  -ms-flex-flow: row;
-      flex-flow: row;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
 }
 
 .hidden {
@@ -2072,6 +2074,7 @@ body {
   min-height: 100vh;
   font-size: 1em;
   width: 100%;
+  margin: 0;
   height: 100%;
   overflow-x: hidden;
   color: #f9f9f9;

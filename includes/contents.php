@@ -44,13 +44,18 @@
             </a>
         </li>
 
-        <li id="geometry">
+        <li id="panoramic">
+            <a href="/content/panoramic/">
+                <span lang="ru">Панорамные линии — серия работ</span>
+                <span lang="en">Panoramic lines — series of works</span>
+            </a>
+        </li>
 
+        <li id="geometry">
             <a href="/content/geometry/">
                 <span lang="ru">Английский изучитель языка геометрии</span>
                 <span lang="en">English learnitator of geometry language</span>
             </a>
-
         </li>
 
         <li id="ma30">
@@ -361,11 +366,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Бурда Мода — 1</span>
-            <span lang="en">Burda Moda — 1</span>
-
+        <li id="burda-1">
+            <a href="/content/burda-1/">
+                <span lang="ru">Бурда Мода — 1</span>
+                <span lang="en">Burda Moda — 1</span>
+            </a>
         </li>
 
         <li id="lines">
@@ -501,6 +506,13 @@
             </a>
         </li>
 
+        <li id="minutes-120">
+            <a href="/content/minutes-120/">
+                <span lang="ru">120 минут</span>
+                <span lang="en">120 minutes</span>
+            </a>
+        </li>
+
         <li id="seeds-list">
             <a href="/content/seeds-list/">
                 <span lang="ru">Список семян</span>
@@ -591,7 +603,7 @@
                 <span lang="en">Forgot closing the tap and gone</span>
             </a>
         </li>
-        
+
         <li id="magnetic">
             <a href="/content/magnetic/">
                 <span lang="ru">Бытовая аппаратура магнитной записи</span>
@@ -604,20 +616,6 @@
                 <span lang="ru">Семена не понятно чего</span>
                 <span lang="en">Seeds of who knows what</span>
             </a>
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Панорамы со столбами</span>
-            <span lang="en">Panoramas with poles</span>
-
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Впечатления от прогулки</span>
-            <span lang="en">Emotions from a walk</span>
-
         </li>
 
         <li id="news">
@@ -795,6 +793,13 @@
 
         </li>
 
+        <li id="lines-triptych">
+            <a href="/content/lines-triptych/">
+                <span lang="ru">Линии — триптих</span>
+                <span lang="en">Lines — triptych</span>
+            </a>
+        </li>
+
         <li id="buterfy">
             <a href="/content/buterfy/">
                 <span lang="ru">Батерфяй</span>
@@ -888,8 +893,8 @@
 
         <li id="burda-3">
             <a href="/content/burda-3/">
-                <span lang="ru">Бурда Моден — 3</span>
-                <span lang="en">Burda Moden — 3</span>
+                <span lang="ru">Бурда Мода — 3</span>
+                <span lang="en">Burda Moda — 3</span>
             </a>
         </li>
 

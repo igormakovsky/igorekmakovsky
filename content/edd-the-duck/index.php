@@ -365,10 +365,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     </h2>
 
         <p>
-            <span lang="ru">71×21см
+            <span lang="ru">63×21см
             <br>шариковая ручка, карандаш
             <br>~1992</span>
-            <span lang="en">71×21cm
+            <span lang="en">63×21cm
             <br>ballpen, pencils
             <br>~1992</span>
         </p>

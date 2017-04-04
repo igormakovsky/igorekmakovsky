@@ -36,10 +36,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <span lang="en">Manual</span>
         </p>
 
-        <ul style="margin-top:4.5rem;">
+        <ul lang="ru" style="margin-top:4.5rem;">
             <li>В.И. Шевченко</li>
             <li>В.Н. Ткаченко</li>
             <li>В.Л. Митлевский</li>
+        </ul>
+           
+        <ul lang="en" style="margin-top:4.5rem;">
+            <li>V.I. Shchevchenkо</li>
+            <li>V.N. Tkachenko</li>
+            <li>V.L. Mitlevsky</li>
         </ul>
 
     </section>
@@ -71,7 +77,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section class="text" style="margin-top:3.5rem;">
 
-        <ol>
+        <ol lang="ru">
             <li>Короткие волны сигнала и другие разновидности</li>
             <li>Знак сломанного диода</li>
             <li>Переключенная радиоволна</li>
@@ -94,6 +100,30 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Антенна</li>
             <li>Проигрыватель</li>
         </ol>
+           
+        <ol lang="en">
+            <li>Short wave signals and other kinds</li>
+            <li>Broken diode symbol</li>
+            <li>Switched radiowave</li>
+            <li>Radio</li>
+            <li>Resistor</li>
+            <li>Straight connection</li>
+            <li>Condensator</li>
+            <li>Disc</li>
+            <li>Rewind</li>
+            <li>Rewind</li>
+            <li>Home antenna</li>
+            <li>Lower waves</li>
+            <li>Paragraphs</li>
+            <li>The right mark — quesion</li>
+            <li>Intense eyes</li>
+            <li>Coil</li>
+            <li>One coil</li>
+            <li>Sun</li>
+            <li>South</li>
+            <li>Antenna</li>
+            <li>Player</li>
+        </ol>
 
     </section>
     
@@ -104,6 +134,20 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
 
     </section>
+       
+       <section class="text">
+           
+           <ol lang="ru">
+               <li>Слушатель</li>
+               <li>Колонки</li>
+           </ol>
+              
+            <ol lang="en">
+               <li>Listener</li>
+               <li>Speakers</li>
+           </ol>
+           
+       </section>
         
     <section class="picture" style="margin-top:12rem;">
 

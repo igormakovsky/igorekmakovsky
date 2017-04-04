@@ -13,5 +13,24 @@ $(function () {
         ease: Strong.easeOut,
         throwProps: true
     });
+    
+    Draggable.create(".scrollvert", {
+        type: "scrollTop",
+        edgeResistance: 0.5,
+        throwProps: true
+    });
+
+    Draggable.create(".scrollhor", {
+        type: "scrollLeft",
+        edgeResistance: 0.5,
+        throwProps: true,
+        lockAxis: true
+    });
+
+    Draggable.create(".scroll", {
+        type: "scroll",
+        edgeResistance: 0.5,
+        throwProps: true
+    });
 
 });
