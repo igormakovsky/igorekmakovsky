@@ -2,8 +2,8 @@
 $id = 'burda-1';
 $parent = 'content';
 $color = '4ed0d7';
-$title_ru = 'Бурда Мода — 1';
-$title_en = 'Burda Moda — 1';
+$title_ru = 'Бурда Моден — 1';
+$title_en = 'Burda Moden — 1';
 $description_ru = 'Выпуск №1';
 $description_en = 'Number #1';
 $keywords_ru = 'бурда, моден, мода, журнал';

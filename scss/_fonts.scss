@@ -119,7 +119,7 @@ ol {
 }
 
 //
-strong {
+strong, .strong {
     @extend .bold;
 }
 

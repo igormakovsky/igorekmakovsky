@@ -1,0 +1,9 @@
+@import "../../../scss/retinajs";
+$bg:#8dcfbb;
+body {
+    background-color: $bg;
+}
+
+.spin {
+    z-index: 1;
+}

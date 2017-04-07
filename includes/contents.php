@@ -368,8 +368,8 @@
 
         <li id="burda-1">
             <a href="/content/burda-1/">
-                <span lang="ru">Бурда Мода — 1</span>
-                <span lang="en">Burda Moda — 1</span>
+                <span lang="ru">Бурда Моден — 1</span>
+                <span lang="en">Burda Moden — 1</span>
             </a>
         </li>
 
@@ -482,6 +482,13 @@
             <a href="/content/poles-and-manhole/">
                 <span lang="ru">Столбы и чугунная крышка</span>
                 <span lang="en">Poles and the cast iron manhole</span>
+            </a>
+        </li>
+
+        <li id="knitting">
+            <a href="/content/knitting/">
+                <span lang="ru">Вязания</span>
+                <span lang="en">Knitting</span>
             </a>
         </li>
 
@@ -849,11 +856,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Бурда Мода — 2</span>
-            <span lang="en">Burda Moda — 2</span>
-
+        <li id="burda-2">
+            <a href="/content/burda-2/">
+                <span lang="ru">Бурда Моден — 2</span>
+                <span lang="en">Burda Moden — 2</span>
+            </a>
         </li>
 
         <li id="articles">
@@ -893,8 +900,8 @@
 
         <li id="burda-3">
             <a href="/content/burda-3/">
-                <span lang="ru">Бурда Мода — 3</span>
-                <span lang="en">Burda Moda — 3</span>
+                <span lang="ru">Бурда Моден — 3</span>
+                <span lang="en">Burda Moden — 3</span>
             </a>
         </li>
 
@@ -1143,13 +1150,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вязания</span>
-            <span lang="en">Knitting</span>
-
-        </li>
-
         <li id="reminiscences">
             <a href="/content/reminiscences/">
                 <span lang="ru">Реминисценции о больнице</span>
@@ -1157,11 +1157,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Вязания и пища</span>
-            <span lang="en">Knitting and cooking</span>
-
+        <li id="food">
+            <a href="/content/food/">
+                <span lang="ru">Вязания и пища</span>
+                <span lang="en">Knitting and food</span>
+            </a>
         </li>
 
         <li id="russia-news">

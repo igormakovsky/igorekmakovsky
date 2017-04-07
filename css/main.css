@@ -20,7 +20,7 @@
   font-family: "Graphik Regular", helvetica neue, arial, sans-serif;
 }
 
-.bold, h2, strong {
+.bold, h2, strong, .strong {
   font-family: "Graphik Bold", helvetica neue, arial, sans-serif;
 }
 
