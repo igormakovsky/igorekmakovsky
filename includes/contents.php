@@ -86,8 +86,8 @@
             </a>
         </li>
 
-        <li id="subscription">
-            <a href="/content/subscription/">
+        <li id="subscription-1">
+            <a href="/content/subscription-1/">
                 <span lang="ru">Подписка на 1990 год</span>
                 <span lang="en">Subscription for 1990 year</span>
             </a>
@@ -982,11 +982,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Приусадебное хозяйство</span>
-            <span lang="en">Homestead land</span>
-
+        <li id="subscription-2">
+            <a href="/content/subscription-2/">
+                <span lang="ru">Приусадебное хозяйство</span>
+                <span lang="en">Farming household</span>
+            </a>
         </li>
 
         <li id="vera">
@@ -1262,11 +1262,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Дача</span>
-            <span lang="en">Dacha</span>
-
+        <li id="slava">
+            <a href="/content/slava/">
+                <span lang="ru">Слава</span>
+                <span lang="en">Slava</span>
+            </a>
         </li>
 
         <li id="dymo">

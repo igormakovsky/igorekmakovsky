@@ -21,15 +21,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section class="text" style="margin-bottom:8rem; margin-top:4rem;">
 
-        <h2 lang="ru">31</h2>
-        <h2 lang="en">31</h2>
+        <h2>31</h2>
 
-        <p lang="ru">21×29см
-            <br>шариковая ручка, акварель
-            <br>1989</p>
-        <p lang="en">21×29cm
-            <br>ballpen, watercolor
-            <br>1989</p>
+        <p>
+            <span lang="ru">21×29см
+                <br>шариковая ручка, акварель
+                <br>1989</span>
+            <span lang="en">21×29cm
+                <br>ballpen, watercolor
+                <br>1989</span>
+        </p>
 
     </section>
 

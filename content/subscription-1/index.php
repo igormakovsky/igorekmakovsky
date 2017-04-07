@@ -1,5 +1,5 @@
 <?php
-$id = 'subscription';
+$id = 'subscription-1';
 $parent = 'content';
 $color = '557487';
 $title_ru = 'Подписка на 1990 год';
