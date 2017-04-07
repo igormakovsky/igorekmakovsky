@@ -632,11 +632,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Схема телевизора</span>
-            <span lang="en">Tv scheme</span>
-
+        <li id="resistors">
+            <a href="/content/resistors/">
+                <span lang="ru">Сопротивления</span>
+                <span lang="en">Resistors</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1213,11 +1213,11 @@
 
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Схемы</span>
-            <span lang="en">Circuitry</span>
-
+        <li id="rubin">
+            <a href="/content/rubin/">
+                <span lang="ru">Рубин</span>
+                <span lang="en">Rubin</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

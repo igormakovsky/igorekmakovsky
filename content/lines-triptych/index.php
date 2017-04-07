@@ -21,7 +21,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
         <h2>
             <span lang="ru">Линии — триптих</span>
-            <span lang="en">Lines — tripych</span>
+            <span lang="en">Lines — triptych</span>
         </h2>
 
         <p class="small emdash">

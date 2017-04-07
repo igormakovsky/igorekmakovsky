@@ -32,10 +32,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×67см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×67cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -57,10 +57,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×114см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×114cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -82,10 +82,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×32см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×32cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -107,10 +107,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×77см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×77cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -132,10 +132,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×46см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×46cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -157,10 +157,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×74см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×74cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -182,10 +182,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×68см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×68cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -207,10 +207,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×83см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×83cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -232,10 +232,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×75см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×75cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -257,10 +257,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×70см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×70cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>
@@ -282,10 +282,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <p>
             <span lang="ru">21×44см
         <br>шариковая ручка
-        <br>1989</span>
+        <br>1990</span>
             <span lang="en">21×44cm
         <br>ballpen
-        <br>1989</span>
+        <br>1990</span>
         </p>
 
     </section>

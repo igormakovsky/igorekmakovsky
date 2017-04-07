@@ -29054,6 +29054,1002 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/magnetic\/css\/custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/css\/custom-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/content\/magnetic\/css\/custom.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/magnetic\/css\/custom.css.map",
+		"oF": 0
+		},
+	"\/content\/magnetic\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 248456,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-10.png": {
+		"ft": 32768,
+		"iS": 203462,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-10.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-10@2x.png": {
+		"ft": 32768,
+		"iS": 563422,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-10@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-11.png": {
+		"ft": 32768,
+		"iS": 41011,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-11.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-11@2x.png": {
+		"ft": 32768,
+		"iS": 149555,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-11@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-12.png": {
+		"ft": 32768,
+		"iS": 50183,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-12.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-12@2x.png": {
+		"ft": 32768,
+		"iS": 179207,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-12@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-13.png": {
+		"ft": 32768,
+		"iS": 38154,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-13.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-13@2x.png": {
+		"ft": 32768,
+		"iS": 134072,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-13@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-14.png": {
+		"ft": 32768,
+		"iS": 50423,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-14.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-14@2x.png": {
+		"ft": 32768,
+		"iS": 177961,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-14@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-15.png": {
+		"ft": 32768,
+		"iS": 43219,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-15.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-15@2x.png": {
+		"ft": 32768,
+		"iS": 149798,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-15@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-16.png": {
+		"ft": 32768,
+		"iS": 43249,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-16.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-16@2x.png": {
+		"ft": 32768,
+		"iS": 150033,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-16@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-17.png": {
+		"ft": 32768,
+		"iS": 49136,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-17.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-17@2x.png": {
+		"ft": 32768,
+		"iS": 175256,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-17@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-18.png": {
+		"ft": 32768,
+		"iS": 51005,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-18.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-18@2x.png": {
+		"ft": 32768,
+		"iS": 187047,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-18@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-19.png": {
+		"ft": 32768,
+		"iS": 54912,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-19.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-19@2x.png": {
+		"ft": 32768,
+		"iS": 199369,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-19@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 991335,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 133484,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-20.png": {
+		"ft": 32768,
+		"iS": 35263,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-20.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-20@2x.png": {
+		"ft": 32768,
+		"iS": 126866,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-20@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-21.png": {
+		"ft": 32768,
+		"iS": 61203,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-21.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-21@2x.png": {
+		"ft": 32768,
+		"iS": 213811,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-21@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-22.png": {
+		"ft": 32768,
+		"iS": 51479,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-22.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-22@2x.png": {
+		"ft": 32768,
+		"iS": 182087,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-22@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-23.png": {
+		"ft": 32768,
+		"iS": 30981,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-23.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-23@2x.png": {
+		"ft": 32768,
+		"iS": 105220,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-23@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-24.png": {
+		"ft": 32768,
+		"iS": 30747,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-24.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-24@2x.png": {
+		"ft": 32768,
+		"iS": 105306,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-24@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-25.png": {
+		"ft": 32768,
+		"iS": 47741,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-25.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-25@2x.png": {
+		"ft": 32768,
+		"iS": 169485,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-25@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-26.png": {
+		"ft": 32768,
+		"iS": 71324,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-26.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-26@2x.png": {
+		"ft": 32768,
+		"iS": 255111,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-26@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-27.png": {
+		"ft": 32768,
+		"iS": 146342,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-27.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-27@2x.png": {
+		"ft": 32768,
+		"iS": 560775,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-27@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-28.png": {
+		"ft": 32768,
+		"iS": 68919,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-28.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-28@2x.png": {
+		"ft": 32768,
+		"iS": 251019,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-28@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-29.png": {
+		"ft": 32768,
+		"iS": 16541,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-29.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-29@2x.png": {
+		"ft": 32768,
+		"iS": 62521,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-29@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 514800,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 174567,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-30.png": {
+		"ft": 32768,
+		"iS": 13311,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-30.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-30@2x.png": {
+		"ft": 32768,
+		"iS": 49164,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-30@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-31.png": {
+		"ft": 32768,
+		"iS": 15509,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-31.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-31@2x.png": {
+		"ft": 32768,
+		"iS": 57745,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-31@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-32.png": {
+		"ft": 32768,
+		"iS": 12477,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-32.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-32@2x.png": {
+		"ft": 32768,
+		"iS": 44787,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-32@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-33.png": {
+		"ft": 32768,
+		"iS": 13008,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-33.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-33@2x.png": {
+		"ft": 32768,
+		"iS": 46974,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-33@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-34.png": {
+		"ft": 32768,
+		"iS": 10375,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-34.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-34@2x.png": {
+		"ft": 32768,
+		"iS": 36601,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-34@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-35.png": {
+		"ft": 32768,
+		"iS": 10185,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-35.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-35@2x.png": {
+		"ft": 32768,
+		"iS": 36520,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-35@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-36.png": {
+		"ft": 32768,
+		"iS": 8510,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-36.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-36@2x.png": {
+		"ft": 32768,
+		"iS": 28093,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-36@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-37.png": {
+		"ft": 32768,
+		"iS": 18257,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-37.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-37@2x.png": {
+		"ft": 32768,
+		"iS": 60978,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-37@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-38.png": {
+		"ft": 32768,
+		"iS": 64812,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-38.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-38@2x.png": {
+		"ft": 32768,
+		"iS": 239283,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-38@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-39.png": {
+		"ft": 32768,
+		"iS": 28795,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-39.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-39@2x.png": {
+		"ft": 32768,
+		"iS": 104012,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-39@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 656336,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 156339,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-40.png": {
+		"ft": 32768,
+		"iS": 54349,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-40.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-40@2x.png": {
+		"ft": 32768,
+		"iS": 205154,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-40@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-41.png": {
+		"ft": 32768,
+		"iS": 55403,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-41.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-41@2x.png": {
+		"ft": 32768,
+		"iS": 207725,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-41@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-42.png": {
+		"ft": 32768,
+		"iS": 33372,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-42.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-42@2x.png": {
+		"ft": 32768,
+		"iS": 125001,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-42@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-43.png": {
+		"ft": 32768,
+		"iS": 39047,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-43.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-43@2x.png": {
+		"ft": 32768,
+		"iS": 143174,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-43@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-44.png": {
+		"ft": 32768,
+		"iS": 164216,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-44.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-44@2x.png": {
+		"ft": 32768,
+		"iS": 647658,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-44@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-45.png": {
+		"ft": 32768,
+		"iS": 67708,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-45.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-45@2x.png": {
+		"ft": 32768,
+		"iS": 250364,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-45@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-46.png": {
+		"ft": 32768,
+		"iS": 48370,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-46.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-46@2x.png": {
+		"ft": 32768,
+		"iS": 163052,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-46@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-47.png": {
+		"ft": 32768,
+		"iS": 43150,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-47.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-47@2x.png": {
+		"ft": 32768,
+		"iS": 150345,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-47@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-48.png": {
+		"ft": 32768,
+		"iS": 59425,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-48.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-48@2x.png": {
+		"ft": 32768,
+		"iS": 225358,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-48@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-49.png": {
+		"ft": 32768,
+		"iS": 219877,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-49.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-49@2x.png": {
+		"ft": 32768,
+		"iS": 864784,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-49@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 612955,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-5.png": {
+		"ft": 32768,
+		"iS": 180694,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-5.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-5@2x.png": {
+		"ft": 32768,
+		"iS": 701079,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-5@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-6.png": {
+		"ft": 32768,
+		"iS": 281631,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-6.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-6@2x.png": {
+		"ft": 32768,
+		"iS": 1099452,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-6@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-7.png": {
+		"ft": 32768,
+		"iS": 108458,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-7.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-7@2x.png": {
+		"ft": 32768,
+		"iS": 410263,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-7@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-8.png": {
+		"ft": 32768,
+		"iS": 150598,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-8.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-8@2x.png": {
+		"ft": 32768,
+		"iS": 585167,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-8@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-9.png": {
+		"ft": 32768,
+		"iS": 296937,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-9.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/drag-9@2x.png": {
+		"ft": 32768,
+		"iS": 1144856,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/drag-9@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/content\/magnetic\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 327598,
@@ -29257,6 +30253,42 @@
 		"iS": 1491453,
 		"oA": 1,
 		"oAP": "\/content\/magnetic\/img\/magnetic-9@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/plate-1.jpg": {
+		"ft": 16384,
+		"iS": 487169,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/plate-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/plate-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1745467,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/plate-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/plate-2.jpg": {
+		"ft": 16384,
+		"iS": 495658,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/plate-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/magnetic\/img\/plate-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1749498,
+		"oA": 1,
+		"oAP": "\/content\/magnetic\/img\/plate-2@2x.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -42432,6 +43464,177 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/resistors\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 164558,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-1.png": {
+		"ft": 32768,
+		"iS": 158889,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-1.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-1@2x.png": {
+		"ft": 32768,
+		"iS": 616548,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-1@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-2.png": {
+		"ft": 32768,
+		"iS": 176326,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-2@2x.png": {
+		"ft": 32768,
+		"iS": 683254,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-2@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-3.png": {
+		"ft": 32768,
+		"iS": 180983,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-3@2x.png": {
+		"ft": 32768,
+		"iS": 699857,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-3@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-4.png": {
+		"ft": 32768,
+		"iS": 164289,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-4.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors-4@2x.png": {
+		"ft": 32768,
+		"iS": 647781,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors-4@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors.jpg": {
+		"ft": 16384,
+		"iS": 739439,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/img\/resistors@2x.jpg": {
+		"ft": 16384,
+		"iS": 2685067,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/img\/resistors@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/resistors\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/resistors\/index.php",
+		"oF": 0
+		},
+	"\/content\/resistors\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/resistors\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/resistors\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/resistors\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/rockfall\/css\/custom.css": {
 		"aP": 0,
 		"bl": 0,
@@ -43193,6 +44396,195 @@
 		"oAP": "\/content\/rockfall\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/rubin\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 64348,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 245617,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 82273,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 299392,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 129536,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 477292,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-3@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-4.png": {
+		"ft": 32768,
+		"iS": 286015,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-4.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/drag-4@2x.png": {
+		"ft": 32768,
+		"iS": 1089476,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/drag-4@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 239578,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/rubin-1.jpg": {
+		"ft": 16384,
+		"iS": 48661,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/rubin-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/rubin-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 166640,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/rubin-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/rubin-2.jpg": {
+		"ft": 16384,
+		"iS": 408905,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/rubin-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/img\/rubin-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1293947,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/img\/rubin-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/rubin\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rubin\/index.php",
+		"oF": 0
+		},
+	"\/content\/rubin\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/rubin\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/rubin\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/rubin\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/russia-news\/img\/drag-1.png": {
