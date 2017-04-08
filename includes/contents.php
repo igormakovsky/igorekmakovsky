@@ -737,11 +737,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наука и природа человека</span>
-            <span lang="en">Science and human nature</span>
-
+        <li id="human-nature">
+            <a href="/content/human-nature/">
+                <span lang="ru">Наука и природа человека</span>
+                <span lang="en">Science and human nature</span>
+            </a>
         </li>
 
         <li id="kranty">
@@ -832,6 +832,13 @@
             <a href="/content/bread/">
                 <span lang="ru">Хлеб с семенами</span>
                 <span lang="en">Bread with seeds</span>
+            </a>
+        </li>
+
+        <li id="blue-mole">
+            <a href="/content/blue-mole/">
+                <span lang="ru">Синий крот</span>
+                <span lang="en">Blue mole</span>
             </a>
         </li>
 
@@ -1171,11 +1178,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мая и Кузя</span>
-            <span lang="en">Maya and Kuzya</span>
-
+        <li id="maya-and-kuzya">
+            <a href="/content/maya-and-kuzya/">
+                <span lang="ru">Мая и Кузя</span>
+                <span lang="en">Maya and Kuzya</span>
+            </a>
         </li>
 
         <li id="centrowt">
@@ -1220,11 +1227,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Игорь</span>
-            <span lang="en">Igor</span>
-
+        <li id="igor">
+            <a href="/content/igor/">
+                <span lang="ru">Игорь</span>
+                <span lang="en">Igor</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -1248,11 +1255,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Математика — 2</span>
-            <span lang="en">Mathematics — 2</span>
-
+        <li id="mathematics-3">
+            <a href="/content/mathematics-3/">
+                <span lang="ru">Математика — №3</span>
+                <span lang="en">Mathematics — #3</span>
+            </a>
         </li>
 
         <li id="diary-3">

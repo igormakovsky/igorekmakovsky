@@ -8469,6 +8469,97 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/blue-mole\/img\/blue-mole.jpg": {
+		"ft": 16384,
+		"iS": 93236,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/img\/blue-mole.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/blue-mole\/img\/blue-mole@2x.jpg": {
+		"ft": 16384,
+		"iS": 367662,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/img\/blue-mole@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/blue-mole\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 86864,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/blue-mole\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/blue-mole\/index.php",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/blue-mole\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/blue-mole\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/blue-mole\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/boris-and-andrey\/img\/boris-and-andrey.jpg": {
 		"ft": 16384,
 		"iS": 142223,
@@ -27111,6 +27202,295 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/human-nature\/img\/human-nature-0.jpg": {
+		"ft": 16384,
+		"iS": 175678,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-0.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 703687,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-0@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-1.jpg": {
+		"ft": 16384,
+		"iS": 420481,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-10.jpg": {
+		"ft": 16384,
+		"iS": 331730,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-10.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 1240588,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-10@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-11.jpg": {
+		"ft": 16384,
+		"iS": 196581,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-11.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 741844,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-11@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1456797,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-2.jpg": {
+		"ft": 16384,
+		"iS": 365210,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1237156,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-3.jpg": {
+		"ft": 16384,
+		"iS": 402411,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-3.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1381690,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-3@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-4.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-4.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1451486,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-4@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-5.jpg": {
+		"ft": 16384,
+		"iS": 328238,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1123591,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-5@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-6.jpg": {
+		"ft": 16384,
+		"iS": 351421,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-6.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 1208944,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-6@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-7.jpg": {
+		"ft": 16384,
+		"iS": 352893,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-7.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1206704,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-7@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-8.jpg": {
+		"ft": 16384,
+		"iS": 328156,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-8.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1104813,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-8@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-9.jpg": {
+		"ft": 16384,
+		"iS": 313112,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-9.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/human-nature-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 1123009,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/human-nature-9@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 278784,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/human-nature\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/human-nature\/index.php",
+		"oF": 0
+		},
+	"\/content\/human-nature\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/human-nature\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/human-nature\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/human-nature\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/i-am-sun\/img\/i-am-sun-1.jpg": {
 		"ft": 16384,
 		"iS": 72745,
@@ -27236,6 +27616,227 @@
 		"oAP": "\/content\/i-am-sun\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/igor\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 202033,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/drag-1.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 810036,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/drag-1@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 86426,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/drag-2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 337827,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/drag-2@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-1.jpg": {
+		"ft": 16384,
+		"iS": 360495,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1308299,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-2.jpg": {
+		"ft": 16384,
+		"iS": 397393,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1369141,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-3.jpg": {
+		"ft": 16384,
+		"iS": 296123,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-3.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1175562,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-3@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-4.jpg": {
+		"ft": 16384,
+		"iS": 216220,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-4.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 938077,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-4@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-5.jpg": {
+		"ft": 16384,
+		"iS": 339345,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1304592,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-5@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-6.jpg": {
+		"ft": 16384,
+		"iS": 103756,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-6.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/igor-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 370374,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/igor-6@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 196249,
+		"oA": 1,
+		"oAP": "\/content\/igor\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/igor\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/igor\/index.php",
+		"oF": 0
+		},
+	"\/content\/igor\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/igor\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/igor\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/igor\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/igor\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/individual\/img\/drag-1.png": {
@@ -33918,6 +34519,2926 @@
 		"oAP": "\/content\/mathematics-2\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/mathematics-3\/css\/custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/css\/custom-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/content\/mathematics-3\/css\/custom.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/css\/custom.css.map",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 297021,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-0.jpg": {
+		"ft": 16384,
+		"iS": 35214,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-0.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 118233,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-0@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-1.jpg": {
+		"ft": 16384,
+		"iS": 25971,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-10.jpg": {
+		"ft": 16384,
+		"iS": 29225,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-10.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-100-piece.png": {
+		"ft": 32768,
+		"iS": 54342,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-100-piece.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-100-piece@2x.png": {
+		"ft": 32768,
+		"iS": 250905,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-100-piece@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-100.jpg": {
+		"ft": 16384,
+		"iS": 21529,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-100.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-100@2x.jpg": {
+		"ft": 16384,
+		"iS": 75796,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-100@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-101-piece.png": {
+		"ft": 32768,
+		"iS": 54697,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-101-piece.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-101-piece@2x.png": {
+		"ft": 32768,
+		"iS": 240995,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-101-piece@2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-101.jpg": {
+		"ft": 16384,
+		"iS": 19741,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-101.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-101@2x.jpg": {
+		"ft": 16384,
+		"iS": 69151,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-101@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102-1.jpg": {
+		"ft": 16384,
+		"iS": 30521,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 104448,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102-2.jpg": {
+		"ft": 16384,
+		"iS": 28424,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 103165,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102.jpg": {
+		"ft": 16384,
+		"iS": 25243,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-102@2x.jpg": {
+		"ft": 16384,
+		"iS": 91653,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-102@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-103.jpg": {
+		"ft": 16384,
+		"iS": 24859,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-103.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-103@2x.jpg": {
+		"ft": 16384,
+		"iS": 93258,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-103@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-104.jpg": {
+		"ft": 16384,
+		"iS": 34253,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-104.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-104@2x.jpg": {
+		"ft": 16384,
+		"iS": 112974,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-104@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-105.jpg": {
+		"ft": 16384,
+		"iS": 27186,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-105.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-105@2x.jpg": {
+		"ft": 16384,
+		"iS": 94650,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-105@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-106.jpg": {
+		"ft": 16384,
+		"iS": 39830,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-106.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-106@2x.jpg": {
+		"ft": 16384,
+		"iS": 123969,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-106@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-107.jpg": {
+		"ft": 16384,
+		"iS": 33347,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-107.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-107@2x.jpg": {
+		"ft": 16384,
+		"iS": 109999,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-107@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-108.jpg": {
+		"ft": 16384,
+		"iS": 29190,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-108.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-108@2x.jpg": {
+		"ft": 16384,
+		"iS": 99760,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-108@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-109.jpg": {
+		"ft": 16384,
+		"iS": 28741,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-109.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-109@2x.jpg": {
+		"ft": 16384,
+		"iS": 99737,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-109@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 103588,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-11@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-11.jpg": {
+		"ft": 16384,
+		"iS": 29225,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-11.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-110.jpg": {
+		"ft": 16384,
+		"iS": 27545,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-110.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-110@2x.jpg": {
+		"ft": 16384,
+		"iS": 101800,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-110@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-111.jpg": {
+		"ft": 16384,
+		"iS": 27044,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-111.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-111@2x.jpg": {
+		"ft": 16384,
+		"iS": 98845,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-111@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-112.jpg": {
+		"ft": 16384,
+		"iS": 29669,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-112.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-112@2x.jpg": {
+		"ft": 16384,
+		"iS": 100570,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-112@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-113.jpg": {
+		"ft": 16384,
+		"iS": 28528,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-113.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-113@2x.jpg": {
+		"ft": 16384,
+		"iS": 96518,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-113@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-114.jpg": {
+		"ft": 16384,
+		"iS": 33115,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-114.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-114@2x.jpg": {
+		"ft": 16384,
+		"iS": 115412,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-114@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-115.jpg": {
+		"ft": 16384,
+		"iS": 28956,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-115.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-115@2x.jpg": {
+		"ft": 16384,
+		"iS": 101122,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-115@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-116.jpg": {
+		"ft": 16384,
+		"iS": 29026,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-116.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-116@2x.jpg": {
+		"ft": 16384,
+		"iS": 100224,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-116@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-117.jpg": {
+		"ft": 16384,
+		"iS": 30366,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-117.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-117@2x.jpg": {
+		"ft": 16384,
+		"iS": 104076,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-117@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-118.jpg": {
+		"ft": 16384,
+		"iS": 31414,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-118.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-118@2x.jpg": {
+		"ft": 16384,
+		"iS": 106789,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-118@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-119.jpg": {
+		"ft": 16384,
+		"iS": 32222,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-119.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-119@2x.jpg": {
+		"ft": 16384,
+		"iS": 111475,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-119@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 84329,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-11@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-12.jpg": {
+		"ft": 16384,
+		"iS": 21454,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-12.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-120.jpg": {
+		"ft": 16384,
+		"iS": 22504,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-120.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-120@2x.jpg": {
+		"ft": 16384,
+		"iS": 83752,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-120@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-121-1.jpg": {
+		"ft": 16384,
+		"iS": 21938,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-121-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-121-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 87831,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-121-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-121.jpg": {
+		"ft": 16384,
+		"iS": 21036,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-121.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-121@2x.jpg": {
+		"ft": 16384,
+		"iS": 81309,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-121@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-122.jpg": {
+		"ft": 16384,
+		"iS": 26540,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-122.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-122@2x.jpg": {
+		"ft": 16384,
+		"iS": 96788,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-122@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-123.jpg": {
+		"ft": 16384,
+		"iS": 26148,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-123.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-123@2x.jpg": {
+		"ft": 16384,
+		"iS": 92420,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-123@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-124.jpg": {
+		"ft": 16384,
+		"iS": 29729,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-124.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-124@2x.jpg": {
+		"ft": 16384,
+		"iS": 99863,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-124@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-125.jpg": {
+		"ft": 16384,
+		"iS": 30197,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-125.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-125@2x.jpg": {
+		"ft": 16384,
+		"iS": 103559,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-125@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-126.jpg": {
+		"ft": 16384,
+		"iS": 27214,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-126.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-126@2x.jpg": {
+		"ft": 16384,
+		"iS": 96121,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-126@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-127.jpg": {
+		"ft": 16384,
+		"iS": 28615,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-127.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-127@2x.jpg": {
+		"ft": 16384,
+		"iS": 97844,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-127@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-128.jpg": {
+		"ft": 16384,
+		"iS": 25647,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-128.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-128@2x.jpg": {
+		"ft": 16384,
+		"iS": 94143,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-128@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-129.jpg": {
+		"ft": 16384,
+		"iS": 23814,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-129.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-129@2x.jpg": {
+		"ft": 16384,
+		"iS": 89822,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-129@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 105105,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-13@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-13.jpg": {
+		"ft": 16384,
+		"iS": 30488,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-13.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-130.jpg": {
+		"ft": 16384,
+		"iS": 19286,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-130.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-130@2x.jpg": {
+		"ft": 16384,
+		"iS": 79027,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-130@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-131.jpg": {
+		"ft": 16384,
+		"iS": 18808,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-131.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-131@2x.jpg": {
+		"ft": 16384,
+		"iS": 78230,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-131@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-132.jpg": {
+		"ft": 16384,
+		"iS": 17968,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-132.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-132@2x.jpg": {
+		"ft": 16384,
+		"iS": 74674,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-132@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-133.jpg": {
+		"ft": 16384,
+		"iS": 20197,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-133.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-133@2x.jpg": {
+		"ft": 16384,
+		"iS": 83336,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-133@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-134.jpg": {
+		"ft": 16384,
+		"iS": 19455,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-134.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-134@2x.jpg": {
+		"ft": 16384,
+		"iS": 80284,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-134@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-135.jpg": {
+		"ft": 16384,
+		"iS": 18630,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-135.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-135@2x.jpg": {
+		"ft": 16384,
+		"iS": 76050,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-135@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-136.jpg": {
+		"ft": 16384,
+		"iS": 20615,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-136.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-136@2x.jpg": {
+		"ft": 16384,
+		"iS": 81402,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-136@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-137.jpg": {
+		"ft": 16384,
+		"iS": 19846,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-137.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-137@2x.jpg": {
+		"ft": 16384,
+		"iS": 82626,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-137@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-138.jpg": {
+		"ft": 16384,
+		"iS": 18967,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-138.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-138@2x.jpg": {
+		"ft": 16384,
+		"iS": 78747,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-138@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-139.jpg": {
+		"ft": 16384,
+		"iS": 20344,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-139.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-139@2x.jpg": {
+		"ft": 16384,
+		"iS": 80920,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-139@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 103976,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-13@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-14.jpg": {
+		"ft": 16384,
+		"iS": 30488,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-14.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-140.jpg": {
+		"ft": 16384,
+		"iS": 18210,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-140.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-140@2x.jpg": {
+		"ft": 16384,
+		"iS": 75695,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-140@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-141.jpg": {
+		"ft": 16384,
+		"iS": 18809,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-141.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-141@2x.jpg": {
+		"ft": 16384,
+		"iS": 77705,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-141@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-142.jpg": {
+		"ft": 16384,
+		"iS": 17569,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-142.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-142@2x.jpg": {
+		"ft": 16384,
+		"iS": 73812,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-142@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-143.jpg": {
+		"ft": 16384,
+		"iS": 18199,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-143.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-143@2x.jpg": {
+		"ft": 16384,
+		"iS": 76936,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-143@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-144.jpg": {
+		"ft": 16384,
+		"iS": 20304,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-144.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-144@2x.jpg": {
+		"ft": 16384,
+		"iS": 80870,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-144@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-145.jpg": {
+		"ft": 16384,
+		"iS": 42557,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-145.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-145@2x.jpg": {
+		"ft": 16384,
+		"iS": 134245,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-145@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-146.jpg": {
+		"ft": 16384,
+		"iS": 25000,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-146.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-146@2x.jpg": {
+		"ft": 16384,
+		"iS": 94743,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-146@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 99120,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-14@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-15.jpg": {
+		"ft": 16384,
+		"iS": 29042,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-15.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 99120,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-15@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-16.jpg": {
+		"ft": 16384,
+		"iS": 28579,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-17.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 107943,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-16@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-17.jpg": {
+		"ft": 16384,
+		"iS": 28847,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-17.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 107943,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-17@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-18.jpg": {
+		"ft": 16384,
+		"iS": 28156,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-18.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-18@2x.jpg": {
+		"ft": 16384,
+		"iS": 101500,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-18@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-19.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-19.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-19@2x.jpg": {
+		"ft": 16384,
+		"iS": 85810,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-19@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 93614,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-2.jpg": {
+		"ft": 16384,
+		"iS": 28459,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-20.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-20.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-20@2x.jpg": {
+		"ft": 16384,
+		"iS": 102135,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-20@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-21.jpg": {
+		"ft": 16384,
+		"iS": 26851,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-21.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-21@2x.jpg": {
+		"ft": 16384,
+		"iS": 94122,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-21@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-22.jpg": {
+		"ft": 16384,
+		"iS": 26851,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-22.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-22@2x.jpg": {
+		"ft": 16384,
+		"iS": 110194,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-22@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-23.jpg": {
+		"ft": 16384,
+		"iS": 33320,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-23.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-23@2x.jpg": {
+		"ft": 16384,
+		"iS": 111822,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-24@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-24.jpg": {
+		"ft": 16384,
+		"iS": 33320,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-24.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-24@2x.jpg": {
+		"ft": 16384,
+		"iS": 93204,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-24@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-25.jpg": {
+		"ft": 16384,
+		"iS": 26890,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-25.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-25@2x.jpg": {
+		"ft": 16384,
+		"iS": 101106,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-26@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-26.jpg": {
+		"ft": 16384,
+		"iS": 29381,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-26.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-26@2x.jpg": {
+		"ft": 16384,
+		"iS": 103900,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-26@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-27.jpg": {
+		"ft": 16384,
+		"iS": 28207,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-27.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-27@2x.jpg": {
+		"ft": 16384,
+		"iS": 103900,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-27@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-28.jpg": {
+		"ft": 16384,
+		"iS": 29815,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-28.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-28@2x.jpg": {
+		"ft": 16384,
+		"iS": 104546,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-29@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-29.jpg": {
+		"ft": 16384,
+		"iS": 29945,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-29.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-29@2x.jpg": {
+		"ft": 16384,
+		"iS": 102012,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-29@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 97837,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-3.jpg": {
+		"ft": 16384,
+		"iS": 20845,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-3.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-30.jpg": {
+		"ft": 16384,
+		"iS": 29945,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-30.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-30@2x.jpg": {
+		"ft": 16384,
+		"iS": 94039,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-30@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-31.jpg": {
+		"ft": 16384,
+		"iS": 27153,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-31.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-31@2x.jpg": {
+		"ft": 16384,
+		"iS": 97111,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-32@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-32.jpg": {
+		"ft": 16384,
+		"iS": 27153,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-32.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-32@2x.jpg": {
+		"ft": 16384,
+		"iS": 108317,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-32@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-33.jpg": {
+		"ft": 16384,
+		"iS": 26967,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-33.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-33@2x.jpg": {
+		"ft": 16384,
+		"iS": 108317,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-33@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-34.jpg": {
+		"ft": 16384,
+		"iS": 37068,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-34.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-34@2x.jpg": {
+		"ft": 16384,
+		"iS": 117147,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-34@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-35.jpg": {
+		"ft": 16384,
+		"iS": 37068,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-35.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-35@2x.jpg": {
+		"ft": 16384,
+		"iS": 99024,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-35@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-36.jpg": {
+		"ft": 16384,
+		"iS": 30231,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-36.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-36@2x.jpg": {
+		"ft": 16384,
+		"iS": 102389,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-37@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-37.jpg": {
+		"ft": 16384,
+		"iS": 30231,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-37.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-37@2x.jpg": {
+		"ft": 16384,
+		"iS": 99994,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-37@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-38.jpg": {
+		"ft": 16384,
+		"iS": 34387,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-38.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-38@2x.jpg": {
+		"ft": 16384,
+		"iS": 99994,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-39@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-39.jpg": {
+		"ft": 16384,
+		"iS": 34387,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-39.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-39@2x.jpg": {
+		"ft": 16384,
+		"iS": 106719,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-39@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 81080,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-3@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-4.jpg": {
+		"ft": 16384,
+		"iS": 20845,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-40.jpg": {
+		"ft": 16384,
+		"iS": 29761,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-40.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-40@2x.jpg": {
+		"ft": 16384,
+		"iS": 103808,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-40@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-41.jpg": {
+		"ft": 16384,
+		"iS": 29822,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-41.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-41@2x.jpg": {
+		"ft": 16384,
+		"iS": 104158,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-41@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-42.jpg": {
+		"ft": 16384,
+		"iS": 34490,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-42.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-42@2x.jpg": {
+		"ft": 16384,
+		"iS": 115241,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-42@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-43.jpg": {
+		"ft": 16384,
+		"iS": 43358,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-44.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-43@2x.jpg": {
+		"ft": 16384,
+		"iS": 129884,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-43@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-44.jpg": {
+		"ft": 16384,
+		"iS": 33832,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-44.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-44@2x.jpg": {
+		"ft": 16384,
+		"iS": 129884,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-45@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-45.jpg": {
+		"ft": 16384,
+		"iS": 33832,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-45.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-45@2x.jpg": {
+		"ft": 16384,
+		"iS": 89960,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-45@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-46.jpg": {
+		"ft": 16384,
+		"iS": 30563,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-46.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-46@2x.jpg": {
+		"ft": 16384,
+		"iS": 89960,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-46@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-47.jpg": {
+		"ft": 16384,
+		"iS": 30563,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-47.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-47@2x.jpg": {
+		"ft": 16384,
+		"iS": 98242,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-47@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-48.jpg": {
+		"ft": 16384,
+		"iS": 27747,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-48.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-48@2x.jpg": {
+		"ft": 16384,
+		"iS": 98242,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-48@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-49.jpg": {
+		"ft": 16384,
+		"iS": 24605,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-49.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-49@2x.jpg": {
+		"ft": 16384,
+		"iS": 93250,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-49@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 81080,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-4@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-5.jpg": {
+		"ft": 16384,
+		"iS": 23900,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-50.jpg": {
+		"ft": 16384,
+		"iS": 25515,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-50.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-50@2x.jpg": {
+		"ft": 16384,
+		"iS": 93250,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-50@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-51.jpg": {
+		"ft": 16384,
+		"iS": 28893,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-51.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-51@2x.jpg": {
+		"ft": 16384,
+		"iS": 99335,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-51@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-52.jpg": {
+		"ft": 16384,
+		"iS": 35703,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-52.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-52@2x.jpg": {
+		"ft": 16384,
+		"iS": 114409,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-52@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-53.jpg": {
+		"ft": 16384,
+		"iS": 29447,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-54.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-53@2x.jpg": {
+		"ft": 16384,
+		"iS": 100844,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-53@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-54.jpg": {
+		"ft": 16384,
+		"iS": 31179,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-54.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-54@2x.jpg": {
+		"ft": 16384,
+		"iS": 100844,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-54@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-55.jpg": {
+		"ft": 16384,
+		"iS": 28257,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-55.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-55@2x.jpg": {
+		"ft": 16384,
+		"iS": 96974,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-55@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-56.jpg": {
+		"ft": 16384,
+		"iS": 28257,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-56.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-56@2x.jpg": {
+		"ft": 16384,
+		"iS": 96974,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-56@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-57.jpg": {
+		"ft": 16384,
+		"iS": 32226,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-57.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-57@2x.jpg": {
+		"ft": 16384,
+		"iS": 99720,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-57@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-58.jpg": {
+		"ft": 16384,
+		"iS": 30948,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-58.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-58@2x.jpg": {
+		"ft": 16384,
+		"iS": 99720,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-59@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-59.jpg": {
+		"ft": 16384,
+		"iS": 30400,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-59.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-59@2x.jpg": {
+		"ft": 16384,
+		"iS": 106688,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-59@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 92828,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-5@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-6.jpg": {
+		"ft": 16384,
+		"iS": 23900,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-6.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-60.jpg": {
+		"ft": 16384,
+		"iS": 30400,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-60.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-60@2x.jpg": {
+		"ft": 16384,
+		"iS": 106688,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-60@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-61.jpg": {
+		"ft": 16384,
+		"iS": 28560,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-61.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-61@2x.jpg": {
+		"ft": 16384,
+		"iS": 96563,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-61@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-62.jpg": {
+		"ft": 16384,
+		"iS": 28560,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-62.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-62@2x.jpg": {
+		"ft": 16384,
+		"iS": 96563,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-62@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-63.jpg": {
+		"ft": 16384,
+		"iS": 34778,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-63.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-63@2x.jpg": {
+		"ft": 16384,
+		"iS": 97262,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-63@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-64.jpg": {
+		"ft": 16384,
+		"iS": 33001,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-64.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-64@2x.jpg": {
+		"ft": 16384,
+		"iS": 111052,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-64@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-65.jpg": {
+		"ft": 16384,
+		"iS": 33607,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-65.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-65@2x.jpg": {
+		"ft": 16384,
+		"iS": 113641,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-65@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-66.jpg": {
+		"ft": 16384,
+		"iS": 29304,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-66.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-66@2x.jpg": {
+		"ft": 16384,
+		"iS": 104111,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-66@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-67.jpg": {
+		"ft": 16384,
+		"iS": 28264,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-67.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-67@2x.jpg": {
+		"ft": 16384,
+		"iS": 99745,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-67@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-68.jpg": {
+		"ft": 16384,
+		"iS": 29945,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-68.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-68@2x.jpg": {
+		"ft": 16384,
+		"iS": 99483,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-68@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-69.jpg": {
+		"ft": 16384,
+		"iS": 24375,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-69.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-69@2x.jpg": {
+		"ft": 16384,
+		"iS": 89419,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-69@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 94663,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-6@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-7.jpg": {
+		"ft": 16384,
+		"iS": 27357,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-7.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-70.jpg": {
+		"ft": 16384,
+		"iS": 41292,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-70.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-70@2x.jpg": {
+		"ft": 16384,
+		"iS": 118970,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-70@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-71.jpg": {
+		"ft": 16384,
+		"iS": 24854,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-71.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-71@2x.jpg": {
+		"ft": 16384,
+		"iS": 91668,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-71@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-72.jpg": {
+		"ft": 16384,
+		"iS": 22070,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-72.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-72@2x.jpg": {
+		"ft": 16384,
+		"iS": 86826,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-72@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-73.jpg": {
+		"ft": 16384,
+		"iS": 27843,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-73.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-73@2x.jpg": {
+		"ft": 16384,
+		"iS": 97099,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-73@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-74.jpg": {
+		"ft": 16384,
+		"iS": 35480,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-74.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-74@2x.jpg": {
+		"ft": 16384,
+		"iS": 113965,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-74@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-75.jpg": {
+		"ft": 16384,
+		"iS": 34185,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-75.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-75@2x.jpg": {
+		"ft": 16384,
+		"iS": 110486,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-75@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-76.jpg": {
+		"ft": 16384,
+		"iS": 36820,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-76.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-76@2x.jpg": {
+		"ft": 16384,
+		"iS": 122374,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-76@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-77.jpg": {
+		"ft": 16384,
+		"iS": 32958,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-77.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-77@2x.jpg": {
+		"ft": 16384,
+		"iS": 109611,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-77@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-78.jpg": {
+		"ft": 16384,
+		"iS": 26556,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-78.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-78@2x.jpg": {
+		"ft": 16384,
+		"iS": 92804,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-78@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-79.jpg": {
+		"ft": 16384,
+		"iS": 26189,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-79.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-79@2x.jpg": {
+		"ft": 16384,
+		"iS": 94634,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-79@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 99261,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-7@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-8.jpg": {
+		"ft": 16384,
+		"iS": 25287,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-8.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-80.jpg": {
+		"ft": 16384,
+		"iS": 29742,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-80.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-80@2x.jpg": {
+		"ft": 16384,
+		"iS": 105079,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-80@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-81.jpg": {
+		"ft": 16384,
+		"iS": 25563,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-81.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-81@2x.jpg": {
+		"ft": 16384,
+		"iS": 93418,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-81@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-82.jpg": {
+		"ft": 16384,
+		"iS": 30176,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-82.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-82@2x.jpg": {
+		"ft": 16384,
+		"iS": 103713,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-82@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-83.jpg": {
+		"ft": 16384,
+		"iS": 23798,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-83.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-83@2x.jpg": {
+		"ft": 16384,
+		"iS": 88793,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-83@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-84.jpg": {
+		"ft": 16384,
+		"iS": 27010,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-84.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-84@2x.jpg": {
+		"ft": 16384,
+		"iS": 95724,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-84@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-85.jpg": {
+		"ft": 16384,
+		"iS": 26261,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-85.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-85@2x.jpg": {
+		"ft": 16384,
+		"iS": 91515,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-85@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-86.jpg": {
+		"ft": 16384,
+		"iS": 35449,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-86.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-86@2x.jpg": {
+		"ft": 16384,
+		"iS": 113840,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-86@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-87.jpg": {
+		"ft": 16384,
+		"iS": 32754,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-87.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-87@2x.jpg": {
+		"ft": 16384,
+		"iS": 109410,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-87@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-88.jpg": {
+		"ft": 16384,
+		"iS": 32897,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-88.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-88@2x.jpg": {
+		"ft": 16384,
+		"iS": 113019,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-88@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-89.jpg": {
+		"ft": 16384,
+		"iS": 36528,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-89.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-89@2x.jpg": {
+		"ft": 16384,
+		"iS": 122036,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-89@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 96148,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-8@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-9.jpg": {
+		"ft": 16384,
+		"iS": 25756,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-9.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-90.jpg": {
+		"ft": 16384,
+		"iS": 26553,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-90.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-90@2x.jpg": {
+		"ft": 16384,
+		"iS": 93631,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-90@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-91.jpg": {
+		"ft": 16384,
+		"iS": 26036,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-91.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-91@2x.jpg": {
+		"ft": 16384,
+		"iS": 93968,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-91@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-92.jpg": {
+		"ft": 16384,
+		"iS": 26298,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-92.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-92@2x.jpg": {
+		"ft": 16384,
+		"iS": 94509,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-92@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-93.jpg": {
+		"ft": 16384,
+		"iS": 21509,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-93.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-93@2x.jpg": {
+		"ft": 16384,
+		"iS": 83540,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-93@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-94.jpg": {
+		"ft": 16384,
+		"iS": 29716,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-94.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-94@2x.jpg": {
+		"ft": 16384,
+		"iS": 102430,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-94@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-95.jpg": {
+		"ft": 16384,
+		"iS": 31523,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-95.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-95@2x.jpg": {
+		"ft": 16384,
+		"iS": 107086,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-95@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-96.jpg": {
+		"ft": 16384,
+		"iS": 32019,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-96.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-96@2x.jpg": {
+		"ft": 16384,
+		"iS": 109941,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-96@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-97.jpg": {
+		"ft": 16384,
+		"iS": 28779,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-97.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-97@2x.jpg": {
+		"ft": 16384,
+		"iS": 98643,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-97@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-98.jpg": {
+		"ft": 16384,
+		"iS": 27990,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-98.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-98@2x.jpg": {
+		"ft": 16384,
+		"iS": 97453,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-98@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-99.jpg": {
+		"ft": 16384,
+		"iS": 26163,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-99.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-99@2x.jpg": {
+		"ft": 16384,
+		"iS": 90045,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-99@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/img\/math-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 96506,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/img\/math-9@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/mathematics-3\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/index.php",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/mathematics-3\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/mathematics-3\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/mathematics-3\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/content\/maya-and-kuzya\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 130863,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/maya-and-kuzya\/img\/maya-and-kuzya.jpg": {
+		"ft": 16384,
+		"iS": 448169,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/img\/maya-and-kuzya.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/maya-and-kuzya\/img\/maya-and-kuzya@2x.jpg": {
+		"ft": 16384,
+		"iS": 1495600,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/img\/maya-and-kuzya@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/maya-and-kuzya\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/maya-and-kuzya\/index.php",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/maya-and-kuzya\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/maya-and-kuzya\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/maya-and-kuzya\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/medical\/img\/drag-1.png": {
