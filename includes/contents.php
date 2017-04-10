@@ -534,11 +534,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Наука и жизнь</span>
-            <span lang="en">Science and life</span>
-
+        <li id="science-and-laif">
+            <a href="/content/science-and-laif/">
+                <span lang="ru">Наука и жизьнь</span>
+                <span lang="en">Science and laif</span>
+            </a>
         </li>
 
         <li id="pests">
@@ -786,11 +786,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Мир и наука</span>
-            <span lang="en">World &amp; science</span>
-
+        <li id="world-science">
+            <a href="/content/world-science/">
+                <span lang="ru">Мир и наука</span>
+                <span lang="en">World &amp; science</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

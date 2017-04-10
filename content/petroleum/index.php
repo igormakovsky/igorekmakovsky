@@ -69,7 +69,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </h2>
 
         <div lang="ru">
-            <p class="small"><strong>Мусаил и знак Нефти</strong></p>
+            <p class="small strong">Мусаил и знак Нефти</p>
             
             <p class="small">Знак Нефть, как&nbsp;подъемный кран, перенесла Мусаила на&nbsp;берег:</p>
             
@@ -81,15 +81,15 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </div>
            
         <div lang="en">
-            <p class="small"><strong>Мusail and the Petroleum Symbol</strong></p>
+            <p class="small strong">Мusail and the Oily Symbol</p>
             
-            <p class="small">Petroleum Symbol, transfered Musail on the other side of the beach, like a crane:</p>
+            <p class="small">Oily Symbol, transfered Musail on the other side of the beach, like a crane:</p>
             
-            <p style="margin-top:4rem;"><span class="small">Musail:</span> — Well, thank you,&nbsp;Petroleum!</p>
-            <p>Our hero is going to swim on the beach, together with his girlfriend, the Petroleum Symbol.</p>
-            <p><span class="small">Petroleum Symbol:</span> —&nbsp;Don't you see that I am petrollin' here?</p>
-            <p>But Musail doesn't listen to his girlfriend's cautions and jumps into the water, together with her. The petroleum has spreaded across the water surface on the collision and Musail gets all dirty head to toe.</p>
-            <p><span class="small">Musail (all black because of the petroleum, with sarcasm in his voice):</span> —&nbsp;Well&nbsp;thank you, Petroleum, once again!</p>
+            <p style="margin-top:4rem;"><span class="small">Musail:</span> — Well, thank you,&nbsp;Oily!</p>
+            <p>Our hero is going to swim on the beach, together with his girlfriend, the Oily Symbol.</p>
+            <p><span class="small">Oily Symbol:</span> —&nbsp;Don't you see that I am petrollin' here?</p>
+            <p>But Musail doesn't listen to his girlfriend's cautions and jumps into the water, together with her. The Oily has spreaded across the water surface on the collision and Musail gets all dirty head to toe.</p>
+            <p><span class="small">Musail (all black because of the oil, with sarcasm in his voice):</span> —&nbsp;Well&nbsp;thank you, Oily, once again!</p>
         </div>
 
     </section>

@@ -3085,9 +3085,9 @@
 		},
 	"\/content\/!empty\/index.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/content\/!empty\/index.php",
-		"oF": 0
+		"oF": 1
 		},
 	"\/content\/!empty\/js\/custom.js": {
 		"ft": 64,
@@ -35047,7 +35047,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-12.jpg": {
 		"ft": 16384,
-		"iS": 21454,
+		"iS": 30978,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-12.jpg",
 		"oF": 0,
@@ -35668,7 +35668,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-18@2x.jpg": {
 		"ft": 16384,
-		"iS": 101500,
+		"iS": 100978,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-18@2x.jpg",
 		"oF": 0,
@@ -35695,7 +35695,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-1@2x.jpg": {
 		"ft": 16384,
-		"iS": 93614,
+		"iS": 118233,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-1@2x.jpg",
 		"oF": 0,
@@ -35731,7 +35731,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-21.jpg": {
 		"ft": 16384,
-		"iS": 26851,
+		"iS": 30412,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-21.jpg",
 		"oF": 0,
@@ -35740,7 +35740,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-21@2x.jpg": {
 		"ft": 16384,
-		"iS": 94122,
+		"iS": 102135,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-21@2x.jpg",
 		"oF": 0,
@@ -35767,7 +35767,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-23.jpg": {
 		"ft": 16384,
-		"iS": 33320,
+		"iS": 32085,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-23.jpg",
 		"oF": 0,
@@ -35821,7 +35821,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-26.jpg": {
 		"ft": 16384,
-		"iS": 29381,
+		"iS": 29189,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-26.jpg",
 		"oF": 0,
@@ -35911,7 +35911,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-30.jpg": {
 		"ft": 16384,
-		"iS": 29945,
+		"iS": 25909,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-30.jpg",
 		"oF": 0,
@@ -35938,7 +35938,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-31@2x.jpg": {
 		"ft": 16384,
-		"iS": 97111,
+		"iS": 94039,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-32@2x.jpg",
 		"oF": 0,
@@ -35965,7 +35965,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-33.jpg": {
 		"ft": 16384,
-		"iS": 26967,
+		"iS": 30973,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-33.jpg",
 		"oF": 0,
@@ -36019,7 +36019,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-36.jpg": {
 		"ft": 16384,
-		"iS": 30231,
+		"iS": 28525,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-36.jpg",
 		"oF": 0,
@@ -36028,7 +36028,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-36@2x.jpg": {
 		"ft": 16384,
-		"iS": 102389,
+		"iS": 99024,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-37@2x.jpg",
 		"oF": 0,
@@ -36055,7 +36055,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-38.jpg": {
 		"ft": 16384,
-		"iS": 34387,
+		"iS": 29000,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-38.jpg",
 		"oF": 0,
@@ -36100,7 +36100,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-4.jpg": {
 		"ft": 16384,
-		"iS": 20845,
+		"iS": 26483,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-5.jpg",
 		"oF": 0,
@@ -36109,7 +36109,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-40.jpg": {
 		"ft": 16384,
-		"iS": 29761,
+		"iS": 30928,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-40.jpg",
 		"oF": 0,
@@ -36163,7 +36163,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-43.jpg": {
 		"ft": 16384,
-		"iS": 43358,
+		"iS": 34490,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-44.jpg",
 		"oF": 0,
@@ -36190,7 +36190,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-44@2x.jpg": {
 		"ft": 16384,
-		"iS": 129884,
+		"iS": 111323,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-45@2x.jpg",
 		"oF": 0,
@@ -36253,7 +36253,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-48.jpg": {
 		"ft": 16384,
-		"iS": 27747,
+		"iS": 24605,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-48.jpg",
 		"oF": 0,
@@ -36262,7 +36262,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-48@2x.jpg": {
 		"ft": 16384,
-		"iS": 98242,
+		"iS": 89291,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-48@2x.jpg",
 		"oF": 0,
@@ -36334,7 +36334,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-51@2x.jpg": {
 		"ft": 16384,
-		"iS": 99335,
+		"iS": 112262,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-51@2x.jpg",
 		"oF": 0,
@@ -36460,7 +36460,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-58@2x.jpg": {
 		"ft": 16384,
-		"iS": 99720,
+		"iS": 106904,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-59@2x.jpg",
 		"oF": 0,
@@ -36532,7 +36532,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-61@2x.jpg": {
 		"ft": 16384,
-		"iS": 96563,
+		"iS": 95318,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-61@2x.jpg",
 		"oF": 0,
@@ -36883,7 +36883,7 @@
 		},
 	"\/content\/mathematics-3\/img\/math-7@2x.jpg": {
 		"ft": 16384,
-		"iS": 99261,
+		"iS": 94663,
 		"oA": 1,
 		"oAP": "\/content\/mathematics-3\/img\/math-7@2x.jpg",
 		"oF": 0,
@@ -50434,6 +50434,349 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/science-and-laif\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 235418,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-0.jpg": {
+		"ft": 16384,
+		"iS": 61127,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-0.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 252326,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-0@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-1.jpg": {
+		"ft": 16384,
+		"iS": 155402,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-10.jpg": {
+		"ft": 16384,
+		"iS": 116468,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-10.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 474545,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-10@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-11.jpg": {
+		"ft": 16384,
+		"iS": 125428,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-11.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 528597,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-11@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-12.jpg": {
+		"ft": 16384,
+		"iS": 107018,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-12.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 459546,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-12@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-13.jpg": {
+		"ft": 16384,
+		"iS": 108333,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-13.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 463663,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-13@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-14.jpg": {
+		"ft": 16384,
+		"iS": 52069,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-14.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 222336,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-14@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 597296,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-2.jpg": {
+		"ft": 16384,
+		"iS": 136635,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 526306,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-3.jpg": {
+		"ft": 16384,
+		"iS": 158372,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-3.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 605972,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-3@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-4.jpg": {
+		"ft": 16384,
+		"iS": 124054,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-4.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 507297,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-4@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-5.jpg": {
+		"ft": 16384,
+		"iS": 113985,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 464073,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-5@2x.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-6.jpg": {
+		"ft": 16384,
+		"iS": 182905,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-6.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 694347,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-6@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-7.jpg": {
+		"ft": 16384,
+		"iS": 154474,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-7.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 576528,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-7@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-8.jpg": {
+		"ft": 16384,
+		"iS": 132905,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-8.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 522490,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-8@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-9.jpg": {
+		"ft": 16384,
+		"iS": 108934,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-9.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/img\/science-and-life-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 450511,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/img\/science-and-life-9@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/science-and-laif\/index.php": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/index.php",
+		"oF": 1
+		},
+	"\/content\/science-and-laif\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/science-and-laif\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/science-and-laif\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/science-and-laif\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/seeds-1\/img\/drag-1.png": {
 		"ft": 32768,
 		"iS": 87510,
@@ -55960,6 +56303,205 @@
 		"oAP": "\/content\/windy\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/world-science\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 215259,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/index.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-0.jpg": {
+		"ft": 16384,
+		"iS": 178311,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-0.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 666661,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-0@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-1.jpg": {
+		"ft": 16384,
+		"iS": 403733,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1394245,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-1@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-2.jpg": {
+		"ft": 16384,
+		"iS": 403185,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1316800,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-2@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-3.jpg": {
+		"ft": 16384,
+		"iS": 429890,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-3.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1432305,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-3@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-4.jpg": {
+		"ft": 16384,
+		"iS": 362045,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-4.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 1255311,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-4@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-5.jpg": {
+		"ft": 16384,
+		"iS": 206781,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-5.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 911082,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-5@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-6.jpg": {
+		"ft": 16384,
+		"iS": 119824,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-6.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/img\/world-science-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 493128,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/img\/world-science-6@2x.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/world-science\/index.php": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/index.php",
+		"oF": 1
+		},
+	"\/content\/world-science\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/world-science\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/world-science\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/world-science\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/world\/img\/drag-1.png": {

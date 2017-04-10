@@ -4,8 +4,8 @@ $parent = 'content';
 $color = '598767';
 $title_ru = 'Математика №3';
 $title_en = 'Mathematics #3';
-$description_ru = '';
-$description_en = '';
+$description_ru = '26 января 1993';
+$description_en = '1993, 26th of January';
 $keywords_ru = 'математика, числа, цифры, задачи, примеры, учебник';
 $keywords_en = 'mathematics, numbers, digits, tasks, examples, textbook';
 
@@ -201,6 +201,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Father &hellip; 100</li>
             <li>Addition and subtraction &hellip; 110</li>
         </ul>
+        
+        <p class="small" style="margin-top:2rem;">
+            <span lang="ru">26 января 1993</span>
+            <span lang="en">1993, 26th of january</span>
+        </p>
         
     </section>
 
