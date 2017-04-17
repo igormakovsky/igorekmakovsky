@@ -793,13 +793,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Урок второй</span>
-            <span lang="en">Second lesson</span>
-
-        </li>
-
         <li id="lines-triptych">
             <a href="/content/lines-triptych/">
                 <span lang="ru">Линии — триптих</span>

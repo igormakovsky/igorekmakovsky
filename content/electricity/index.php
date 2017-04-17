@@ -11,20 +11,20 @@ $keywords_en = 'electricity, poles, moscow, insulator';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section style="margin-top:12rem;">
+    <section class="picture" style="margin-top:12rem;">
 
         <div class="center">
-            <img src="img/electricity-0.jpg" srcset="img/electricity-0@2x.jpg 2x">
+            <img src="img/electricity-paper-1.jpg" srcset="img/electricity-paper-1@2x.jpg 2x">
         </div>
 
     </section>
 
-    <section class="text" style="margin-top:5rem;">
+    <section class="text" style="margin-top:6.5rem;">
 
         <h2>
-               <span lang="ru">Московские хлопоты по электричеству</span>
-               <span lang="en">Moscow fuss on electricity</span>
-           </h2>
+            <span lang="ru">Московские хлопоты по&nbsp;электричеству</span>
+            <span lang="en">Moscow fuss on&nbsp;electricity</span>
+        </h2>
 
         <p>
             1992
@@ -32,7 +32,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:10rem;">
+    <section class="picture" style="margin-top:14rem;">
 
         <div class="center">
             <img src="img/electricity-1.jpg" srcset="img/electricity-1@2x.jpg 2x">
@@ -40,7 +40,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:13rem;">
+    <section class="picture" style="margin-top:1.5rem;">
 
         <div class="center">
             <img src="img/electricity-2.jpg" srcset="img/electricity-2@2x.jpg 2x">
@@ -48,7 +48,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:15rem;">
+    <section class="picture" style="margin-top:0rem;">
 
         <div class="center">
             <img src="img/electricity-3.jpg" srcset="img/electricity-3@2x.jpg 2x">
@@ -56,7 +56,27 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:13rem;">
+
+    <section class="picture" style="margin-top:17rem;">
+        <div class="center">
+            <img src="img/electricity-paper-4.jpg" srcset="img/electricity-paper-4@2x.jpg 2x">
+        </div>
+    </section>
+
+    <section class="picture" style="margin-top:2.5rem;">
+        <div class="center">
+            <img src="img/electricity-paper-2.jpg" srcset="img/electricity-paper-2@2x.jpg 2x">
+        </div>
+    </section>
+
+    <section class="picture" style="margin-top:2rem;">
+        <div class="center">
+            <img src="img/electricity-paper-3.jpg" srcset="img/electricity-paper-3@2x.jpg 2x">
+        </div>
+    </section>
+
+
+    <section class="picture" style="margin-top:18rem;">
 
         <div class="center">
             <img src="img/electricity-4.jpg" srcset="img/electricity-4@2x.jpg 2x">
@@ -93,21 +113,21 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="text" style="margin-top:3rem;">
-
+    <!-- <section class="text" style="margin-top:3rem;">
+    
         <ul lang="ru">
             <li>Телефон</li>
             <li>Столбы</li>
         </ul>
-
+    
         <ul lang="en">
             <li>Phone</li>
             <li>Telegraph poles</li>
         </ul>
+    
+    </section> -->
 
-    </section>
-
-    <section class="picture" style="margin-top:10rem;">
+    <section class="picture" style="margin-top:16rem;">
 
         <div class="center">
             <img src="img/electricity-6.jpg" srcset="img/electricity-6@2x.jpg 2x">
@@ -115,7 +135,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:10rem;">
+    <section class="picture" style="margin-top:9rem;">
 
         <div class="center">
             <img src="img/electricity-7.jpg" srcset="img/electricity-7@2x.jpg 2x">
@@ -123,7 +143,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="picture" style="margin-top:15rem;">
+    <section class="picture" style="margin-top:2rem;">
 
         <div class="center">
             <img src="img/electricity-8.jpg" srcset="img/electricity-8@2x.jpg 2x">
@@ -137,7 +157,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <span lang="ru">Высоковольтные напряжения бывают либо на&nbsp;вышках, либо&nbsp;на&nbsp;столбах такого&nbsp;рода</span>
             <span lang="en">High voltage presents either on&nbsp;the&nbsp;towers, or&nbsp;on&nbsp;the&nbsp;electricity poles of&nbsp;such kind</span>
         </p>
-        
+
         <ol style="margin-top:3.5rem;">
             <li>1 фаза</li>
             <li>1 фаза</li>
@@ -153,7 +173,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section style="margin:5rem auto 13rem;">
+    <section style="margin:9rem auto 15rem;">
 
         <div class="center">
             <img src="img/electricity-9.jpg" srcset="img/electricity-9@2x.jpg 2x">
