@@ -1045,13 +1045,6 @@
             </a>
         </li>
 
-        <li id="dearest">
-            <a href="/content/dearest/">
-                <span lang="ru">Любезнейшая программа</span>
-                <span lang="en">Dearest progrаm</span>
-            </a>
-        </li>
-
         <li id="three-symbols">
             <a href="/content/three-symbols/">
                 <span lang="ru">Три символа</span>

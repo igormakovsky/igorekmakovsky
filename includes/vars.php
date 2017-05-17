@@ -6,7 +6,7 @@ $doc_root  = preg_replace("!${_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_F
 $base_url  = preg_replace("!^${doc_root}!", '', $base_dir);
 # ex: '' or '/mywebsite'
 //$protocol = stripos($_SERVER['SERVER_PROTOCOL'],'https') === true ? 'https://' : 'http://';
-$protocol = 'http://';
+$protocol = 'https://';
 $port      = $_SERVER['SERVER_PORT'];
 $disp_port = ($protocol == 'http' && $port == 80 || $protocol == 'https' && $port == 443) ? '' : ":$port";
 $domain    = $_SERVER['SERVER_NAME'];
