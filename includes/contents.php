@@ -604,10 +604,17 @@
             </a>
         </li>
 
-        <li id="water-pipe">
-            <a href="/content/water-pipe/">
-                <span lang="ru">Ушли и забыли закрыть кран</span>
-                <span lang="en">Forgot closing the tap and gone</span>
+        <li id="demon" class="notavaible">
+
+            <span lang="ru">Демон</span>
+            <span lang="en">Demon</span>
+
+        </li>
+
+        <li id="dollars">
+            <a href="/content/dollars/">
+                <span lang="ru">Забыл о долларах</span>
+                <span lang="en">Forgot about dollars</span>
             </a>
         </li>
 
@@ -783,6 +790,13 @@
             <a href="/content/dogs/">
                 <span lang="ru">Псы</span>
                 <span lang="en">Dogs</span>
+            </a>
+        </li>
+
+        <li id="water-pipe">
+            <a href="/content/water-pipe/">
+                <span lang="ru">Ушли и забыли закрыть кран</span>
+                <span lang="en">Forgot closing the tap and gone</span>
             </a>
         </li>
 
@@ -1220,11 +1234,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Путеводитель — 2</span>
-            <span lang="en">Travel Guide — 2</span>
-
+        <li id="travelguide-2">
+            <a href="/content/travelguide-2/">
+                <span lang="ru">Путеводитель — 2</span>
+                <span lang="en">Travel Guide — 2</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">

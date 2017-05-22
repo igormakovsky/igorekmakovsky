@@ -266,11 +266,11 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section class="picture" style="margin-top:29rem;">
         
-        <div id="rolik-14" class="absolute" style="left:21rem; top:-24rem; z-index:1;">
+        <div id="rolik-14" class="absolute" style="left:12rem; top:-24rem; z-index:1;">
             <img src="img/rolik-4-right.gif" srcset="img/rolik-4-right@2x.gif 2x">
         </div>
            
-        <div id="rolik-15" class="absolute" style="right:21rem; top:-25rem; z-index:1;">
+        <div id="rolik-15" class="absolute" style="right:10rem; top:-25rem; z-index:1;">
             <img src="img/rolik-3-left.gif" srcset="img/rolik-3-left@2x.gif 2x">
         </div>
 
