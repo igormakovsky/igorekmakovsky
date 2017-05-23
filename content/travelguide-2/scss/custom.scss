@@ -1,29 +1,2 @@
 @import "../../../scss/retinajs";
 $bg:#8dcfbb;
-.guide {
-    width: 90%;
-    max-width: 1500px;
-    margin-top: 2.5rem;
-    &.flex-row {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        //justify-content: space-around;
-        //flex-direction: row;
-        //align-content: flex-start;
-        /* &:after {
-            content: "";
-            flex: auto;
-        } */
-        div {
-            padding: 1.5rem 0;
-            &.empty {
-                height: 0;
-                width: 15rem;
-            }
-            &#align-bottom {
-                align-self: flex-end;
-            }
-        }
-    }
-}

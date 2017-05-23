@@ -11,7 +11,7 @@ $keywords_en = 'maps, journeys, comics, dreams, programms, games, whales, cookie
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="guide flex-row" style="margin-top:6rem;">
+    <section class="flex left" style="margin-top:6rem;">
 
         <div class="heavy"><img src="img/guide-second-cover.jpg" srcset="img/guide-second-cover@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-0.jpg" srcset="img/guide-second-0@2x.jpg 2x"></div>
@@ -33,11 +33,12 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
         <p>
             <span lang="ru">От&nbsp;издательства: в&nbsp;номере&nbsp;2 будет все все все животные, и&nbsp;насекомые, и&nbsp;подводные жители</span>
-            <span lang="en">Publisher note: there will be everything about the animals, insects and underwater inhabitants in the 2nd volume</span> </p>
+            <span lang="en">Publisher note: there will be everything about the animals, insects and underwater inhabitants in the 2nd volume</span>
+        </p>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-2.jpg" srcset="img/guide-second-2@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-3.jpg" srcset="img/guide-second-3@2x.jpg 2x"></div>
@@ -68,7 +69,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-12.jpg" srcset="img/guide-second-12@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-13.jpg" srcset="img/guide-second-13@2x.jpg 2x"></div>
@@ -100,7 +101,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-20.jpg" srcset="img/guide-second-20@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-21.jpg" srcset="img/guide-second-21@2x.jpg 2x"></div>
@@ -179,7 +180,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-35.jpg" srcset="img/guide-second-35@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-36.jpg" srcset="img/guide-second-36@2x.jpg 2x"></div>
@@ -224,7 +225,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-44.jpg" srcset="img/guide-second-44@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-45.jpg" srcset="img/guide-second-45@2x.jpg 2x"></div>
@@ -314,7 +315,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-60.jpg" srcset="img/guide-second-60@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-61.jpg" srcset="img/guide-second-61@2x.jpg 2x"></div>
@@ -333,7 +334,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-65.jpg" srcset="img/guide-second-65@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-66.jpg" srcset="img/guide-second-66@2x.jpg 2x"></div>
@@ -372,7 +373,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-70.jpg" srcset="img/guide-second-70@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-71.jpg" srcset="img/guide-second-71@2x.jpg 2x"></div>
@@ -403,7 +404,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-82.jpg" srcset="img/guide-second-82@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-83.jpg" srcset="img/guide-second-83@2x.jpg 2x"></div>
@@ -470,7 +471,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     </section>
 
-    <section class="guide flex-row" style="margin-top:8rem;">
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-89.jpg" srcset="img/guide-second-89@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-90.jpg" srcset="img/guide-second-90@2x.jpg 2x"></div>
@@ -504,9 +505,9 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <div class="heavy"><img src="img/guide-second-118.jpg" srcset="img/guide-second-118@2x.jpg 2x"></div>
 
     </section>
-    
+
     <section class="text" style="margin-top:5rem;">
-        
+
         <ul lang="ru">
             <li>5 — самое рыболовное озеро</li>
             <li>15 — о китах</li>
@@ -517,7 +518,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>72 — медузы и подводные жители</li>
             <li>93 — лягушки, змеи и ящерицы</li>
         </ul>
-           
+
         <ul lang="en">
             <li>5 — the most fishy lake</li>
             <li>15 — about whales</li>
@@ -528,10 +529,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>72 — meduses and underwater inhabitants</li>
             <li>93 — frogs, snakes and lizards</li>
         </ul>
-        
+
     </section>
-    
-    <section class="guide flex-row" style="margin-top:8rem;">
+
+    <section class="flex left" style="margin-top:8rem;">
 
         <div class="heavy"><img src="img/guide-second-119.jpg" srcset="img/guide-second-119@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/guide-second-120.jpg" srcset="img/guide-second-120@2x.jpg 2x"></div>
@@ -541,14 +542,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <div class="heavy"><img src="img/guide-second-124.jpg" srcset="img/guide-second-124@2x.jpg 2x"></div>
 
     </section>
-    
+
     <section class="text" style="margin:2.5rem auto 12rem;">
-        
+
         <p>
-        <span lang="ru">Путешествиям конец</span>
-        <span lang="en">End to journeys</span>
+            <span lang="ru">Путешествиям конец</span>
+            <span lang="en">End to journeys</span>
         </p>
-        
+
     </section>
 
     <?php require $docroot.'includes/bottom.php'; ?>

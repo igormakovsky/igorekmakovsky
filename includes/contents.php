@@ -43,6 +43,13 @@
                 <span lang="en">Faucets</span>
             </a>
         </li>
+        
+        <li id="" class="notavaible">
+
+            <span lang="ru">Путеводитель — 1</span>
+            <span lang="en">Travel Guide — 1</span>
+
+        </li>
 
         <li id="panoramic">
             <a href="/content/panoramic/">
@@ -610,6 +617,13 @@
             <span lang="en">Demon</span>
 
         </li>
+        
+        <li id="travelguide-2">
+            <a href="/content/travelguide-2/">
+                <span lang="ru">Путеводитель — 2</span>
+                <span lang="en">Travel Guide — 2</span>
+            </a>
+        </li>
 
         <li id="dollars">
             <a href="/content/dollars/">
@@ -1073,13 +1087,6 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Путеводитель — 1</span>
-            <span lang="en">Travel Guide — 1</span>
-
-        </li>
-
         <li id="belochka-tamarochka">
             <a href="/content/belochka-tamarochka/">
                 <span lang="ru">Белочка и Тамарочка</span>
@@ -1234,18 +1241,11 @@
             </a>
         </li>
 
-        <li id="travelguide-2">
-            <a href="/content/travelguide-2/">
-                <span lang="ru">Путеводитель — 2</span>
-                <span lang="en">Travel Guide — 2</span>
+        <li id="travelguide-3">
+            <a href="/content/travelguide-3/">
+                <span lang="ru">Путеводитель — 3</span>
+                <span lang="en">Travel Guide — 3</span>
             </a>
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Путеводитель — 3</span>
-            <span lang="en">Travel Guide — 3</span>
-
         </li>
 
         <li id="krakout">

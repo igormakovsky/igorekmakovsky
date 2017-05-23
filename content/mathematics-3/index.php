@@ -11,7 +11,7 @@ $keywords_en = 'mathematics, numbers, digits, tasks, examples, textbook';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
-    <section class="math flex-row">
+    <section class="flex left">
 
         <div class="heavy"><img src="img/math-0.jpg" srcset="img/math-0@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/math-1.jpg" srcset="img/math-1@2x.jpg 2x"></div>
@@ -116,13 +116,19 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <div class="heavy"><img src="img/math-98.jpg" srcset="img/math-98@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/math-99.jpg" srcset="img/math-99@2x.jpg 2x"></div>
         <div class="relate">
-            <div class="drag" style="top:15.7rem; left:3.5rem;"><img src="img/math-100-piece.png" srcset="img/math-100-piece@2x.png 2x"></div>
+            <div class="heavy">
+                <img src="img/math-100.jpg" srcset="img/math-100@2x.jpg 2x">
+            </div>
+            <div class="drag" style="top:18.7rem; left:-1rem;"><img src="img/math-100-piece.png" srcset="img/math-100-piece@2x.png 2x"></div>
         </div>
-        <div class="heavy"><img src="img/math-100.jpg" srcset="img/math-100@2x.jpg 2x"></div>
-        <div class="relate">
-            <div class="drag" style="top:0rem; left:3.5rem;"><img src="img/math-101-piece.png" srcset="img/math-101-piece@2x.png 2x"></div>
+
+        <div class="relate align-bottom">
+            <div class="heavy">
+                <img src="img/math-101.jpg" srcset="img/math-101@2x.jpg 2x">
+            </div>
+            <div class="drag" style="top:-5rem; left:1rem;"><img src="img/math-101-piece.png" srcset="img/math-101-piece@2x.png 2x"></div>
         </div>
-        <div id="align-bottom" class="heavy"><img src="img/math-101.jpg" srcset="img/math-101@2x.jpg 2x"></div>
+
         <div class="heavy"><img src="img/math-102.jpg" srcset="img/math-102@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/math-102-1.jpg" srcset="img/math-102-1@2x.jpg 2x"></div>
         <div class="heavy"><img src="img/math-102-2.jpg" srcset="img/math-102-2@2x.jpg 2x"></div>
@@ -173,19 +179,19 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         <div class="heavy"><img src="img/math-146.jpg" srcset="img/math-146@2x.jpg 2x"></div>
 
     </section>
-    
+
     <section class="text" style="margin:1rem auto 8rem;">
-        
+
         <h2>
             <span lang="ru">Математика</span>
             <span lang="en">Mathematics</span>
         </h2>
-        
+
         <p>
             <span lang="ru">Содержание</span>
             <span lang="en">Contents</span>
         </p>
-        
+
         <ul lang="ru">
             <li>1 класс &hellip; 1</li>
             <li>Мама &hellip; 50</li>
@@ -193,7 +199,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Папа &hellip; 100</li>
             <li>Сложение и вычитание &hellip; 110</li>
         </ul>
-           
+
         <ul lang="en">
             <li>1st grade &hellip; 1</li>
             <li>Mother &hellip; 50</li>
@@ -201,12 +207,12 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
             <li>Father &hellip; 100</li>
             <li>Addition and subtraction &hellip; 110</li>
         </ul>
-        
+
         <p class="small" style="margin-top:2rem;">
             <span lang="ru">26 января 1993</span>
             <span lang="en">1993, 26th of january</span>
         </p>
-        
+
     </section>
 
     <?php require $docroot.'includes/bottom.php'; ?>

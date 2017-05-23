@@ -2064,6 +2064,33 @@ article section.fullwidth.flex-row {
           justify-content: space-between;
 }
 
+article section.flex {
+  width: 90%;
+  max-width: 1500px;
+  margin-top: 2.5rem;
+}
+
+article section.flex.left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+article section.flex.left div {
+  padding: 1.5rem .4rem;
+}
+
+article section.flex.left div.align-bottom {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
 html {
   background-color: white;
 }

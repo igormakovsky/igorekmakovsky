@@ -55,13 +55,29 @@ article {
             }
         }
         &.fullwidth {
-            width:100%;
-            max-width:1500px;
+            width: 100%;
+            max-width: 1500px;
             &.flex-row {
                 display: flex;
                 flex-direction: row;
                 justify-content: space-between;
             }
         }
+        &.flex {
+            width: 90%;
+            max-width: 1500px;
+            margin-top: 2.5rem;
+            &.left {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                div {
+                    padding: 1.5rem .4rem;
+                    &.align-bottom {
+                        align-self: flex-end;
+                    }
+                }
+            }
+        } 
     }
 }
