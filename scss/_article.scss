@@ -65,7 +65,7 @@ article {
         }
         &.flex {
             width: 90%;
-            max-width: 1500px;
+            max-width: 1550px;
             margin-top: 2.5rem;
             &.left {
                 display: flex;
@@ -73,11 +73,21 @@ article {
                 flex-wrap: wrap;
                 div {
                     padding: 1.5rem .4rem;
+                    @media (min-width: 1350px) {
+                        padding: 1.5rem 0;
+                    }
                     &.align-bottom {
                         align-self: flex-end;
                     }
+                    &.resp {
+                        width:30%;
+                        padding: 1.5rem .5rem;
+                        img {
+                            width:100%;
+                        }
+                    }
                 }
             }
-        } 
+        }
     }
 }

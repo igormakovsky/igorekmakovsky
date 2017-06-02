@@ -6,8 +6,8 @@ $title_ru = 'Путеводитель — 3';
 $title_en = 'Travel Guide — 3';
 $description_ru = 'Путешествия';
 $description_en = 'Journeys';
-$keywords_ru = '';
-$keywords_en = '';
+$keywords_ru = 'цветы, химия, заповедники, заяц бурный, помехи, акробаты';
+$keywords_en = 'flowers, chemical, reserves, rough rabbit, interferences, acrobats';
 
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 

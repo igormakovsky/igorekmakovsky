@@ -2066,7 +2066,7 @@ article section.fullwidth.flex-row {
 
 article section.flex {
   width: 90%;
-  max-width: 1500px;
+  max-width: 1550px;
   margin-top: 2.5rem;
 }
 
@@ -2086,9 +2086,24 @@ article section.flex.left div {
   padding: 1.5rem .4rem;
 }
 
+@media (min-width: 1350px) {
+  article section.flex.left div {
+    padding: 1.5rem 0;
+  }
+}
+
 article section.flex.left div.align-bottom {
   -ms-flex-item-align: end;
       align-self: flex-end;
+}
+
+article section.flex.left div.resp {
+  width: 30%;
+  padding: 1.5rem .5rem;
+}
+
+article section.flex.left div.resp img {
+  width: 100%;
 }
 
 html {

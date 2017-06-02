@@ -43,12 +43,12 @@
                 <span lang="en">Faucets</span>
             </a>
         </li>
-        
-        <li id="" class="notavaible">
 
-            <span lang="ru">Путеводитель — 1</span>
-            <span lang="en">Travel Guide — 1</span>
-
+        <li id="travelguide-1">
+            <a href="/content/travelguide-1/">
+                <span lang="ru">Путеводитель — 1</span>
+                <span lang="en">Travel Guide — 1</span>
+            </a>
         </li>
 
         <li id="panoramic">
@@ -611,13 +611,13 @@
             </a>
         </li>
 
-        <li id="demon" class="notavaible">
-
-            <span lang="ru">Демон</span>
-            <span lang="en">Demon</span>
-
+        <li id="demon">
+            <a href="/content/demon/">
+                <span lang="ru">Демон</span>
+                <span lang="en">Demon</span>
+            </a>
         </li>
-        
+
         <li id="travelguide-2">
             <a href="/content/travelguide-2/">
                 <span lang="ru">Путеводитель — 2</span>
@@ -667,11 +667,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Тропами вдоль Оки</span>
-            <span lang="en">Paths alongside Oka river</span>
-
+        <li id="oka">
+            <a href="/content/oka/">
+                <span lang="ru">Ока</span>
+                <span lang="en">Oka</span>
+            </a>
         </li>
 
         <li id="" class="notavaible">
@@ -875,13 +875,6 @@
                 <span lang="ru">Как все дорого</span>
                 <span lang="en">All is so expensive</span>
             </a>
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">О пьяненьком Вите и тете Наташе</span>
-            <span lang="en">About drunk Vitya and aunt Natasha</span>
-
         </li>
 
         <li id="burda-2">
