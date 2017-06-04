@@ -5,7 +5,7 @@ $color = 'cb5146';
 $title_ru = 'Демон';
 $title_en = 'Demon';
 $description_ru = 'Игорек со своей племянницей по кличке Демон';
-$description_en = 'Igorek with his niece niknamed Demon';
+$description_en = 'Igorek with his niece nicknamed Demon';
 $keywords_ru = 'демон, племянница, театр, таганка';
 $keywords_en = 'demon, niece, theater, taganka';
 
@@ -31,7 +31,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
         <p>
             <span lang="ru">Игорек со своей племянницей по&nbsp;кличке&nbsp;Демон</span>
-            <span lang="en">Igorek with his niece niknamed&nbsp;Demon</span>
+            <span lang="en">Igorek with his niece nicknamed&nbsp;Demon</span>
         </p>
         
         <p class="small">

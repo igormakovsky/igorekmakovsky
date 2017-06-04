@@ -2,8 +2,8 @@
 $id = 'musail-3';
 $parent = 'content';
 $color = '411a6b';
-$title_ru = 'Мусаил — 3';
-$title_en = 'Musail — 3';
+$title_ru = 'Мусаилу хочется сыра';
+$title_en = 'Musail wants some cheese';
 $description_ru = 'Ох, как мне хочется сыра';
 $description_en = 'Oh, I want cheese so much';
 $keywords_ru = 'мусаил, книга, рассказ, кашира, сыр';
@@ -30,8 +30,8 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     <section class="text" style="margin-top:4rem;">
 
         <h2>
-            <span lang="ru">Мусаил — №3</span>
-            <span lang="en">Musail — #3</span>
+            <span lang="ru">Мусаилу хочется сыра</span>
+            <span lang="en">Musail wants some cheese</span>
         </h2>
 
     </section>

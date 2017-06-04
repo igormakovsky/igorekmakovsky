@@ -1,5 +1,5 @@
 <?php
-$id = 'musail-book';
+$id = 'musail-1';
 $parent = 'content';
 $color = '576d74';
 $title_ru = 'Мусаил';

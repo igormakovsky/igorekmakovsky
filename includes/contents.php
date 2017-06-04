@@ -9,10 +9,10 @@
             </a>
         </li>
 
-        <li id="musail-book">
-            <a href="/content/musail-book/">
-                <span lang="ru">Мусаил — 1</span>
-                <span lang="en">Musail — 1</span>
+        <li id="musail-1">
+            <a href="/content/musail-1/">
+                <span lang="ru">Мусаил</span>
+                <span lang="en">Musail</span>
             </a>
         </li>
 
@@ -408,6 +408,13 @@
             </a>
         </li>
 
+        <li id="ten-series">
+            <a href="/content/ten-series/">
+                <span lang="ru">10 серий</span>
+                <span lang="en">10 serials</span>
+            </a>
+        </li>
+
         <li id="color-music">
             <a href="/content/color-music/">
                 <span lang="ru">Партитура для цветомузыки</span>
@@ -438,8 +445,8 @@
 
         <li id="musail-3">
             <a href="/content/musail-3/">
-                <span lang="ru">Мусаил — 3</span>
-                <span lang="en">Musail — 3</span>
+                <span lang="ru">Мусаилу хочется сыра</span>
+                <span lang="en">Musail wants some cheese</span>
             </a>
         </li>
 
@@ -660,6 +667,13 @@
             </a>
         </li>
 
+        <li id="musail-2">
+            <a href="/content/musail-2/">
+                <span lang="ru">Истории Мусаила</span>
+                <span lang="en">Musail stories</span>
+            </a>
+        </li>
+
         <li id="resistors">
             <a href="/content/resistors/">
                 <span lang="ru">Сопротивления</span>
@@ -672,13 +686,6 @@
                 <span lang="ru">Ока</span>
                 <span lang="en">Oka</span>
             </a>
-        </li>
-
-        <li id="" class="notavaible">
-
-            <span lang="ru">Истории о мышке по имени Мусаил</span>
-            <span lang="en">Stories about Musail the mouse</span>
-
         </li>
 
         <li id="star">
@@ -877,6 +884,13 @@
             </a>
         </li>
 
+        <li id="tamara-gennadievna">
+            <a href="/content/tamara-gennadievna/">
+                <span lang="ru">Тамара Геннадиевна</span>
+                <span lang="en">Tamara Gennadievna</span>
+            </a>
+        </li>
+
         <li id="burda-2">
             <a href="/content/burda-2/">
                 <span lang="ru">Бурда Моден — 2</span>
@@ -968,11 +982,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Юрмала</span>
-            <span lang="en">Jurmala</span>
-
+        <li id="jurmala">
+            <a href="/content/jurmala/">
+                <span lang="ru">Юрмала</span>
+                <span lang="en">Jurmala</span>
+            </a>
         </li>
 
         <li id="clock">
@@ -1213,11 +1227,11 @@
             </a>
         </li>
 
-        <li id="" class="notavaible">
-
-            <span lang="ru">Cauldron</span>
-            <span lang="en">Cauldron</span>
-
+        <li id="cauldron">
+            <a href="/content/cauldron/">
+                <span lang="ru">Cauldron</span>
+                <span lang="en">Cauldron</span>
+            </a>
         </li>
 
         <li id="rubin">

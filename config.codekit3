@@ -17594,6 +17594,560 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/cauldron\/img\/cauldron-0.jpg": {
+		"ft": 16384,
+		"iS": 44900,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 153712,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-0@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-1.jpg": {
+		"ft": 16384,
+		"iS": 35438,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-10.jpg": {
+		"ft": 16384,
+		"iS": 43602,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 151185,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-10@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-11.jpg": {
+		"ft": 16384,
+		"iS": 37745,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 136759,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-11@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-12.jpg": {
+		"ft": 16384,
+		"iS": 42232,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 150231,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-12@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-13.jpg": {
+		"ft": 16384,
+		"iS": 37921,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 134434,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-13@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-14.jpg": {
+		"ft": 16384,
+		"iS": 37546,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 135034,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-14@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-15.jpg": {
+		"ft": 16384,
+		"iS": 37234,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 130428,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-15@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-16.jpg": {
+		"ft": 16384,
+		"iS": 42481,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 150672,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-16@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-17.jpg": {
+		"ft": 16384,
+		"iS": 37530,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 133283,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-17@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-18.jpg": {
+		"ft": 16384,
+		"iS": 45633,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-18@2x.jpg": {
+		"ft": 16384,
+		"iS": 154471,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-18@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-19.jpg": {
+		"ft": 16384,
+		"iS": 39290,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-19@2x.jpg": {
+		"ft": 16384,
+		"iS": 136904,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-19@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 124342,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-2.jpg": {
+		"ft": 16384,
+		"iS": 41266,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-20.jpg": {
+		"ft": 16384,
+		"iS": 34217,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-20@2x.jpg": {
+		"ft": 16384,
+		"iS": 124916,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-20@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-21.jpg": {
+		"ft": 16384,
+		"iS": 32655,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-21@2x.jpg": {
+		"ft": 16384,
+		"iS": 119024,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-21@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-22.jpg": {
+		"ft": 16384,
+		"iS": 31887,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-22@2x.jpg": {
+		"ft": 16384,
+		"iS": 118023,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-22@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-23.jpg": {
+		"ft": 16384,
+		"iS": 31318,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-23@2x.jpg": {
+		"ft": 16384,
+		"iS": 116846,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-23@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 143650,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-3.jpg": {
+		"ft": 16384,
+		"iS": 40623,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 143332,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-4.jpg": {
+		"ft": 16384,
+		"iS": 38576,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 137857,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-4@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-5.jpg": {
+		"ft": 16384,
+		"iS": 40276,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 146228,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-5@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-6.jpg": {
+		"ft": 16384,
+		"iS": 41258,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 141444,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-6@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-7.jpg": {
+		"ft": 16384,
+		"iS": 36447,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 129049,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-7@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-8.jpg": {
+		"ft": 16384,
+		"iS": 38647,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 135878,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-8@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-9.jpg": {
+		"ft": 16384,
+		"iS": 41504,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/cauldron-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 142793,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/cauldron-9@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 285963,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/cauldron\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/cauldron\/index.php",
+		"oF": 0
+		},
+	"\/content\/cauldron\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/cauldron\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/cauldron\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/cauldron\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/centrowt\/img\/centrowt.jpg": {
 		"ft": 16384,
 		"iS": 647210,
@@ -33524,6 +34078,160 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/jurmala\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 254454,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-1.jpg": {
+		"ft": 16384,
+		"iS": 140269,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 453862,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-2.jpg": {
+		"ft": 16384,
+		"iS": 437544,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1542864,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-3.jpg": {
+		"ft": 16384,
+		"iS": 479027,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1690441,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-4.jpg": {
+		"ft": 16384,
+		"iS": 69565,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/img\/jurmala-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 246779,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/img\/jurmala-4@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/jurmala\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/jurmala\/index.php",
+		"oF": 0
+		},
+	"\/content\/jurmala\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/jurmala\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/jurmala\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/jurmala\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/kashira\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 141885,
@@ -45680,6 +46388,820 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/musail-1\/img\/drag-1.png": {
+		"ft": 32768,
+		"iS": 194603,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/drag-1@2x.png": {
+		"ft": 32768,
+		"iS": 760036,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-1@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/drag-2.png": {
+		"ft": 32768,
+		"iS": 97170,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/drag-2@2x.png": {
+		"ft": 32768,
+		"iS": 402320,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-2@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/drag-3.png": {
+		"ft": 32768,
+		"iS": 76868,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/drag-3@2x.png": {
+		"ft": 32768,
+		"iS": 266595,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/drag-3@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 208508,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-1.jpg": {
+		"ft": 16384,
+		"iS": 210434,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 726943,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-2.jpg": {
+		"ft": 16384,
+		"iS": 194541,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 624465,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-3.jpg": {
+		"ft": 16384,
+		"iS": 210644,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 684643,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-4.jpg": {
+		"ft": 16384,
+		"iS": 101684,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 359134,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-4@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-5.jpg": {
+		"ft": 16384,
+		"iS": 147152,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 479911,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-5@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-0.jpg": {
+		"ft": 16384,
+		"iS": 307007,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 1153510,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-0@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-1.jpg": {
+		"ft": 16384,
+		"iS": 261567,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-10.jpg": {
+		"ft": 16384,
+		"iS": 570144,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-10@2x.jpg": {
+		"ft": 16384,
+		"iS": 1944810,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-10@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-11.jpg": {
+		"ft": 16384,
+		"iS": 466307,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-11@2x.jpg": {
+		"ft": 16384,
+		"iS": 1627370,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-11@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-12.jpg": {
+		"ft": 16384,
+		"iS": 641342,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-12@2x.jpg": {
+		"ft": 16384,
+		"iS": 2211230,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-12@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-13.jpg": {
+		"ft": 16384,
+		"iS": 664877,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-13@2x.jpg": {
+		"ft": 16384,
+		"iS": 2192230,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-13@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-14.jpg": {
+		"ft": 16384,
+		"iS": 721677,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-14@2x.jpg": {
+		"ft": 16384,
+		"iS": 2196940,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-14@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-15.jpg": {
+		"ft": 16384,
+		"iS": 582328,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-15@2x.jpg": {
+		"ft": 16384,
+		"iS": 1962040,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-15@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-16.jpg": {
+		"ft": 16384,
+		"iS": 560421,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-16@2x.jpg": {
+		"ft": 16384,
+		"iS": 1872430,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-16@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-17.jpg": {
+		"ft": 16384,
+		"iS": 616948,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-17@2x.jpg": {
+		"ft": 16384,
+		"iS": 2014700,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-17@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-18.jpg": {
+		"ft": 16384,
+		"iS": 452339,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-18@2x.jpg": {
+		"ft": 16384,
+		"iS": 1639850,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-18@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-19.jpg": {
+		"ft": 16384,
+		"iS": 505904,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-19@2x.jpg": {
+		"ft": 16384,
+		"iS": 1888060,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-19@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1101030,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-2.jpg": {
+		"ft": 16384,
+		"iS": 564288,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-20.jpg": {
+		"ft": 16384,
+		"iS": 303357,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-20@2x.jpg": {
+		"ft": 16384,
+		"iS": 1084690,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-20@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 2030420,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-3.jpg": {
+		"ft": 16384,
+		"iS": 589529,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1958760,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-4.jpg": {
+		"ft": 16384,
+		"iS": 639389,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-4@2x.jpg": {
+		"ft": 16384,
+		"iS": 2058800,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-4@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-5.jpg": {
+		"ft": 16384,
+		"iS": 587829,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-5@2x.jpg": {
+		"ft": 16384,
+		"iS": 1946420,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-5@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-6.jpg": {
+		"ft": 16384,
+		"iS": 763789,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-6@2x.jpg": {
+		"ft": 16384,
+		"iS": 2437010,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-6@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-7.jpg": {
+		"ft": 16384,
+		"iS": 570967,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-7@2x.jpg": {
+		"ft": 16384,
+		"iS": 1920800,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-7@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-8.jpg": {
+		"ft": 16384,
+		"iS": 531536,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-8@2x.jpg": {
+		"ft": 16384,
+		"iS": 1758570,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-8@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-9.jpg": {
+		"ft": 16384,
+		"iS": 681520,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/img\/musail-book-9@2x.jpg": {
+		"ft": 16384,
+		"iS": 2315790,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/img\/musail-book-9@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-1\/index.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/musail-1\/index.php",
+		"oF": 0
+		},
+	"\/content\/musail-1\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/musail-1\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-1\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/musail-1\/css\/custom.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/musail-2\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 277077,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-0.jpg": {
+		"ft": 16384,
+		"iS": 557243,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-0@2x.jpg": {
+		"ft": 16384,
+		"iS": 1871979,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-0@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-1.jpg": {
+		"ft": 16384,
+		"iS": 759804,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 2697990,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-2.jpg": {
+		"ft": 16384,
+		"iS": 423577,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 1522029,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-3.jpg": {
+		"ft": 16384,
+		"iS": 423577,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/img\/musail-second-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 1522029,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/img\/musail-second-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/musail-2\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-2\/index.php",
+		"oF": 0
+		},
+	"\/content\/musail-2\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/musail-2\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/musail-2\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/musail-2\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/musail-3\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 106194,
@@ -45850,666 +47372,6 @@
 		"ma": 1,
 		"oA": 0,
 		"oAP": "\/content\/musail-3\/css\/custom.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/content\/musail-book\/img\/drag-1.png": {
-		"ft": 32768,
-		"iS": 194603,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/drag-1@2x.png": {
-		"ft": 32768,
-		"iS": 760036,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-1@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/drag-2.png": {
-		"ft": 32768,
-		"iS": 97170,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/drag-2@2x.png": {
-		"ft": 32768,
-		"iS": 402320,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-2@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/drag-3.png": {
-		"ft": 32768,
-		"iS": 76868,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/drag-3@2x.png": {
-		"ft": 32768,
-		"iS": 266595,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/drag-3@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/index.jpg": {
-		"ft": 16384,
-		"iS": 208508,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/index.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-1.jpg": {
-		"ft": 16384,
-		"iS": 210434,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-1@2x.jpg": {
-		"ft": 16384,
-		"iS": 726943,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-1@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-2.jpg": {
-		"ft": 16384,
-		"iS": 194541,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-2@2x.jpg": {
-		"ft": 16384,
-		"iS": 624465,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-2@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-3.jpg": {
-		"ft": 16384,
-		"iS": 210644,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-3@2x.jpg": {
-		"ft": 16384,
-		"iS": 684643,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-3@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-4.jpg": {
-		"ft": 16384,
-		"iS": 101684,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-4@2x.jpg": {
-		"ft": 16384,
-		"iS": 359134,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-4@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-5.jpg": {
-		"ft": 16384,
-		"iS": 147152,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-5@2x.jpg": {
-		"ft": 16384,
-		"iS": 479911,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-5@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-0.jpg": {
-		"ft": 16384,
-		"iS": 307007,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-0@2x.jpg": {
-		"ft": 16384,
-		"iS": 1153510,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-0@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-1.jpg": {
-		"ft": 16384,
-		"iS": 261567,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-10.jpg": {
-		"ft": 16384,
-		"iS": 570144,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-10@2x.jpg": {
-		"ft": 16384,
-		"iS": 1944810,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-10@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-11.jpg": {
-		"ft": 16384,
-		"iS": 466307,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-11@2x.jpg": {
-		"ft": 16384,
-		"iS": 1627370,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-11@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-12.jpg": {
-		"ft": 16384,
-		"iS": 641342,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-12@2x.jpg": {
-		"ft": 16384,
-		"iS": 2211230,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-12@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-13.jpg": {
-		"ft": 16384,
-		"iS": 664877,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-13@2x.jpg": {
-		"ft": 16384,
-		"iS": 2192230,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-13@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-14.jpg": {
-		"ft": 16384,
-		"iS": 721677,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-14@2x.jpg": {
-		"ft": 16384,
-		"iS": 2196940,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-14@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-15.jpg": {
-		"ft": 16384,
-		"iS": 582328,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-15.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-15@2x.jpg": {
-		"ft": 16384,
-		"iS": 1962040,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-15@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-16.jpg": {
-		"ft": 16384,
-		"iS": 560421,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-16.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-16@2x.jpg": {
-		"ft": 16384,
-		"iS": 1872430,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-16@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-17.jpg": {
-		"ft": 16384,
-		"iS": 616948,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-17@2x.jpg": {
-		"ft": 16384,
-		"iS": 2014700,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-17@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-18.jpg": {
-		"ft": 16384,
-		"iS": 452339,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-18.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-18@2x.jpg": {
-		"ft": 16384,
-		"iS": 1639850,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-18@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-19.jpg": {
-		"ft": 16384,
-		"iS": 505904,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-19.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-19@2x.jpg": {
-		"ft": 16384,
-		"iS": 1888060,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-19@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-1@2x.jpg": {
-		"ft": 16384,
-		"iS": 1101030,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-1@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-2.jpg": {
-		"ft": 16384,
-		"iS": 564288,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-20.jpg": {
-		"ft": 16384,
-		"iS": 303357,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-20.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-20@2x.jpg": {
-		"ft": 16384,
-		"iS": 1084690,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-20@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-2@2x.jpg": {
-		"ft": 16384,
-		"iS": 2030420,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-2@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-3.jpg": {
-		"ft": 16384,
-		"iS": 589529,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-3@2x.jpg": {
-		"ft": 16384,
-		"iS": 1958760,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-3@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-4.jpg": {
-		"ft": 16384,
-		"iS": 639389,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-4@2x.jpg": {
-		"ft": 16384,
-		"iS": 2058800,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-4@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-5.jpg": {
-		"ft": 16384,
-		"iS": 587829,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-5@2x.jpg": {
-		"ft": 16384,
-		"iS": 1946420,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-5@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-6.jpg": {
-		"ft": 16384,
-		"iS": 763789,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-6@2x.jpg": {
-		"ft": 16384,
-		"iS": 2437010,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-6@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-7.jpg": {
-		"ft": 16384,
-		"iS": 570967,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-7@2x.jpg": {
-		"ft": 16384,
-		"iS": 1920800,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-7@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-8.jpg": {
-		"ft": 16384,
-		"iS": 531536,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-8@2x.jpg": {
-		"ft": 16384,
-		"iS": 1758570,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-8@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-9.jpg": {
-		"ft": 16384,
-		"iS": 681520,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/img\/musail-book-9@2x.jpg": {
-		"ft": 16384,
-		"iS": 2315790,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/img\/musail-book-9@2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/musail-book\/index.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/content\/musail-book\/index.php",
-		"oF": 0
-		},
-	"\/content\/musail-book\/js\/custom.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/js\/min\/custom-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/content\/musail-book\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
-		"oF": 0
-		},
-	"\/content\/musail-book\/scss\/custom.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/content\/musail-book\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -62568,6 +63430,140 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/content\/tamara-gennadievna\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 251083,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-1.jpg": {
+		"ft": 16384,
+		"iS": 223926,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 794181,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-2.jpg": {
+		"ft": 16384,
+		"iS": 705669,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 2487913,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-3.jpg": {
+		"ft": 16384,
+		"iS": 271464,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/img\/tamara-gennadievna-3@2x.jpg": {
+		"ft": 16384,
+		"iS": 943854,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/img\/tamara-gennadievna-3@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/tamara-gennadievna\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/tamara-gennadievna\/index.php",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/tamara-gennadievna\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/tamara-gennadievna\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/tamara-gennadievna\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/content\/telegraph\/img\/index.jpg": {
 		"ft": 16384,
 		"iS": 133464,
@@ -62660,6 +63656,120 @@
 		"oAP": "\/content\/telegraph\/css\/custom.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/content\/ten-series\/img\/index.jpg": {
+		"ft": 16384,
+		"iS": 250860,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/img\/index.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/ten-series\/img\/ten-series-1.jpg": {
+		"ft": 16384,
+		"iS": 398292,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/img\/ten-series-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/ten-series\/img\/ten-series-1@2x.jpg": {
+		"ft": 16384,
+		"iS": 1478969,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/img\/ten-series-1@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/ten-series\/img\/ten-series-2.jpg": {
+		"ft": 16384,
+		"iS": 559875,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/img\/ten-series-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/ten-series\/img\/ten-series-2@2x.jpg": {
+		"ft": 16384,
+		"iS": 2033037,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/img\/ten-series-2@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/ten-series\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/ten-series\/index.php",
+		"oF": 0
+		},
+	"\/content\/ten-series\/js\/custom.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/js\/min\/custom-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/130400c8d35ae32cf1ccacbf23edc8ecd9e49665\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/224d4688f623a4773f50d7f1073188d084ec7ab2\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/364ced1777c7297150a8b8955ddb5d37865901fa\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/5a86c59aaee8d50e09b080f92b5b04dcc049bec0\/custom.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/7ed60d9f0b4a346209016a773bbf7c2ba9f8c1d8\/igorek.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/content\/ten-series\/scss\/.sass-cache\/8a29a8083712c1ed56cdd9f649f32126b09bc0fc\/_retinajs.scssc",
+		"oF": 0
+		},
+	"\/content\/ten-series\/scss\/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/content\/ten-series\/css\/custom.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/content\/territory\/img\/drag-0.png": {
