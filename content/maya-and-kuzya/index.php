@@ -12,7 +12,7 @@ $keywords_en = 'maya, bee, kuzya, cat, tale, story, dacha, adventures';
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
 
     <section style="margin-top:8rem;">
-
+       
         <div class="center">
             <img src="img/maya-and-kuzya.jpg" srcset="img/maya-and-kuzya@2x.jpg 2x">
         </div>
@@ -20,6 +20,24 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
     </section>
 
     <section class="text" style="margin:6rem auto 10rem;">
+
+        <div class="drag" style="left:6rem; top:27rem;">
+            <figure class="rot-15">
+                <img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x">
+            </figure>
+        </div>
+           
+        <div class="drag" style="right:0rem; top:51rem;">
+            <figure class="rot10">
+                <img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x">
+            </figure>
+        </div>
+        
+        <div class="drag" style="left:-10rem; bottom:15rem;">
+            <figure class="rot5">
+                <img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x">
+            </figure>
+        </div>
 
         <h2>
             <span lang="ru">Майя и Кузя уезжают</span>
