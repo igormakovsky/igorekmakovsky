@@ -38,7 +38,7 @@ if (ru()) {
     $description = $description_ru;
     $keywords = 'игорёк, маковский, игорек, детство, старый гай, '.$keywords_ru;
     $author = 'Игорёк Маковский';
-    $switch = 'igorekmakovsky.com'.$dev.$deldomain;
+    $switch = 'igorekmakovsky.com'.$test.$deldomain;
     $lang = 'ru';
     $tomainpage = '←';
     $settolang = 'in english';
@@ -56,7 +56,7 @@ else {
     $description = $description_en;
     $keywords = 'igorek, makovsky, childhood, staryi gay, '.$keywords_en;
     $author = 'Igorek Makovsky';
-    $switch = 'igorekmakovsky.ru'.$dev.$deldomain;
+    $switch = 'igorekmakovsky.ru'.$test.$deldomain;
     $tomainpage = '←';
     $lang = 'en-US';
     $settolang = 'по-русски';
