@@ -241,8 +241,40 @@ require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';?>
         </ol>
 
     </section>
+    
+    <section style="height:260rem;">
+        
+        <div class="drag" style="left:5rem; top:1rem;"><img src="img/drag-1.png" srcset="img/drag-1@2x.png 2x"></div>
+        <div class="drag" style="left:15rem; top:-9rem;"><img src="img/drag-2.png" srcset="img/drag-2@2x.png 2x"></div>
+        <div class="drag" style="right:3rem; top:10rem;"><img src="img/drag-3.png" srcset="img/drag-3@2x.png 2x"></div>
+        <div class="drag" style="right:-7rem; top:18rem;"><img src="img/drag-4.png" srcset="img/drag-4@2x.png 2x"></div>
+        <div class="drag" style="right:10rem; top:27rem;"><img src="img/drag-5.png" srcset="img/drag-5@2x.png 2x"></div>
+        <div class="drag" style="left:10rem; top:35rem;"><img src="img/drag-6.png" srcset="img/drag-6@2x.png 2x"></div>
+        <div class="drag" style="left:-10rem; top:38rem;"><img src="img/drag-7.png" srcset="img/drag-7@2x.png 2x"></div>
+        <div class="drag" style="right:10rem; top:60rem;"><img src="img/drag-8.png" srcset="img/drag-8@2x.png 2x"></div>
+        <div class="drag" style="right:20rem; top:69rem;"><img src="img/drag-9.png" srcset="img/drag-9@2x.png 2x"></div>
+        <div class="drag" style="left:5rem; top:78rem;"><img src="img/drag-10.png" srcset="img/drag-10@2x.png 2x"></div>
+        <div class="drag" style="right:20rem; top:80rem;"><img src="img/drag-11.png" srcset="img/drag-11@2x.png 2x"></div>
+        <div class="drag" style="right:6rem; top:110rem;"><img src="img/drag-12.png" srcset="img/drag-12@2x.png 2x"></div>
+        <div class="drag" style="right:-7rem; top:115rem;"><img src="img/drag-13.png" srcset="img/drag-13@2x.png 2x"></div>
+        <div class="drag" style="left:18rem; top:128rem;"><img src="img/drag-14.png" srcset="img/drag-14@2x.png 2x"></div>
+        <div class="drag" style="left:19rem; top:129rem;"><img src="img/drag-15.png" srcset="img/drag-15@2x.png 2x"></div>
+        <div class="drag" style="right:2rem; top:140rem;"><img src="img/drag-16.png" srcset="img/drag-16@2x.png 2x"></div>
+        <div class="drag" style="right:3rem; top:140.5rem;"><img src="img/drag-17.png" srcset="img/drag-17@2x.png 2x"></div>
+        <div class="drag" style="right:10rem; top:160rem;"><img src="img/drag-18.png" srcset="img/drag-18@2x.png 2x"></div>
+        <div class="drag" style="left:3rem; top:162rem;"><img src="img/drag-19.png" srcset="img/drag-19@2x.png 2x"></div>
+        <div class="drag" style="right:20rem; top:180rem;"><img src="img/drag-20.png" srcset="img/drag-20@2x.png 2x"></div>
+        <div class="drag" style="right:5rem; top:182rem;"><img src="img/drag-21.png" srcset="img/drag-21@2x.png 2x"></div>
+        <div class="drag" style="left:2rem; top:181rem;"><img src="img/drag-22.png" srcset="img/drag-22@2x.png 2x"></div>
+        <div class="drag" style="right:3rem; top:195rem;"><img src="img/drag-23.png" srcset="img/drag-23@2x.png 2x"></div>
+        <div class="drag" style="right:25rem; top:200rem;"><img src="img/drag-24.png" srcset="img/drag-24@2x.png 2x"></div>
+        <div class="drag" style="right:-8rem; top:209rem;"><img src="img/drag-25.png" srcset="img/drag-25@2x.png 2x"></div>
+        <div class="drag" style="left:-3rem; top:210rem;"><img src="img/drag-26.png" srcset="img/drag-26@2x.png 2x"></div>
+        <div class="drag" style="right:23rem; top:240rem;"><img src="img/drag-27.png" srcset="img/drag-27@2x.png 2x"></div>
+        
+    </section>
 
-    <section style="margin-top:8rem;">
+    <section>
 
         <div class="center">
             <img src="img/science-and-life-6.jpg" srcset="img/science-and-life-6@2x.jpg 2x">
