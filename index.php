@@ -10,7 +10,7 @@ $keywords_en = 'list, general, main, contents';
 require $_SERVER['DOCUMENT_ROOT'].'/'.'includes/head.php';
 ?>
 
-<? require $docroot.'includes/contents.php'; ?>
-<? require $docroot.'includes/contents__footer.php'; ?>
+<?php require $docroot.'includes/contents.php'; ?>
+<?php require $docroot.'includes/contents__footer.php'; ?>
 
-<? require $docroot.'includes/bottom.php'; ?>
+<?php require $docroot.'includes/bottom.php'; ?>

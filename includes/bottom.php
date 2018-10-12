@@ -1,7 +1,7 @@
 </article>
 
-<? require $docroot.'includes/scripts.php'; ?>
-<? require $docroot.'includes/yandex.php'; ?>
+<?php require $docroot.'includes/scripts.php'; ?>
+<?php require $docroot.'includes/yandex.php'; ?>
 
 </body>
 </html>

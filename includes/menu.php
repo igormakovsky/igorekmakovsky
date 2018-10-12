@@ -9,7 +9,7 @@
     
     <div class="back-arrow">
         <p>
-                <? if ($id != 'igorekmakovsky'){
+                <?php if ($id != 'igorekmakovsky'){
         echo '<p><a class="no-underline" href="'.$siteroot.'#'.$id.'">'.$tomainpage.'</a></p>';} ?>
         </p>
     </div>

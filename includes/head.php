@@ -1,4 +1,4 @@
-<?
+<?php
 $docroot = $_SERVER['DOCUMENT_ROOT'].'/';
 $test = '.test'; //.test
 require $docroot.'includes/language.php';
@@ -9,7 +9,7 @@ require $docroot.'includes/vars.php';
 <html lang="<?=$lang?>">
 
 <head>
-<?
+<?php
 require $docroot.'includes/top.php'; 
 require $docroot.'includes/meta.php';
 require $docroot.'includes/styles.php';
@@ -18,7 +18,7 @@ require $docroot.'includes/css.php';
 </head>
 
 <body>
-<?
+<?php
 require $docroot.'includes/menu.php';
 ?>
 
