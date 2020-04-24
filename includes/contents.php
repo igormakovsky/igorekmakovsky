@@ -330,6 +330,13 @@
                 <span lang="en">Traffic light</span>
             </a>
         </li>
+        
+        <li id="catdogenglish">
+            <a href="/content/catdogenglish/">
+                <span lang="ru">Собака кошка английский</span>
+                <span lang="en">Cat Dog English</span>
+            </a>
+        </li>
 
         <li id="annual">
             <a href="/content/annual/">

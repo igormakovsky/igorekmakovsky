@@ -6,8 +6,11 @@ function parseUrl ()
 }
 
 function ru() {
-    
+
+    /////////////
     $test = '.test'; //.test
+    /////////////
+
     $host = parseUrl();
 	$host = $host['host'];
     $firstDomain = 'igorekmakovsky.ru'.$test;
